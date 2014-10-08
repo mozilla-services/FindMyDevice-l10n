@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-10-08 17:41+0000\n"
+
+#: app/scripts/templates/device.html:1
+msgid "Menu"
+msgstr "‮Wǝun"
+
+#: app/scripts/templates/device.html:2
+#: app/scripts/templates/device_not_found.html:3
+msgid "Sign out"
+msgstr "‮Sıƃu onʇ"
+
+#: app/scripts/templates/device.html:3
+msgid "Connecting to device..."
+msgstr "‮Ↄouuǝɔʇıuƃ ʇo pǝʌıɔǝ˙˙˙"
+
+#: app/scripts/templates/device.html:4
+msgid "Firefox OS"
+msgstr "‮Ⅎıɹǝɟox OS"
+
+#: app/scripts/templates/device.html:5
+msgid "Ring"
+msgstr "‮ᴚıuƃ"
+
+#: app/scripts/templates/device.html:6
+msgid "Lock"
+msgstr "‮⅂oɔʞ"
+
+#: app/scripts/templates/device.html:7
+#: app/scripts/templates/erase_confirmation.html:4
+msgid "Erase"
+msgstr "‮Ǝɹɐsǝ"
+
+#: app/scripts/templates/device_not_found.html:1
+msgid "Sorry but you don't have any devices."
+msgstr "‮Soɹɹʎ qnʇ ʎon pou,ʇ ɥɐʌǝ ɐuʎ pǝʌıɔǝs˙"
+
+#: app/scripts/templates/device_not_found.html:2
+msgid "Enable Find My Device on your Firefox OS device."
+msgstr "‮Ǝuɐqʅǝ Ⅎıup Wʎ ᗡǝʌıɔǝ ou ʎonɹ Ⅎıɹǝɟox OS pǝʌıɔǝ˙"
+
+#: app/scripts/templates/erase.html:1
+#: app/scripts/templates/lost_mode.html:1
+#: app/scripts/templates/play_sound.html:1
+msgid "Close"
+msgstr "‮Ↄʅosǝ"
+
+#: app/scripts/templates/erase.html:2
+#: app/scripts/templates/erase.html:7
+msgid "Erase Device"
+msgstr "‮Ǝɹɐsǝ ᗡǝʌıɔǝ"
+
+#: app/scripts/templates/erase.html:3
+msgid "Erasing your device will:"
+msgstr "‮Ǝɹɐsıuƃ ʎonɹ pǝʌıɔǝ ʍıʅʅ:"
+
+#: app/scripts/templates/erase.html:4
+msgid "Delete your contacts, media, messages and installed apps"
+msgstr "‮ᗡǝʅǝʇǝ ʎonɹ ɔouʇɐɔʇs´ ɯǝpıɐ´ ɯǝssɐƃǝs ɐup ıusʇɐʅʅǝp ɐdds"
+
+#: app/scripts/templates/erase.html:5
+msgid "Restore the device to its factory settings"
+msgstr "‮ᴚǝsʇoɹǝ ʇɥǝ pǝʌıɔǝ ʇo ıʇs ɟɐɔʇoɹʎ sǝʇʇıuƃs"
+
+#: app/scripts/templates/erase.html:6
+msgid "Disable Find My Device"
+msgstr "‮ᗡısɐqʅǝ Ⅎıup Wʎ ᗡǝʌıɔǝ"
+
+#: app/scripts/templates/erase_confirmation.html:1
+msgid "Confirmation"
+msgstr "‮Ↄouɟıɹɯɐʇıou"
+
+#: app/scripts/templates/erase_confirmation.html:2
+msgid "Are you sure you want to erase your device?"
+msgstr "‮∀ɹǝ ʎon snɹǝ ʎon ʍɐuʇ ʇo ǝɹɐsǝ ʎonɹ pǝʌıɔǝ¿"
+
+#: app/scripts/templates/erase_confirmation.html:3
+msgid "Cancel"
+msgstr "‮Ↄɐuɔǝʅ"
+
+#: app/scripts/templates/lost_mode.html:2
+#: app/scripts/templates/lost_mode.html:7
+#: app/scripts/templates/lost_mode_passcode.html:2
+#: app/scripts/templates/lost_mode_passcode.html:13
+msgid "Lock Device"
+msgstr "‮⅂oɔʞ ᗡǝʌıɔǝ"
+
+#: app/scripts/templates/lost_mode.html:3
+#: app/scripts/templates/lost_mode_passcode.html:3
+msgid "Step 1"
+msgstr "‮Sʇǝd 1"
+
+#: app/scripts/templates/lost_mode.html:4
+#: app/scripts/templates/lost_mode_passcode.html:4
+msgid "Step 2"
+msgstr "‮Sʇǝd 2"
+
+#: app/scripts/templates/lost_mode.html:5
+msgid "Enter a note to show on the device:"
+msgstr "‮Ǝuʇǝɹ ɐ uoʇǝ ʇo sɥoʍ ou ʇɥǝ pǝʌıɔǝ:"
+
+#: app/scripts/templates/lost_mode.html:6
+msgid "Note (optional)"
+msgstr "‮Noʇǝ (odʇıouɐʅ)"
+
+#: app/scripts/templates/lost_mode.html:9
+msgid "Next"
+msgstr "‮Nǝxʇ"
+
+#: app/scripts/templates/lost_mode_passcode.html:1
+msgid "Back"
+msgstr "‮Ԑɐɔʞ"
+
+#: app/scripts/templates/lost_mode_passcode.html:5
+msgid "Enter a passcode to lock your device:"
+msgstr "‮Ǝuʇǝɹ ɐ dɐssɔopǝ ʇo ʅoɔʞ ʎonɹ pǝʌıɔǝ:"
+
+#: app/scripts/templates/lost_mode_passcode.html:6
+#: app/scripts/templates/lost_mode_passcode.html:9
+msgid "Passcode is required."
+msgstr "‮Ԁɐssɔopǝ ıs ɹǝbnıɹǝp˙"
+
+#: app/scripts/templates/lost_mode_passcode.html:7
+#: app/scripts/templates/lost_mode_passcode.html:10
+msgid "Passcode must be 4 digits."
+msgstr "‮Ԁɐssɔopǝ ɯnsʇ qǝ 4‮ pıƃıʇs˙"
+
+#: app/scripts/templates/lost_mode_passcode.html:8
+msgid "Enter passcode again:"
+msgstr "‮Ǝuʇǝɹ dɐssɔopǝ ɐƃɐıu:"
+
+#: app/scripts/templates/lost_mode_passcode.html:11
+msgid "Passcodes must match."
+msgstr "‮Ԁɐssɔopǝs ɯnsʇ ɯɐʇɔɥ˙"
+
+#: app/scripts/templates/lost_mode_passcode.html:12
+msgid "Once your device is locked, you will not be able to change this code again."
+msgstr ""
+"‮Ouɔǝ ʎonɹ pǝʌıɔǝ ıs ʅoɔʞǝp´ ʎon ʍıʅʅ uoʇ qǝ ɐqʅǝ ʇo ɔɥɐuƃǝ ʇɥıs ɔopǝ ɐƃɐıu˙"
+
+#: app/scripts/templates/play_sound.html:2
+#: app/scripts/templates/play_sound.html:4
+msgid "Ring Device"
+msgstr "‮ᴚıuƃ ᗡǝʌıɔǝ"
+
+#: app/scripts/templates/play_sound.html:3
+msgid "Play a sound on your device to help you find it."
+msgstr "‮Ԁʅɐʎ ɐ sonup ou ʎonɹ pǝʌıɔǝ ʇo ɥǝʅd ʎon ɟıup ıʇ˙"
