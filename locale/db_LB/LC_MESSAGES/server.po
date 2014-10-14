@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2014-10-14 03:30+0000\n"
+
+#: templates/index.html:1
+msgid "Firefox OS"
+msgstr "‮Ⅎıɹǝɟox OS"
+
+#: templates/index.html:2
+msgid "Find My Device"
+msgstr "‮Ⅎıup Wʎ ᗡǝʌıɔǝ"
+
+#: templates/index.html:3
+msgid "Locate a lost phone, lock it or even erase it remotely."
+msgstr "‮⅂oɔɐʇǝ ɐ ʅosʇ dɥouǝ´ ʅoɔʞ ıʇ oɹ ǝʌǝu ǝɹɐsǝ ıʇ ɹǝɯoʇǝʅʎ˙"
+
+#: templates/index.html:4
+msgid ""
+"If you’ve lost your Firefox OS smartphone, Find My Device can help you find "
+"it. You can see it on a map, make it play a sound and have it display a "
+"message. You can also lock it for safety or delete your personal info "
+"completely."
+msgstr ""
+"‮Iɟ ʎon’‮ʌǝ ʅosʇ ʎonɹ Ⅎıɹǝɟox OS sɯɐɹʇdɥouǝ´ Ⅎıup Wʎ ᗡǝʌıɔǝ ɔɐu ɥǝʅd ʎon "
+"ɟıup ıʇ˙ ⅄on ɔɐu sǝǝ ıʇ ou ɐ ɯɐd´ ɯɐʞǝ ıʇ dʅɐʎ ɐ sonup ɐup ɥɐʌǝ ıʇ pısdʅɐʎ ɐ "
+"ɯǝssɐƃǝ˙ ⅄on ɔɐu ɐʅso ʅoɔʞ ıʇ ɟoɹ sɐɟǝʇʎ oɹ pǝʅǝʇǝ ʎonɹ dǝɹsouɐʅ ıuɟo "
+"ɔoɯdʅǝʇǝʅʎ˙"
+
+#: templates/index.html:5
+msgid ""
+"To get started, make sure you have a Firefox Account and Find My Device "
+"enabled on your phone."
+msgstr ""
+"‮⊥o ƃǝʇ sʇɐɹʇǝp´ ɯɐʞǝ snɹǝ ʎon ɥɐʌǝ ɐ Ⅎıɹǝɟox ∀ɔɔonuʇ ɐup Ⅎıup Wʎ ᗡǝʌıɔǝ "
+"ǝuɐqʅǝp ou ʎonɹ dɥouǝ˙"
+
+#: templates/index.html:6
+msgid "Sign in"
+msgstr "‮Sıƃu ıu"
+
+#: templates/index.html:7
+msgid "Create a Firefox Account"
+msgstr "‮Ↄɹǝɐʇǝ ɐ Ⅎıɹǝɟox ∀ɔɔonuʇ"
+
+#: templates/index.html:8
+msgid "Track"
+msgstr "‮⊥ɹɐɔʞ"
+
+#: templates/index.html:9
+msgid ""
+"As long as your phone remains on and connected to the Internet, you can see "
+"its location on the map."
+msgstr ""
+"‮∀s ʅouƃ ɐs ʎonɹ dɥouǝ ɹǝɯɐıus ou ɐup ɔouuǝɔʇǝp ʇo ʇɥǝ Iuʇǝɹuǝʇ´ ʎon ɔɐu sǝǝ "
+"ıʇs ʅoɔɐʇıou ou ʇɥǝ ɯɐd˙"
+
+#: templates/index.html:10
+msgid "Ring"
+msgstr "‮ᴚıuƃ"
+
+#: templates/index.html:11
+msgid ""
+"If you see that it’s nearby on the map, you can make the phone ring, even "
+"if the ringer is set to silent."
+msgstr ""
+"‮Iɟ ʎon sǝǝ ʇɥɐʇ ıʇ’‮s uǝɐɹqʎ ou ʇɥǝ ɯɐd´ ʎon ɔɐu ɯɐʞǝ ʇɥǝ dɥouǝ ɹıuƃ´ ǝʌǝu "
+"ıɟ ʇɥǝ ɹıuƃǝɹ ıs sǝʇ ʇo sıʅǝuʇ˙"
+
+#: templates/index.html:12
+msgid "Lock"
+msgstr "‮⅂oɔʞ"
+
+#: templates/index.html:13
+msgid ""
+"To protect your personal info, you can lock your screen and have it display "
+"a message to help someone return it to you."
+msgstr ""
+"‮⊥o dɹoʇǝɔʇ ʎonɹ dǝɹsouɐʅ ıuɟo´ ʎon ɔɐu ʅoɔʞ ʎonɹ sɔɹǝǝu ɐup ɥɐʌǝ ıʇ pısdʅɐʎ "
+"ɐ ɯǝssɐƃǝ ʇo ɥǝʅd soɯǝouǝ ɹǝʇnɹu ıʇ ʇo ʎon˙"
+
+#: templates/index.html:14
+msgid ""
+"If you’re unable to find your phone, you can permanently erase it, but "
+"please note that this can not be undone."
+msgstr ""
+"‮Iɟ ʎon’‮ɹǝ nuɐqʅǝ ʇo ɟıup ʎonɹ dɥouǝ´ ʎon ɔɐu dǝɹɯɐuǝuʇʅʎ ǝɹɐsǝ ıʇ´ qnʇ "
+"dʅǝɐsǝ uoʇǝ ʇɥɐʇ ʇɥıs ɔɐu uoʇ qǝ nupouǝ˙"
+
+#: templates/index.html:16
+msgid "Mozilla"
+msgstr "‮Wozıʅʅɐ"
+
+#: templates/index.html:17
+msgid ""
+"Portions of this content are ©1998–2014 by individual mozilla.org "
+"contributors. Content available under a <a "
+"href=\"/en-US/foundation/licensing/website-content/\">Creative Commons "
+"license</a>."
+msgstr ""
+"‮Ԁoɹʇıous oɟ ʇɥıs ɔouʇǝuʇ ɐɹǝ ©1998–2014‮ qʎ ıupıʌıpnɐʅ ɯozıʅʅɐ˙oɹƃ "
+"ɔouʇɹıqnʇoɹs˙ Ↄouʇǝuʇ ɐʌɐıʅɐqʅǝ nupǝɹ ɐ <a href=\"/en-US/foundation/licensing"
+"/website-content/\">‮Ↄɹǝɐʇıʌǝ Ↄoɯɯous ʅıɔǝusǝ</a>‮˙"
+
+#: templates/index.html:18
+msgid "Contact Us"
+msgstr "‮Ↄouʇɐɔʇ ∩s"
+
+#: templates/index.html:19
+msgid "Partner with Us"
+msgstr "‮Ԁɐɹʇuǝɹ ʍıʇɥ ∩s"
+
+#: templates/index.html:20
+msgid "Donate"
+msgstr "‮ᗡouɐʇǝ"
+
+#: templates/index.html:21
+msgid "Firefox Affiliates"
+msgstr "‮Ⅎıɹǝɟox ∀ɟɟıʅıɐʇǝs"
+
+#: templates/index.html:22
+msgid "Contribute to this page"
+msgstr "‮Ↄouʇɹıqnʇǝ ʇo ʇɥıs dɐƃǝ"
+
+#: templates/index.html:23
+msgid "Privacy"
+msgstr "‮Ԁɹıʌɐɔʎ"
+
+#: templates/index.html:24
+msgid "Legal"
+msgstr "‮⅂ǝƃɐʅ"
+
+#: templates/index.html:25
+msgid "Report Trademark Abuse"
+msgstr "‮ᴚǝdoɹʇ ⊥ɹɐpǝɯɐɹʞ ∀qnsǝ"
+
+#: templates/index.html:26
+msgid "Mozilla:"
+msgstr "‮Wozıʅʅɐ:"
+
+#: templates/index.html:27
+msgid "<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></a>"
+msgstr ""
+"<a href=\"https://twitter.com/mozilla\">‮⊥ʍıʇʇǝɹ<span>‮ (@ɯozıʅʅɐ)</span></a>"
+
+#: templates/index.html:28
+msgid ""
+"<a href=\"https://www.facebook.com/mozilla\">Facebook<span> "
+"(Mozilla)</span></a>"
+msgstr ""
+"<a href=\"https://www.facebook.com/mozilla\">‮Ⅎɐɔǝqooʞ<span>‮ "
+"(Wozıʅʅɐ)</span></a>"
+
+#: templates/index.html:29
+msgid "Firefox:"
+msgstr "‮Ⅎıɹǝɟox:"
+
+#: templates/index.html:30
+msgid "<a href=\"https://twitter.com/firefox\">Twitter<span> (@firefox)</span></a>"
+msgstr ""
+"<a href=\"https://twitter.com/firefox\">‮⊥ʍıʇʇǝɹ<span>‮ (@ɟıɹǝɟox)</span></a>"
+
+#: templates/index.html:31
+msgid ""
+"<a href=\"https://www.facebook.com/Firefox\">Facebook<span> "
+"(Firefox)</span></a>"
+msgstr ""
+"<a href=\"https://www.facebook.com/Firefox\">‮Ⅎɐɔǝqooʞ<span>‮ "
+"(Ⅎıɹǝɟox)</span></a>"
+
+#: templates/index.html:32
+msgid ""
+"<a href=\"https://www.youtube.com/firefoxchannel\">YouTube<span> "
+"(firefoxchannel)</span></a>"
+msgstr ""
+"<a href=\"https://www.youtube.com/firefoxchannel\">‮⅄on⊥nqǝ<span>‮ "
+"(ɟıɹǝɟoxɔɥɐuuǝʅ)</span></a>"
+
+#: templates/index.html:33
+msgid "Other languages:"
+msgstr "‮Oʇɥǝɹ ʅɐuƃnɐƃǝs:"
+
+#: templates/index.html:34
+msgid "Go"
+msgstr "‮⅁o"
