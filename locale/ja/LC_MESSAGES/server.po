@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2014-10-21 17:30-0400\n"
+"Last-Translator: Kohei Yoshino <kohei.yoshino@gmail.com>\n"
+"Language-Team: Japanese\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,15 +14,15 @@ msgstr ""
 
 #: templates/index.html:1
 msgid "Firefox OS"
-msgstr ""
+msgstr "Firefox OS"
 
 #: templates/index.html:2
 msgid "Find My Device"
-msgstr ""
+msgstr "Find My Device"
 
 #: templates/index.html:3
 msgid "Locate a lost phone, lock it or even erase it remotely."
-msgstr ""
+msgstr "紛失した電話機の位置を特定し、遠隔操作でロックやデータの消去を実行できます。"
 
 #: templates/index.html:4
 msgid ""
@@ -31,60 +31,74 @@ msgid ""
 "message. You can also lock it for safety or delete your personal info "
 "completely."
 msgstr ""
+"万が一お使いの Firefox OS スマートフォンを紛失した場合、この Find My Device ツール"
+"を使って探し出すことができます。地図上でその位置を確認し、着信音を鳴らしてメッセージ"
+"を表示することができます。また、安全のために端末をロックししたり、個人情報を完全に消"
+"去したりすることも可能です。"
 
 #: templates/index.html:5
 msgid ""
 "To get started, make sure you have a Firefox Account and Find My Device "
 "enabled on your phone."
 msgstr ""
+"始めるには、まず Firefox Account を作成し、お使いの電話機の Find My Device を有効"
+"にする必要があります。"
 
 #: templates/index.html:6
 msgid "Sign in"
-msgstr ""
+msgstr "ログイン"
 
 #: templates/index.html:7
 msgid "Create a Firefox Account"
-msgstr ""
+msgstr "Firefox Account を作成"
 
 #: templates/index.html:8
 msgid "Track"
-msgstr ""
+msgstr "追跡"
 
 #: templates/index.html:9
 msgid ""
 "As long as your phone remains on and connected to the Internet, you can see "
 "its location on the map."
 msgstr ""
+"電話機の電源が入っていてインターネットに接続されている限り、地図上でその場所を確かめ"
+"ることができます。"
 
 #: templates/index.html:10
 msgid "Ring"
-msgstr ""
+msgstr "着信音"
 
 #: templates/index.html:11
 msgid ""
 "If you see that it’s nearby on the map, you can make the phone ring, even "
 "if the ringer is set to silent."
 msgstr ""
+"地図上で近くにあることが確認できた場合、サイレントモードに設定されていたとしても電話"
+"機の着信音を鳴らすことができます。"
 
 #: templates/index.html:12
 msgid "Lock"
-msgstr ""
+msgstr "ロック"
 
 #: templates/index.html:13
 msgid ""
 "To protect your personal info, you can lock your screen and have it display "
 "a message to help someone return it to you."
 msgstr ""
+"個人情報を守るため、画面をロックした上で、誰かがあなたの元に届けられるようメッセージ"
+"を表示することができます。"
 
 #: templates/index.html:14
 msgid ""
 "If you’re unable to find your phone, you can permanently erase it, but "
 "please note that this can not be undone."
 msgstr ""
+"電話機を見つけられない場合は、端末上のデータを完全に消去することもできますが、この操"
+"作は取り消せないことに十分注意してください。"
 
 #: templates/index.html:16
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: templates/index.html:17
 msgid ""
@@ -93,77 +107,86 @@ msgid ""
 "href=\"/en-US/foundation/licensing/website-content/\">Creative Commons "
 "license</a>."
 msgstr ""
+"©1998–2014 コンテンツの一部は個別の貢献者によって mozilla.org へ提供されたものです"
+"。コンテンツは <a href=\"/ja/foundation/licensing/website-content/\">Creative "
+"Commons license</a> で公開されています。"
 
 #: templates/index.html:18
 msgid "Contact Us"
-msgstr ""
+msgstr "問い合わせ"
 
 #: templates/index.html:19
 msgid "Partner with Us"
-msgstr ""
+msgstr "パートナーシップ"
 
 #: templates/index.html:20
 msgid "Donate"
-msgstr ""
+msgstr "寄付"
 
 #: templates/index.html:21
 msgid "Firefox Affiliates"
-msgstr ""
+msgstr "Firefox Affiliates"
 
 #: templates/index.html:22
 msgid "Contribute to this page"
-msgstr ""
+msgstr "このページへ貢献"
 
 #: templates/index.html:23
 msgid "Privacy"
-msgstr ""
+msgstr "プライバシー"
 
 #: templates/index.html:24
 msgid "Legal"
-msgstr ""
+msgstr "法的通知"
 
 #: templates/index.html:25
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "商標不正使用報告"
 
 #: templates/index.html:26
 msgid "Mozilla:"
-msgstr ""
+msgstr "Mozilla:"
 
 #: templates/index.html:27
 msgid "<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></a>"
-msgstr ""
+msgstr "<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></a>"
 
 #: templates/index.html:28
 msgid ""
 "<a href=\"https://www.facebook.com/mozilla\">Facebook<span> "
 "(Mozilla)</span></a>"
 msgstr ""
+"<a href=\"https://www.facebook.com/mozilla\">Facebook<span> "
+"(Mozilla)</span></a>"
 
 #: templates/index.html:29
 msgid "Firefox:"
-msgstr ""
+msgstr "Firefox:"
 
 #: templates/index.html:30
 msgid "<a href=\"https://twitter.com/firefox\">Twitter<span> (@firefox)</span></a>"
-msgstr ""
+msgstr "<a href=\"https://twitter.com/firefox\">Twitter<span> (@firefox)</span></a>"
 
 #: templates/index.html:31
 msgid ""
 "<a href=\"https://www.facebook.com/Firefox\">Facebook<span> "
 "(Firefox)</span></a>"
 msgstr ""
+"<a href=\"https://www.facebook.com/Firefox\">Facebook<span> "
+"(Firefox)</span></a>"
 
 #: templates/index.html:32
 msgid ""
 "<a href=\"https://www.youtube.com/firefoxchannel\">YouTube<span> "
 "(firefoxchannel)</span></a>"
 msgstr ""
+"<a href=\"https://www.youtube.com/firefoxchannel\">YouTube<span> "
+"(firefoxchannel)</span></a>"
 
 #: templates/index.html:33
 msgid "Other languages:"
-msgstr ""
+msgstr "他の言語:"
 
 #: templates/index.html:34
 msgid "Go"
-msgstr ""
+msgstr "移動"
