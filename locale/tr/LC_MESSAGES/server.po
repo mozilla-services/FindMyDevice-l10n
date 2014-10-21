@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-14 03:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.10.0-rc1\n"
+
+#: templates/index.html:1
+msgid "Firefox OS"
+msgstr ""
+
+#: templates/index.html:2
+msgid "Find My Device"
+msgstr ""
+
+#: templates/index.html:3
+msgid "Locate a lost phone, lock it or even erase it remotely."
+msgstr ""
+
+#: templates/index.html:4
+msgid ""
+"If you’ve lost your Firefox OS smartphone, Find My Device can help you find "
+"it. You can see it on a map, make it play a sound and have it display a "
+"message. You can also lock it for safety or delete your personal info "
+"completely."
+msgstr ""
+
+#: templates/index.html:5
+msgid ""
+"To get started, make sure you have a Firefox Account and Find My Device "
+"enabled on your phone."
+msgstr ""
+
+#: templates/index.html:6
+msgid "Sign in"
+msgstr ""
+
+#: templates/index.html:7
+msgid "Create a Firefox Account"
+msgstr ""
+
+#: templates/index.html:8
+msgid "Track"
+msgstr ""
+
+#: templates/index.html:9
+msgid ""
+"As long as your phone remains on and connected to the Internet, you can see "
+"its location on the map."
+msgstr ""
+
+#: templates/index.html:10
+msgid "Ring"
+msgstr ""
+
+#: templates/index.html:11
+msgid ""
+"If you see that it’s nearby on the map, you can make the phone ring, even "
+"if the ringer is set to silent."
+msgstr ""
+
+#: templates/index.html:12
+msgid "Lock"
+msgstr ""
+
+#: templates/index.html:13
+msgid ""
+"To protect your personal info, you can lock your screen and have it display "
+"a message to help someone return it to you."
+msgstr ""
+
+#: templates/index.html:14
+msgid ""
+"If you’re unable to find your phone, you can permanently erase it, but "
+"please note that this can not be undone."
+msgstr ""
+
+#: templates/index.html:16
+msgid "Mozilla"
+msgstr ""
+
+#: templates/index.html:17
+msgid ""
+"Portions of this content are ©1998–2014 by individual mozilla.org "
+"contributors. Content available under a <a "
+"href=\"/en-US/foundation/licensing/website-content/\">Creative Commons "
+"license</a>."
+msgstr ""
+
+#: templates/index.html:18
+msgid "Contact Us"
+msgstr ""
+
+#: templates/index.html:19
+msgid "Partner with Us"
+msgstr ""
+
+#: templates/index.html:20
+msgid "Donate"
+msgstr ""
+
+#: templates/index.html:21
+msgid "Firefox Affiliates"
+msgstr ""
+
+#: templates/index.html:22
+msgid "Contribute to this page"
+msgstr ""
+
+#: templates/index.html:23
+msgid "Privacy"
+msgstr ""
+
+#: templates/index.html:24
+msgid "Legal"
+msgstr ""
+
+#: templates/index.html:25
+msgid "Report Trademark Abuse"
+msgstr ""
+
+#: templates/index.html:26
+msgid "Mozilla:"
+msgstr ""
+
+#: templates/index.html:27
+msgid "<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></a>"
+msgstr ""
+
+#: templates/index.html:28
+msgid ""
+"<a href=\"https://www.facebook.com/mozilla\">Facebook<span> "
+"(Mozilla)</span></a>"
+msgstr ""
+
+#: templates/index.html:29
+msgid "Firefox:"
+msgstr ""
+
+#: templates/index.html:30
+msgid "<a href=\"https://twitter.com/firefox\">Twitter<span> (@firefox)</span></a>"
+msgstr ""
+
+#: templates/index.html:31
+msgid ""
+"<a href=\"https://www.facebook.com/Firefox\">Facebook<span> "
+"(Firefox)</span></a>"
+msgstr ""
+
+#: templates/index.html:32
+msgid ""
+"<a href=\"https://www.youtube.com/firefoxchannel\">YouTube<span> "
+"(firefoxchannel)</span></a>"
+msgstr ""
+
+#: templates/index.html:33
+msgid "Other languages:"
+msgstr ""
+
+#: templates/index.html:34
+msgid "Go"
+msgstr ""
