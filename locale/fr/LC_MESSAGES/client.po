@@ -3,188 +3,195 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2014-10-21 21:34+0000\n"
+"Last-Translator: Théo <theo.chevalier11@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0-rc1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1413927272.0\n"
 
 #: app/scripts/views/device.js:83
 msgid "Your device is erasing."
-msgstr ""
+msgstr "L’effacement de votre appareil est en cours."
 
 #: app/scripts/views/device.js:85
 msgid "An error occurred while trying to erase your device."
-msgstr ""
+msgstr "Une erreur s’est produite lors de l’effacement de votre appareil."
 
 #: app/scripts/views/device.js:91
 msgid "Your device is locked."
-msgstr ""
+msgstr "Votre appareil est verrouillé."
 
 #: app/scripts/views/device.js:93
 msgid "An error occurred while trying to lock your device."
-msgstr ""
+msgstr "Une erreur s’est produite lors du verrouillage de votre appareil."
 
 #: app/scripts/views/device.js:99
 msgid "Your device is ringing."
-msgstr ""
+msgstr "Votre appareil sonne."
 
 #: app/scripts/views/device.js:101
 msgid "An error occurred while trying to ring your device."
-msgstr ""
+msgstr "Une erreur s’est produite en essayant de faire sonner votre appareil."
 
 #: app/scripts/views/device.js:107
 msgid "An error occurred while trying to locate your device. Trying again..."
 msgstr ""
+"Une erreur s’est produite lors de la localisation de votre appareil. Nouvel "
+"essai…"
 
 #: app/scripts/views/device.js:112
 msgid "Locating device..."
-msgstr ""
+msgstr "Localisation de l’appareil…"
 
 #: app/scripts/templates/device.html:1
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #: app/scripts/templates/device.html:2
 #: app/scripts/templates/device_not_found.html:3
 msgid "Sign out"
-msgstr ""
+msgstr "Se déconnecter"
 
 #: app/scripts/templates/device.html:3
 msgid "Connecting to device..."
-msgstr ""
+msgstr "Connexion à l’appareil…"
 
 #: app/scripts/templates/device.html:4
 msgid "Firefox OS"
-msgstr ""
+msgstr "Firefox OS"
 
 #: app/scripts/templates/device.html:5
 msgid "Ring"
-msgstr ""
+msgstr "Faire sonner"
 
 #: app/scripts/templates/device.html:6
 msgid "Lock"
-msgstr ""
+msgstr "Verrouiller"
 
 #: app/scripts/templates/device.html:7
 #: app/scripts/templates/erase_confirmation.html:4
 msgid "Erase"
-msgstr ""
+msgstr "Effacer"
 
 #: app/scripts/templates/device_not_found.html:1
 msgid "Sorry but you don't have any devices."
-msgstr ""
+msgstr "Désolé, vous ne possédez aucun appareil."
 
 #: app/scripts/templates/device_not_found.html:2
 msgid "Enable Find My Device on your Firefox OS device."
-msgstr ""
+msgstr "Activez Localiser mon appareil sur votre appareil Firefox OS."
 
 #: app/scripts/templates/erase.html:1
 #: app/scripts/templates/lost_mode.html:1
 #: app/scripts/templates/play_sound.html:1
 msgid "Close"
-msgstr ""
+msgstr "Fermer"
 
 #: app/scripts/templates/erase.html:2
 #: app/scripts/templates/erase.html:7
 msgid "Erase Device"
-msgstr ""
+msgstr "Effacer l’appareil"
 
 #: app/scripts/templates/erase.html:3
 msgid "Erasing your device will:"
-msgstr ""
+msgstr "En effaçant votre appareil vous allez&nbsp;:"
 
 #: app/scripts/templates/erase.html:4
 msgid "Delete your contacts, media, messages and installed apps"
-msgstr ""
+msgstr "Supprimer vos contacts, médias, messages et applications installées"
 
 #: app/scripts/templates/erase.html:5
 msgid "Restore the device to its factory settings"
-msgstr ""
+msgstr "Restaurer l’appareil à ses valeurs d’usine"
 
 #: app/scripts/templates/erase.html:6
 msgid "Disable Find My Device"
-msgstr ""
+msgstr "Désactiver Localiser mon appareil"
 
 #: app/scripts/templates/erase_confirmation.html:1
 msgid "Confirmation"
-msgstr ""
+msgstr "Confirmation"
 
 #: app/scripts/templates/erase_confirmation.html:2
 msgid "Are you sure you want to erase your device?"
-msgstr ""
+msgstr "Voulez-vous vraiment effacer votre appareil&nbsp;?"
 
 #: app/scripts/templates/erase_confirmation.html:3
 msgid "Cancel"
-msgstr ""
+msgstr "Annuler"
 
 #: app/scripts/templates/lost_mode.html:2
 #: app/scripts/templates/lost_mode.html:7
 #: app/scripts/templates/lost_mode_passcode.html:2
 #: app/scripts/templates/lost_mode_passcode.html:13
 msgid "Lock Device"
-msgstr ""
+msgstr "Verrouiller l’appareil"
 
 #: app/scripts/templates/lost_mode.html:3
 #: app/scripts/templates/lost_mode_passcode.html:3
 msgid "Step 1"
-msgstr ""
+msgstr "Étape 1"
 
 #: app/scripts/templates/lost_mode.html:4
 #: app/scripts/templates/lost_mode_passcode.html:4
 msgid "Step 2"
-msgstr ""
+msgstr "Étape 2"
 
 #: app/scripts/templates/lost_mode.html:5
 msgid "Enter a note to show on the device:"
-msgstr ""
+msgstr "Saisissez une note à afficher sur votre appareil&nbsp;:"
 
 #: app/scripts/templates/lost_mode.html:6
 msgid "Note (optional)"
-msgstr ""
+msgstr "Note (facultatif)"
 
 #: app/scripts/templates/lost_mode.html:9
 msgid "Next"
-msgstr ""
+msgstr "Suivant"
 
 #: app/scripts/templates/lost_mode_passcode.html:1
 msgid "Back"
-msgstr ""
+msgstr "Retour"
 
 #: app/scripts/templates/lost_mode_passcode.html:5
 msgid "Enter a passcode to lock your device:"
-msgstr ""
+msgstr "Saisissez un code d’accès pour verrouiller votre appareil&nbsp;:"
 
 #: app/scripts/templates/lost_mode_passcode.html:6
 #: app/scripts/templates/lost_mode_passcode.html:9
 msgid "Passcode is required."
-msgstr ""
+msgstr "Un code d’accès est nécessaire."
 
 #: app/scripts/templates/lost_mode_passcode.html:7
 #: app/scripts/templates/lost_mode_passcode.html:10
 msgid "Passcode must be 4 digits."
-msgstr ""
+msgstr "Le code d’accès doit comprendre 4 chiffres."
 
 #: app/scripts/templates/lost_mode_passcode.html:8
 msgid "Enter passcode again:"
-msgstr ""
+msgstr "Saisissez le code d’accès à nouveau&nbsp;:"
 
 #: app/scripts/templates/lost_mode_passcode.html:11
 msgid "Passcodes must match."
-msgstr ""
+msgstr "Les codes d’accès doivent correspondre."
 
 #: app/scripts/templates/lost_mode_passcode.html:12
 msgid "Once your device is locked, you will not be able to change this code again."
 msgstr ""
+"Une fois l’appareil verrouillé, vous ne pourrez plus modifier ce code à "
+"nouveau."
 
 #: app/scripts/templates/play_sound.html:2
 #: app/scripts/templates/play_sound.html:4
 msgid "Ring Device"
-msgstr ""
+msgstr "Faire sonner l’appareil"
 
 #: app/scripts/templates/play_sound.html:3
 msgid "Play a sound on your device to help you find it."
 msgstr ""
+"Déclencher une sonnerie sur l’appareil pour le retrouver plus facilement."

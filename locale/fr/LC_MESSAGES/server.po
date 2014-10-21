@@ -3,26 +3,29 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2014-10-21 21:36+0000\n"
+"Last-Translator: Théo <theo.chevalier11@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0-rc1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1413927395.0\n"
 
 #: templates/index.html:1
 msgid "Firefox OS"
-msgstr ""
+msgstr "Firefox OS"
 
 #: templates/index.html:2
 msgid "Find My Device"
-msgstr ""
+msgstr "Localiser mon appareil"
 
 #: templates/index.html:3
 msgid "Locate a lost phone, lock it or even erase it remotely."
 msgstr ""
+"Localisez un téléphone perdu, verrouillez-le, ou bien effacez-le à distance."
 
 #: templates/index.html:4
 msgid ""
@@ -31,60 +34,74 @@ msgid ""
 "message. You can also lock it for safety or delete your personal info "
 "completely."
 msgstr ""
+"Si vous avez perdu un téléphone Firefox OS, Localiser mon appareil peut vous "
+"aider à le retrouver. Vous pouvez le visualiser sur la carte, déclencher "
+"une sonnerie et lui faire afficher un message. Vous pouvez également le "
+"verrouiller par sécurité ou supprimer toute information personnelle."
 
 #: templates/index.html:5
 msgid ""
 "To get started, make sure you have a Firefox Account and Find My Device "
 "enabled on your phone."
 msgstr ""
+"Assurez-vous d’abord de posséder un compte Firefox et d’avoir activé "
+"Localiser mon appareil sur votre téléphone."
 
 #: templates/index.html:6
 msgid "Sign in"
-msgstr ""
+msgstr "Se connecter"
 
 #: templates/index.html:7
 msgid "Create a Firefox Account"
-msgstr ""
+msgstr "Créer un compte Firefox"
 
 #: templates/index.html:8
 msgid "Track"
-msgstr ""
+msgstr "Pister"
 
 #: templates/index.html:9
 msgid ""
 "As long as your phone remains on and connected to the Internet, you can see "
 "its location on the map."
 msgstr ""
+"Tant que votre téléphone reste allumé et connecté à Internet, vous pouvez "
+"visualiser sa position sur la carte."
 
 #: templates/index.html:10
 msgid "Ring"
-msgstr ""
+msgstr "Faire sonner"
 
 #: templates/index.html:11
 msgid ""
 "If you see that it’s nearby on the map, you can make the phone ring, even "
 "if the ringer is set to silent."
 msgstr ""
+"Si vous constatez qu’il se trouve à proximité sur la carte, vous pouvez "
+"faire sonner le téléphone, même si la sonnerie est désactivée."
 
 #: templates/index.html:12
 msgid "Lock"
-msgstr ""
+msgstr "Verrouiller"
 
 #: templates/index.html:13
 msgid ""
 "To protect your personal info, you can lock your screen and have it display "
 "a message to help someone return it to you."
 msgstr ""
+"Afin de protéger vos données personnelles, vous pouvez verrouiller votre "
+"écran et y afficher un message pour que quelqu’un puisse vous le rendre."
 
 #: templates/index.html:14
 msgid ""
 "If you’re unable to find your phone, you can permanently erase it, but "
 "please note that this can not be undone."
 msgstr ""
+"Si vous ne parvenez pas à localiser votre téléphone, vous pouvez l’effacer "
+"de façon définitive. Mais attention, cette action est irréversible."
 
 #: templates/index.html:16
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: templates/index.html:17
 msgid ""
@@ -93,77 +110,88 @@ msgid ""
 "href=\"/en-US/foundation/licensing/website-content/\">Creative Commons "
 "license</a>."
 msgstr ""
+"Certaines parties de ce contenu sont ©1998–2014 par les contributeurs "
+"individuels de mozilla.org. Le contenu est disponible sous <a href=\"/en-"
+"US/foundation/licensing/website-content/\">licence Creative Commons</a>."
 
 #: templates/index.html:18
 msgid "Contact Us"
-msgstr ""
+msgstr "Contactez-nous"
 
 #: templates/index.html:19
 msgid "Partner with Us"
-msgstr ""
+msgstr "Partenariats"
 
 #: templates/index.html:20
 msgid "Donate"
-msgstr ""
+msgstr "Faire un don"
 
 #: templates/index.html:21
 msgid "Firefox Affiliates"
-msgstr ""
+msgstr "Affiliés Firefox"
 
 #: templates/index.html:22
 msgid "Contribute to this page"
-msgstr ""
+msgstr "Contribuer à cette page"
 
 #: templates/index.html:23
 msgid "Privacy"
-msgstr ""
+msgstr "Vie privée"
 
 #: templates/index.html:24
 msgid "Legal"
-msgstr ""
+msgstr "Mentions légales"
 
 #: templates/index.html:25
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "Signaler un abus de marque déposée"
 
 #: templates/index.html:26
 msgid "Mozilla:"
-msgstr ""
+msgstr "Mozilla&nbsp;:"
 
 #: templates/index.html:27
 msgid "<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></a>"
 msgstr ""
+"<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></a>"
 
 #: templates/index.html:28
 msgid ""
 "<a href=\"https://www.facebook.com/mozilla\">Facebook<span> "
 "(Mozilla)</span></a>"
 msgstr ""
+"<a href=\"https://www.facebook.com/mozilla\">Facebook<span> "
+"(Mozilla)</span></a>"
 
 #: templates/index.html:29
 msgid "Firefox:"
-msgstr ""
+msgstr "Firefox&nbsp;:"
 
 #: templates/index.html:30
 msgid "<a href=\"https://twitter.com/firefox\">Twitter<span> (@firefox)</span></a>"
 msgstr ""
+"<a href=\"https://twitter.com/firefox\">Twitter<span> (@firefox)</span></a>"
 
 #: templates/index.html:31
 msgid ""
 "<a href=\"https://www.facebook.com/Firefox\">Facebook<span> "
 "(Firefox)</span></a>"
 msgstr ""
+"<a href=\"https://www.facebook.com/Firefox\">Facebook<span> "
+"(Firefox)</span></a>"
 
 #: templates/index.html:32
 msgid ""
 "<a href=\"https://www.youtube.com/firefoxchannel\">YouTube<span> "
 "(firefoxchannel)</span></a>"
 msgstr ""
+"<a href=\"https://www.youtube.com/firefoxchannel\">YouTube<span> "
+"(firefoxchannel)</span></a>"
 
 #: templates/index.html:33
 msgid "Other languages:"
-msgstr ""
+msgstr "Autres langues&nbsp;:"
 
 #: templates/index.html:34
 msgid "Go"
-msgstr ""
+msgstr "Envoyer"
