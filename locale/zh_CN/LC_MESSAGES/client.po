@@ -3,188 +3,190 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2014-10-21 21:31+0000\n"
+"Last-Translator: yfdyh000 <yfdyh000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0-rc1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1413927073.0\n"
 
 #: app/scripts/views/device.js:83
 msgid "Your device is erasing."
-msgstr ""
+msgstr "您的设备正在擦除。"
 
 #: app/scripts/views/device.js:85
 msgid "An error occurred while trying to erase your device."
-msgstr ""
+msgstr "尝试擦除您的设备时出错。"
 
 #: app/scripts/views/device.js:91
 msgid "Your device is locked."
-msgstr ""
+msgstr "您的设备已锁定。"
 
 #: app/scripts/views/device.js:93
 msgid "An error occurred while trying to lock your device."
-msgstr ""
+msgstr "尝试锁定您的设备时出错。"
 
 #: app/scripts/views/device.js:99
 msgid "Your device is ringing."
-msgstr ""
+msgstr "您的设备正在振铃。"
 
 #: app/scripts/views/device.js:101
 msgid "An error occurred while trying to ring your device."
-msgstr ""
+msgstr "尝试振铃您的设备时出错。"
 
 #: app/scripts/views/device.js:107
 msgid "An error occurred while trying to locate your device. Trying again..."
-msgstr ""
+msgstr "尝试定位您的设备时出错。请重试..."
 
 #: app/scripts/views/device.js:112
 msgid "Locating device..."
-msgstr ""
+msgstr "正在定位设备..."
 
 #: app/scripts/templates/device.html:1
 msgid "Menu"
-msgstr ""
+msgstr "菜单"
 
 #: app/scripts/templates/device.html:2
 #: app/scripts/templates/device_not_found.html:3
 msgid "Sign out"
-msgstr ""
+msgstr "退出"
 
 #: app/scripts/templates/device.html:3
 msgid "Connecting to device..."
-msgstr ""
+msgstr "正在连接设备..."
 
 #: app/scripts/templates/device.html:4
 msgid "Firefox OS"
-msgstr ""
+msgstr "Firefox OS"
 
 #: app/scripts/templates/device.html:5
 msgid "Ring"
-msgstr ""
+msgstr "振铃"
 
 #: app/scripts/templates/device.html:6
 msgid "Lock"
-msgstr ""
+msgstr "锁定"
 
 #: app/scripts/templates/device.html:7
 #: app/scripts/templates/erase_confirmation.html:4
 msgid "Erase"
-msgstr ""
+msgstr "擦除"
 
 #: app/scripts/templates/device_not_found.html:1
 msgid "Sorry but you don't have any devices."
-msgstr ""
+msgstr "抱歉，但您未拥有任何设备。"
 
 #: app/scripts/templates/device_not_found.html:2
 msgid "Enable Find My Device on your Firefox OS device."
-msgstr ""
+msgstr "在您的 Firefox OS 设备上启用“查找我的设备”。"
 
 #: app/scripts/templates/erase.html:1
 #: app/scripts/templates/lost_mode.html:1
 #: app/scripts/templates/play_sound.html:1
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 #: app/scripts/templates/erase.html:2
 #: app/scripts/templates/erase.html:7
 msgid "Erase Device"
-msgstr ""
+msgstr "擦除设备"
 
 #: app/scripts/templates/erase.html:3
 msgid "Erasing your device will:"
-msgstr ""
+msgstr "擦除您的设备将："
 
 #: app/scripts/templates/erase.html:4
 msgid "Delete your contacts, media, messages and installed apps"
-msgstr ""
+msgstr "删除您的联系人、媒体、消息和已安装的应用"
 
 #: app/scripts/templates/erase.html:5
 msgid "Restore the device to its factory settings"
-msgstr ""
+msgstr "恢复设备到出厂设置"
 
 #: app/scripts/templates/erase.html:6
 msgid "Disable Find My Device"
-msgstr ""
+msgstr "禁用“查找我的设备”"
 
 #: app/scripts/templates/erase_confirmation.html:1
 msgid "Confirmation"
-msgstr ""
+msgstr "确认"
 
 #: app/scripts/templates/erase_confirmation.html:2
 msgid "Are you sure you want to erase your device?"
-msgstr ""
+msgstr "您确定要擦除您的设备吗？"
 
 #: app/scripts/templates/erase_confirmation.html:3
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: app/scripts/templates/lost_mode.html:2
 #: app/scripts/templates/lost_mode.html:7
 #: app/scripts/templates/lost_mode_passcode.html:2
 #: app/scripts/templates/lost_mode_passcode.html:13
 msgid "Lock Device"
-msgstr ""
+msgstr "锁定设备"
 
 #: app/scripts/templates/lost_mode.html:3
 #: app/scripts/templates/lost_mode_passcode.html:3
 msgid "Step 1"
-msgstr ""
+msgstr "步骤 1"
 
 #: app/scripts/templates/lost_mode.html:4
 #: app/scripts/templates/lost_mode_passcode.html:4
 msgid "Step 2"
-msgstr ""
+msgstr "步骤 2"
 
 #: app/scripts/templates/lost_mode.html:5
 msgid "Enter a note to show on the device:"
-msgstr ""
+msgstr "请输入一个显示在设备上的留言："
 
 #: app/scripts/templates/lost_mode.html:6
 msgid "Note (optional)"
-msgstr ""
+msgstr "留言（可选）"
 
 #: app/scripts/templates/lost_mode.html:9
 msgid "Next"
-msgstr ""
+msgstr "下一步"
 
 #: app/scripts/templates/lost_mode_passcode.html:1
 msgid "Back"
-msgstr ""
+msgstr "上一步"
 
 #: app/scripts/templates/lost_mode_passcode.html:5
 msgid "Enter a passcode to lock your device:"
-msgstr ""
+msgstr "请输入密码以锁定您的设备："
 
 #: app/scripts/templates/lost_mode_passcode.html:6
 #: app/scripts/templates/lost_mode_passcode.html:9
 msgid "Passcode is required."
-msgstr ""
+msgstr "需要密码。"
 
 #: app/scripts/templates/lost_mode_passcode.html:7
 #: app/scripts/templates/lost_mode_passcode.html:10
 msgid "Passcode must be 4 digits."
-msgstr ""
+msgstr "密码必须是四位数字。"
 
 #: app/scripts/templates/lost_mode_passcode.html:8
 msgid "Enter passcode again:"
-msgstr ""
+msgstr "请再次输入密码："
 
 #: app/scripts/templates/lost_mode_passcode.html:11
 msgid "Passcodes must match."
-msgstr ""
+msgstr "密码必须相符。"
 
 #: app/scripts/templates/lost_mode_passcode.html:12
 msgid "Once your device is locked, you will not be able to change this code again."
-msgstr ""
+msgstr "一旦您的设备被锁定，您将不能再更改此代码。"
 
 #: app/scripts/templates/play_sound.html:2
 #: app/scripts/templates/play_sound.html:4
 msgid "Ring Device"
-msgstr ""
+msgstr "设备振铃"
 
 #: app/scripts/templates/play_sound.html:3
 msgid "Play a sound on your device to help you find it."
-msgstr ""
+msgstr "在您的设备上播放声音以帮助您找到它。"
