@@ -3,26 +3,28 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2014-10-22 06:19+0000\n"
+"Last-Translator: Peter <petercpg@mail.moztw.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0-rc1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1413958760.0\n"
 
 #: templates/index.html:1
 msgid "Firefox OS"
-msgstr ""
+msgstr "Firefox OS"
 
 #: templates/index.html:2
 msgid "Find My Device"
-msgstr ""
+msgstr "Find My Device"
 
 #: templates/index.html:3
 msgid "Locate a lost phone, lock it or even erase it remotely."
-msgstr ""
+msgstr "尋找搞丟的手機、遠端鎖定甚至抹除手機內容。"
 
 #: templates/index.html:4
 msgid ""
@@ -31,60 +33,62 @@ msgid ""
 "message. You can also lock it for safety or delete your personal info "
 "completely."
 msgstr ""
+"若您搞丟了 Firefox OS 智慧型手機，您可以使用 Find My Device "
+"來幫助您找到它。您可以在地圖上看到您手機目前的位置、播放鈴聲並顯示訊息。為了資訊安全，您也可以把它所以來，或永久清除您的個人資訊。"
 
 #: templates/index.html:5
 msgid ""
 "To get started, make sure you have a Firefox Account and Find My Device "
 "enabled on your phone."
-msgstr ""
+msgstr "請確定您有 Firefox 帳號，並已在手機上開啟 Find My Device 以開始使用。"
 
 #: templates/index.html:6
 msgid "Sign in"
-msgstr ""
+msgstr "登入"
 
 #: templates/index.html:7
 msgid "Create a Firefox Account"
-msgstr ""
+msgstr "註冊 Firefox 帳號"
 
 #: templates/index.html:8
 msgid "Track"
-msgstr ""
+msgstr "追蹤"
 
 #: templates/index.html:9
 msgid ""
 "As long as your phone remains on and connected to the Internet, you can see "
 "its location on the map."
-msgstr ""
+msgstr "只要您的手機還開著並連線至網際網路，您就能在地圖上看到它的位置。"
 
 #: templates/index.html:10
 msgid "Ring"
-msgstr ""
+msgstr "響鈴"
 
 #: templates/index.html:11
 msgid ""
 "If you see that it’s nearby on the map, you can make the phone ring, even "
 "if the ringer is set to silent."
-msgstr ""
+msgstr "若您在地圖上發現手機就在您附近，就算您設定成靜音還是可以讓它響起來。"
 
 #: templates/index.html:12
 msgid "Lock"
-msgstr ""
+msgstr "鎖定"
 
 #: templates/index.html:13
 msgid ""
 "To protect your personal info, you can lock your screen and have it display "
 "a message to help someone return it to you."
-msgstr ""
+msgstr "為了保護您的個人資訊，您可以把畫面鎖定起來，並顯示一段訊息讓其他人能把手機還給您。"
 
 #: templates/index.html:14
 msgid ""
 "If you’re unable to find your phone, you can permanently erase it, but "
 "please note that this can not be undone."
-msgstr ""
+msgstr "若您還是找不到您的手機，您可以永久清除當中的資料，但請注意這無法復原。"
 
 #: templates/index.html:16
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: templates/index.html:17
 msgid ""
@@ -93,77 +97,87 @@ msgid ""
 "href=\"/en-US/foundation/licensing/website-content/\">Creative Commons "
 "license</a>."
 msgstr ""
+"本頁的部分內容著作權係 ©1998–2014 由不同 mozilla.org 貢獻者所有。內容依照 <a href=\"/en-"
+"US/foundation/licensing/website-content/\">創用 CC 授權條款</a> 進行授權。"
 
 #: templates/index.html:18
 msgid "Contact Us"
-msgstr ""
+msgstr "聯絡我們"
 
 #: templates/index.html:19
 msgid "Partner with Us"
-msgstr ""
+msgstr "成為我們的夥伴"
 
 #: templates/index.html:20
 msgid "Donate"
-msgstr ""
+msgstr "捐款"
 
 #: templates/index.html:21
 msgid "Firefox Affiliates"
-msgstr ""
+msgstr "Firefox 夥伴計畫"
 
 #: templates/index.html:22
 msgid "Contribute to this page"
-msgstr ""
+msgstr "貢獻至此頁面"
 
 #: templates/index.html:23
 msgid "Privacy"
-msgstr ""
+msgstr "隱私權"
 
 #: templates/index.html:24
 msgid "Legal"
-msgstr ""
+msgstr "法律資訊"
 
 #: templates/index.html:25
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "回報商標濫用"
 
 #: templates/index.html:26
 msgid "Mozilla:"
-msgstr ""
+msgstr "Mozilla:"
 
 #: templates/index.html:27
 msgid "<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></a>"
 msgstr ""
+"<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></a>"
 
 #: templates/index.html:28
 msgid ""
 "<a href=\"https://www.facebook.com/mozilla\">Facebook<span> "
 "(Mozilla)</span></a>"
 msgstr ""
+"<a href=\"https://www.facebook.com/mozilla\">Facebook<span> "
+"(Mozilla)</span></a>"
 
 #: templates/index.html:29
 msgid "Firefox:"
-msgstr ""
+msgstr "Firefox:"
 
 #: templates/index.html:30
 msgid "<a href=\"https://twitter.com/firefox\">Twitter<span> (@firefox)</span></a>"
 msgstr ""
+"<a href=\"https://twitter.com/firefox\">Twitter<span> (@firefox)</span></a>"
 
 #: templates/index.html:31
 msgid ""
 "<a href=\"https://www.facebook.com/Firefox\">Facebook<span> "
 "(Firefox)</span></a>"
 msgstr ""
+"<a href=\"https://www.facebook.com/Firefox\">Facebook<span> "
+"(Firefox)</span></a>"
 
 #: templates/index.html:32
 msgid ""
 "<a href=\"https://www.youtube.com/firefoxchannel\">YouTube<span> "
 "(firefoxchannel)</span></a>"
 msgstr ""
+"<a href=\"https://www.youtube.com/firefoxchannel\">YouTube<span> "
+"(firefoxchannel)</span></a>"
 
 #: templates/index.html:33
 msgid "Other languages:"
-msgstr ""
+msgstr "其他語言:"
 
 #: templates/index.html:34
 msgid "Go"
-msgstr ""
+msgstr "前往"
