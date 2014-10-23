@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: 2014-10-23 08:40+0000\n"
+"PO-Revision-Date: 2014-10-23 09:16+0000\n"
 "Last-Translator: Ton <tonnes.mb@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1414053615.0\n"
+"X-POOTLE-MTIME: 1414055780.0\n"
 
 #: templates/index.html:1
 msgid "Firefox OS"
@@ -56,7 +56,7 @@ msgstr "Een Firefox-account aanmaken"
 
 #: templates/index.html:8
 msgid "Track"
-msgstr ""
+msgstr "Volgen"
 
 #: templates/index.html:9
 msgid ""
@@ -75,26 +75,33 @@ msgid ""
 "If you see that it’s nearby on the map, you can make the phone ring, even "
 "if the ringer is set to silent."
 msgstr ""
+"Als u op de kaart ziet dat hij in de buurt is, kunt u de telefoon laten "
+"overgaan, zelfs als het belsignaal op stil is ingesteld."
 
 #: templates/index.html:12
 msgid "Lock"
-msgstr ""
+msgstr "Vergrendelen"
 
 #: templates/index.html:13
 msgid ""
 "To protect your personal info, you can lock your screen and have it display "
 "a message to help someone return it to you."
 msgstr ""
+"Om uw persoonlijke gegevens te beschermen kunt u uw scherm vergrendelen en "
+"een bericht laten weergeven om iemand te helpen de telefoon terug te "
+"bezorgen."
 
 #: templates/index.html:14
 msgid ""
 "If you’re unable to find your phone, you can permanently erase it, but "
 "please note that this can not be undone."
 msgstr ""
+"Als u uw telefoon niet kunt vinden, kunt u hem definitief wissen, maar houd "
+"er rekening mee dat dit niet ongedaan kan worden gemaakt."
 
 #: templates/index.html:16
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: templates/index.html:17
 msgid ""
@@ -103,77 +110,88 @@ msgid ""
 "href=\"/en-US/foundation/licensing/website-content/\">Creative Commons "
 "license</a>."
 msgstr ""
+"Delen van deze inhoud zijn ©1998–2014 door individuele mozilla.org-"
+"medewerkers. Inhoud is beschikbaar onder een <a href=\"/en-"
+"US/foundation/licensing/website-content/\">Creative Commons-licentie</a>."
 
 #: templates/index.html:18
 msgid "Contact Us"
-msgstr ""
+msgstr "Contact"
 
 #: templates/index.html:19
 msgid "Partner with Us"
-msgstr ""
+msgstr "Partner worden"
 
 #: templates/index.html:20
 msgid "Donate"
-msgstr ""
+msgstr "Doneren"
 
 #: templates/index.html:21
 msgid "Firefox Affiliates"
-msgstr ""
+msgstr "Firefox Affiliates"
 
 #: templates/index.html:22
 msgid "Contribute to this page"
-msgstr ""
+msgstr "Bijdragen aan deze pagina"
 
 #: templates/index.html:23
 msgid "Privacy"
-msgstr ""
+msgstr "Privacy"
 
 #: templates/index.html:24
 msgid "Legal"
-msgstr ""
+msgstr "Juridisch"
 
 #: templates/index.html:25
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "Misbruik van handelsmerk melden"
 
 #: templates/index.html:26
 msgid "Mozilla:"
-msgstr ""
+msgstr "Mozilla:"
 
 #: templates/index.html:27
 msgid "<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></a>"
 msgstr ""
+"<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></a>"
 
 #: templates/index.html:28
 msgid ""
 "<a href=\"https://www.facebook.com/mozilla\">Facebook<span> "
 "(Mozilla)</span></a>"
 msgstr ""
+"<a href=\"https://www.facebook.com/mozilla\">Facebook<span> "
+"(Mozilla)</span></a>"
 
 #: templates/index.html:29
 msgid "Firefox:"
-msgstr ""
+msgstr "Firefox:"
 
 #: templates/index.html:30
 msgid "<a href=\"https://twitter.com/firefox\">Twitter<span> (@firefox)</span></a>"
 msgstr ""
+"<a href=\"https://twitter.com/firefox\">Twitter<span> (@firefox)</span></a>"
 
 #: templates/index.html:31
 msgid ""
 "<a href=\"https://www.facebook.com/Firefox\">Facebook<span> "
 "(Firefox)</span></a>"
 msgstr ""
+"<a href=\"https://www.facebook.com/Firefox\">Facebook<span> "
+"(Firefox)</span></a>"
 
 #: templates/index.html:32
 msgid ""
 "<a href=\"https://www.youtube.com/firefoxchannel\">YouTube<span> "
 "(firefoxchannel)</span></a>"
 msgstr ""
+"<a href=\"https://www.youtube.com/firefoxchannel\">YouTube<span> "
+"(firefoxchannel)</span></a>"
 
 #: templates/index.html:33
 msgid "Other languages:"
-msgstr ""
+msgstr "Andere talen:"
 
 #: templates/index.html:34
 msgid "Go"
-msgstr ""
+msgstr "Gaan"
