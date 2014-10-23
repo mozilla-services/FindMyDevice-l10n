@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: 2014-10-23 17:33+0000\n"
+"PO-Revision-Date: 2014-10-23 20:51+0000\n"
 "Last-Translator: Andreas <az@kth.se>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sv_SE\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1414085611.0\n"
+"X-POOTLE-MTIME: 1414097511.0\n"
 
 #: templates/index.html:1
 msgid "Firefox OS"
@@ -25,6 +25,8 @@ msgstr "Hitta min enhet"
 #: templates/index.html:3
 msgid "Locate a lost phone, lock it or even erase it remotely."
 msgstr ""
+"Lokalisera en förlorad telefon, lås den eller till och med radera den på "
+"distans."
 
 #: templates/index.html:4
 msgid ""
@@ -33,12 +35,18 @@ msgid ""
 "message. You can also lock it for safety or delete your personal info "
 "completely."
 msgstr ""
+"Om du har förlorat ditt Firefox OS smartphone, Hitta min enhet kan hjälpa "
+"dig att hitta den. Du kan se den på en karta, spela upp ett ljud i den och "
+"få den att visa ett meddelande. Du kan även låsa den av säkerhetsskäl eller "
+"ta bort din personliga information helt."
 
 #: templates/index.html:5
 msgid ""
 "To get started, make sure you have a Firefox Account and Find My Device "
 "enabled on your phone."
 msgstr ""
+"För att komma igång, se till att du har en Firefox-konto och Hitta min enhet "
+"aktiverad på telefonen."
 
 #: templates/index.html:6
 msgid "Sign in"
@@ -57,6 +65,8 @@ msgid ""
 "As long as your phone remains on and connected to the Internet, you can see "
 "its location on the map."
 msgstr ""
+"Så länge telefonen fortfarande är på och ansluten till internet, kan du se "
+"dess plats på kartan."
 
 #: templates/index.html:10
 msgid "Ring"
@@ -67,6 +77,8 @@ msgid ""
 "If you see that it’s nearby on the map, you can make the phone ring, even "
 "if the ringer is set to silent."
 msgstr ""
+"Om du ser att den är i närheten på kartan, kan du göra att telefonen ringer, "
+"även om ringsignalen är inställd på tyst läge."
 
 #: templates/index.html:12
 msgid "Lock"
@@ -77,12 +89,16 @@ msgid ""
 "To protect your personal info, you can lock your screen and have it display "
 "a message to help someone return it to you."
 msgstr ""
+"För att skydda din personliga information, kan du låsa skärmen och få den "
+"att visa ett meddelande för att hjälpa någon att ge tillbaka den till dig."
 
 #: templates/index.html:14
 msgid ""
 "If you’re unable to find your phone, you can permanently erase it, but "
 "please note that this can not be undone."
 msgstr ""
+"Om du inte kan hitta din telefon kan du permanent radera den, men observera "
+"att detta inte kan göras ogjort."
 
 #: templates/index.html:16
 msgid "Mozilla"
@@ -95,6 +111,9 @@ msgid ""
 "href=\"/en-US/foundation/licensing/website-content/\">Creative Commons "
 "license</a>."
 msgstr ""
+"Delar av detta innehåll är ©1998–2014 av enskilda mozilla.org bidragsgivare. "
+"Innehåll tillgängligt under en <a href=\"/en-US/foundation/licensing"
+"/website-content/\">Creative Commons-licens</a>."
 
 #: templates/index.html:18
 msgid "Contact Us"
@@ -102,7 +121,7 @@ msgstr "Kontakta oss"
 
 #: templates/index.html:19
 msgid "Partner with Us"
-msgstr ""
+msgstr "Samarbeta med oss"
 
 #: templates/index.html:20
 msgid "Donate"
@@ -110,19 +129,19 @@ msgstr "Donera"
 
 #: templates/index.html:21
 msgid "Firefox Affiliates"
-msgstr ""
+msgstr "Firefox-partners"
 
 #: templates/index.html:22
 msgid "Contribute to this page"
-msgstr ""
+msgstr "Bidra till denna sida"
 
 #: templates/index.html:23
 msgid "Privacy"
-msgstr ""
+msgstr "Sekretess"
 
 #: templates/index.html:24
 msgid "Legal"
-msgstr ""
+msgstr "Juridisk"
 
 #: templates/index.html:25
 msgid "Report Trademark Abuse"
