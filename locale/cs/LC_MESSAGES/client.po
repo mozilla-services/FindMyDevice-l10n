@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: 2014-10-22 21:23+0000\n"
+"PO-Revision-Date: 2014-10-23 10:59+0000\n"
 "Last-Translator: Pavel <jasnapaka@jasnapaka.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cs\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1414012996.0\n"
+"X-POOTLE-MTIME: 1414061964.0\n"
 
 #: app/scripts/views/device.js:83
 msgid "Your device is erasing."
@@ -84,7 +84,7 @@ msgstr "Omlouváme se, ale nemáte žádné zařízení."
 
 #: app/scripts/templates/device_not_found.html:2
 msgid "Enable Find My Device on your Firefox OS device."
-msgstr ""
+msgstr "Povolte službu Nalézt mé zařízení na svém zařízení s Firefox OS."
 
 #: app/scripts/templates/erase.html:1
 #: app/scripts/templates/lost_mode.html:1
@@ -107,19 +107,19 @@ msgstr "Smazání svých kontaktů, multimédií, zpráv a nainstalovaných apli
 
 #: app/scripts/templates/erase.html:5
 msgid "Restore the device to its factory settings"
-msgstr ""
+msgstr "Obnovu zařízení do jeho továrního nastavení"
 
 #: app/scripts/templates/erase.html:6
 msgid "Disable Find My Device"
-msgstr ""
+msgstr "Zakáže službu Nalézt mé zařízení"
 
 #: app/scripts/templates/erase_confirmation.html:1
 msgid "Confirmation"
-msgstr ""
+msgstr "Potvrzení"
 
 #: app/scripts/templates/erase_confirmation.html:2
 msgid "Are you sure you want to erase your device?"
-msgstr ""
+msgstr "Jste si jisti, že chcete vymazat své zařízení?"
 
 #: app/scripts/templates/erase_confirmation.html:3
 msgid "Cancel"
@@ -144,7 +144,7 @@ msgstr "2. krok"
 
 #: app/scripts/templates/lost_mode.html:5
 msgid "Enter a note to show on the device:"
-msgstr ""
+msgstr "Vlože poznámku, která se zobrazí na zařízení:"
 
 #: app/scripts/templates/lost_mode.html:6
 msgid "Note (optional)"
@@ -160,35 +160,36 @@ msgstr "Předchozí"
 
 #: app/scripts/templates/lost_mode_passcode.html:5
 msgid "Enter a passcode to lock your device:"
-msgstr ""
+msgstr "Vložte heslo pro uzamčení svého zařízení:"
 
 #: app/scripts/templates/lost_mode_passcode.html:6
 #: app/scripts/templates/lost_mode_passcode.html:9
 msgid "Passcode is required."
-msgstr ""
+msgstr "Heslo je vyžadováno."
 
 #: app/scripts/templates/lost_mode_passcode.html:7
 #: app/scripts/templates/lost_mode_passcode.html:10
 msgid "Passcode must be 4 digits."
-msgstr ""
+msgstr "Heslo musí být 4 číslice."
 
 #: app/scripts/templates/lost_mode_passcode.html:8
 msgid "Enter passcode again:"
-msgstr ""
+msgstr "Vložte znovu heslo:"
 
 #: app/scripts/templates/lost_mode_passcode.html:11
 msgid "Passcodes must match."
-msgstr ""
+msgstr "Hesla si musí odpovídat."
 
 #: app/scripts/templates/lost_mode_passcode.html:12
 msgid "Once your device is locked, you will not be able to change this code again."
 msgstr ""
+"Jakmile bude vaše zařízení uzamčeno, nebudete mít možnost tento kód změnit."
 
 #: app/scripts/templates/play_sound.html:2
 #: app/scripts/templates/play_sound.html:4
 msgid "Ring Device"
-msgstr ""
+msgstr "Prozvonit zařízení"
 
 #: app/scripts/templates/play_sound.html:3
 msgid "Play a sound on your device to help you find it."
-msgstr ""
+msgstr "Přehraje zvuk na vašem zařízení, které tak pomůže nalézt."
