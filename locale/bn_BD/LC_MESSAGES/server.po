@@ -3,26 +3,28 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2014-10-22 04:34+0000\n"
+"Last-Translator: Tapu <tapu_afrad@hotmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bn_BD\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0-rc1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1413952468.0\n"
 
 #: templates/index.html:1
 msgid "Firefox OS"
-msgstr ""
+msgstr "Firefox OS"
 
 #: templates/index.html:2
 msgid "Find My Device"
-msgstr ""
+msgstr "Find My Device"
 
 #: templates/index.html:3
 msgid "Locate a lost phone, lock it or even erase it remotely."
-msgstr ""
+msgstr "দূর থেকে আপনার ফোন খুঁজে বের করুন, লক করুন কিংবা এটি মুছে ফেলুন।"
 
 #: templates/index.html:4
 msgid ""
@@ -31,60 +33,76 @@ msgid ""
 "message. You can also lock it for safety or delete your personal info "
 "completely."
 msgstr ""
+"আপনি যদি আপনার Firefox OS সম্বলিত স্মার্টফোনটি হারিয়ে ফেলেন, তাহলে Find My "
+"Device আপনাকে এটি খুঁজে বের করতে সাহায্য করবে। আপনি এটিকে ম্যাপে দেখতে "
+"পারবেন, এতে শব্দ বাজাতে পারবেন এবং এতে একটি বার্তা প্রদর্শন করাতে পারবেন। "
+"নিরাপত্তার জন্য এটি লক করতে পারবেন কিংবা ব্যক্তিগত তথ্য সম্পূর্ণরুপে মুছে "
+"ফেলতে পারবেন।"
 
 #: templates/index.html:5
 msgid ""
 "To get started, make sure you have a Firefox Account and Find My Device "
 "enabled on your phone."
 msgstr ""
+"শুরু করার জন্য নিশ্চিত হওন যে আপনার একটি ফায়ারফক্স অ্যাকাউন্ট আছে এবং আপনার "
+"ফোনে Find My Device সক্রিয় করা আছে।"
 
 #: templates/index.html:6
 msgid "Sign in"
-msgstr ""
+msgstr "সাইন ইন"
 
 #: templates/index.html:7
 msgid "Create a Firefox Account"
-msgstr ""
+msgstr "একটি ফায়ারফক্স অ্যাকাউন্ট তৈরি করুন"
 
 #: templates/index.html:8
 msgid "Track"
-msgstr ""
+msgstr "ট্র্যাক"
 
 #: templates/index.html:9
 msgid ""
 "As long as your phone remains on and connected to the Internet, you can see "
 "its location on the map."
 msgstr ""
+"যতক্ষণ পর্যন্ত আপনার ফোনটি চালু থাকবে এবং ইন্টারনেটে সংযুক্ত থাকবে ততক্ষণ "
+"পর্যন্ত আপনি এটিকে ম্যাপে খুঁজে পাবেন।"
 
 #: templates/index.html:10
 msgid "Ring"
-msgstr ""
+msgstr "রিং"
 
 #: templates/index.html:11
 msgid ""
 "If you see that it’s nearby on the map, you can make the phone ring, even "
 "if the ringer is set to silent."
 msgstr ""
+"যদি দেখেন যে ফোনটি আপনার আসে পাশেই আছে তবে এতে রিং বাজাতে পারেন, ফোনটি "
+"নিঃশব্দ করা থাকলেও রিং বাজবে।"
 
 #: templates/index.html:12
 msgid "Lock"
-msgstr ""
+msgstr "লক"
 
 #: templates/index.html:13
 msgid ""
 "To protect your personal info, you can lock your screen and have it display "
 "a message to help someone return it to you."
 msgstr ""
+"আপনার ব্যক্তিগত তথ্য রক্ষার জন্য আপনার স্ক্রিন লক করে রাখতে পারেন এবং অন্য "
+"কেউ যাতে সহজে এটি আপনাকে ফিরিয়ে দিতে পারে তার জন্য একটি বার্তা প্রদর্শন "
+"করাতে পারেন।"
 
 #: templates/index.html:14
 msgid ""
 "If you’re unable to find your phone, you can permanently erase it, but "
 "please note that this can not be undone."
 msgstr ""
+"যদি আপনি ফোনটি খুঁজে না পান তবে এটিকে আপনি স্থায়ীভাবে মুছে ফেলতে পারেন, "
+"কিন্তু মনে রাখুন যে এটিকে আর পূর্বের অবস্থায় ফিরিয়ে নেয়া যাবেনা।"
 
 #: templates/index.html:16
 msgid "Mozilla"
-msgstr ""
+msgstr "মজিলা"
 
 #: templates/index.html:17
 msgid ""
@@ -93,77 +111,86 @@ msgid ""
 "href=\"/en-US/foundation/licensing/website-content/\">Creative Commons "
 "license</a>."
 msgstr ""
+"কন্টেন্টের এই অংশ স্বতন্ত্র mozilla.org অবদানকারী দ্বারা ©১৯৯৮-২০১৪ "
+"কনটেন্টটি <a href=\"/en-US/foundation/licensing/website-content/\">Creative "
+"Commons license</a> এর অধীনে উপলব্ধ।"
 
 #: templates/index.html:18
 msgid "Contact Us"
-msgstr ""
+msgstr "আমাদের সাথে যোগাযোগ করুন"
 
 #: templates/index.html:19
 msgid "Partner with Us"
-msgstr ""
+msgstr "আমাদের সঙ্গে অংশীদার হোন"
 
 #: templates/index.html:20
 msgid "Donate"
-msgstr ""
+msgstr "অনুদান"
 
 #: templates/index.html:21
 msgid "Firefox Affiliates"
-msgstr ""
+msgstr "Firefox Affiliates"
 
 #: templates/index.html:22
 msgid "Contribute to this page"
-msgstr ""
+msgstr "এই পাতায় অবদান রাখুন"
 
 #: templates/index.html:23
 msgid "Privacy"
-msgstr ""
+msgstr "গোপনীয়তা"
 
 #: templates/index.html:24
 msgid "Legal"
-msgstr ""
+msgstr "আইনগত"
 
 #: templates/index.html:25
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "ট্রেডমার্ক অপব্যবহারের জন্য রিপোর্ট করুন"
 
 #: templates/index.html:26
 msgid "Mozilla:"
-msgstr ""
+msgstr "মজিলা:"
 
 #: templates/index.html:27
 msgid "<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></a>"
 msgstr ""
+"<a href=\"https://twitter.com/mozilla\">টুইটার<span> (@mozilla)</span></a>"
 
 #: templates/index.html:28
 msgid ""
 "<a href=\"https://www.facebook.com/mozilla\">Facebook<span> "
 "(Mozilla)</span></a>"
 msgstr ""
+"<a href=\"https://www.facebook.com/mozilla\">ফেসবুক<span> (Mozilla)</span></a>"
 
 #: templates/index.html:29
 msgid "Firefox:"
-msgstr ""
+msgstr "Firefox:"
 
 #: templates/index.html:30
 msgid "<a href=\"https://twitter.com/firefox\">Twitter<span> (@firefox)</span></a>"
 msgstr ""
+"<a href=\"https://twitter.com/firefox\">টুইটার<span> (@firefox)</span></a>"
 
 #: templates/index.html:31
 msgid ""
 "<a href=\"https://www.facebook.com/Firefox\">Facebook<span> "
 "(Firefox)</span></a>"
 msgstr ""
+"<a href=\"https://www.facebook.com/Firefox\">ফেসবুক<span> (Firefox)</span></a>"
 
 #: templates/index.html:32
 msgid ""
 "<a href=\"https://www.youtube.com/firefoxchannel\">YouTube<span> "
 "(firefoxchannel)</span></a>"
 msgstr ""
+"<a href=\"https://www.youtube.com/firefoxchannel\">YouTube<span> "
+"(firefoxchannel)</span></a>"
 
 #: templates/index.html:33
 msgid "Other languages:"
-msgstr ""
+msgstr "অন্যান্য ভাষা:"
 
 #: templates/index.html:34
 msgid "Go"
-msgstr ""
+msgstr "যান"
