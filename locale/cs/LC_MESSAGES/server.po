@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: 2014-10-23 10:59+0000\n"
+"PO-Revision-Date: 2014-10-23 13:16+0000\n"
 "Last-Translator: Pavel <jasnapaka@jasnapaka.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cs\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1414061975.0\n"
+"X-POOTLE-MTIME: 1414070212.0\n"
 
 #: templates/index.html:1
 msgid "Firefox OS"
@@ -25,6 +25,8 @@ msgstr "Nalézt mé zařízení"
 #: templates/index.html:3
 msgid "Locate a lost phone, lock it or even erase it remotely."
 msgstr ""
+"Najde umístění ztraceného telefonu, vzdáleně jej uzamkne nebo dokonce "
+"vymaže."
 
 #: templates/index.html:4
 msgid ""
@@ -33,44 +35,54 @@ msgid ""
 "message. You can also lock it for safety or delete your personal info "
 "completely."
 msgstr ""
+"Pokud ztratíte svůj telefon s Firefox OS, služba Nalézt mé zařízení vám může "
+"pomoci jej nalézt. Můžete jej vidět na mapě, přehrát na něm zvuk či "
+"zobrazit zprávu. Můžete jej také z bezpečnostních důvodů zablokovat či z něj "
+"kompletně odstranit osobní informace."
 
 #: templates/index.html:5
 msgid ""
 "To get started, make sure you have a Firefox Account and Find My Device "
 "enabled on your phone."
 msgstr ""
+"Pro začátek se ujistěte, že jste na svém telefonu přihlášeni k Účtu Firefox "
+"a máte aktivovánu službu Nalézt mé zařízení."
 
 #: templates/index.html:6
 msgid "Sign in"
-msgstr ""
+msgstr "Přihlášení"
 
 #: templates/index.html:7
 msgid "Create a Firefox Account"
-msgstr ""
+msgstr "Vytvořit Účet Firefox"
 
 #: templates/index.html:8
 msgid "Track"
-msgstr ""
+msgstr "Sledovat"
 
 #: templates/index.html:9
 msgid ""
 "As long as your phone remains on and connected to the Internet, you can see "
 "its location on the map."
 msgstr ""
+"Tak dlouho, jak váš telefon zůstane zapnutý a připojený k Internet, budete "
+"moci vidět jeho umístění na mapě."
 
 #: templates/index.html:10
 msgid "Ring"
-msgstr ""
+msgstr "Prozvonění"
 
 #: templates/index.html:11
 msgid ""
 "If you see that it’s nearby on the map, you can make the phone ring, even "
 "if the ringer is set to silent."
 msgstr ""
+"Pokud vidíte podle mapy, že je poblíž, můžete telefon prozvonit. A to "
+"dokonce i tehdy, když je zvonění ztlumené."
 
 #: templates/index.html:12
 msgid "Lock"
-msgstr ""
+msgstr "Uzamknout"
 
 #: templates/index.html:13
 msgid ""
@@ -102,7 +114,7 @@ msgstr ""
 
 #: templates/index.html:19
 msgid "Partner with Us"
-msgstr ""
+msgstr "Buďme partneři"
 
 #: templates/index.html:20
 msgid "Donate"
@@ -118,7 +130,7 @@ msgstr ""
 
 #: templates/index.html:23
 msgid "Privacy"
-msgstr ""
+msgstr "Soukromí"
 
 #: templates/index.html:24
 msgid "Legal"
@@ -126,46 +138,54 @@ msgstr ""
 
 #: templates/index.html:25
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "Nahlásit zneužití známky"
 
 #: templates/index.html:26
 msgid "Mozilla:"
-msgstr ""
+msgstr "Mozilla:"
 
 #: templates/index.html:27
 msgid "<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></a>"
 msgstr ""
+"<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></a>"
 
 #: templates/index.html:28
 msgid ""
 "<a href=\"https://www.facebook.com/mozilla\">Facebook<span> "
 "(Mozilla)</span></a>"
 msgstr ""
+"<a href=\"https://www.facebook.com/mozilla\">Facebook<span> "
+"(Mozilla)</span></a>"
 
 #: templates/index.html:29
 msgid "Firefox:"
-msgstr ""
+msgstr "Firefox:"
 
 #: templates/index.html:30
 msgid "<a href=\"https://twitter.com/firefox\">Twitter<span> (@firefox)</span></a>"
 msgstr ""
+"<a href=\"https://twitter.com/firefox\">Twitter<span> (@firefox)</span></a>"
 
 #: templates/index.html:31
 msgid ""
 "<a href=\"https://www.facebook.com/Firefox\">Facebook<span> "
 "(Firefox)</span></a>"
 msgstr ""
+"<a href=\"https://www.facebook.com/Firefox\">Facebook<span> "
+"(Firefox)</span></a>"
 
 #: templates/index.html:32
 msgid ""
 "<a href=\"https://www.youtube.com/firefoxchannel\">YouTube<span> "
 "(firefoxchannel)</span></a>"
 msgstr ""
+"<a href=\"https://www.youtube.com/firefoxchannel\">YouTube<span> "
+"(firefoxchannel)</span></a>"
 
 #: templates/index.html:33
 msgid "Other languages:"
-msgstr ""
+msgstr "Ostatní jazyky:"
 
 #: templates/index.html:34
 msgid "Go"
-msgstr ""
+msgstr "Přejít"
