@@ -84,14 +84,12 @@ msgstr "Tyvärr du har inte några enheter."
 msgid "Enable Find My Device on your Firefox OS device."
 msgstr "Aktivera Hitta min enhet på din Firefox OS-enhet."
 
-#: app/scripts/templates/erase.html:1
-#: app/scripts/templates/lost_mode.html:1
+#: app/scripts/templates/erase.html:1 app/scripts/templates/lost_mode.html:1
 #: app/scripts/templates/play_sound.html:1
 msgid "Close"
 msgstr "Stäng"
 
-#: app/scripts/templates/erase.html:2
-#: app/scripts/templates/erase.html:7
+#: app/scripts/templates/erase.html:2 app/scripts/templates/erase.html:7
 msgid "Erase Device"
 msgstr "Radera enhet"
 
@@ -179,7 +177,8 @@ msgid "Passcodes must match."
 msgstr "Koder måste matcha."
 
 #: app/scripts/templates/lost_mode_passcode.html:12
-msgid "Once your device is locked, you will not be able to change this code again."
+msgid ""
+"Once your device is locked, you will not be able to change this code again."
 msgstr "När enheten är låst, kommer du inte att kunna ändra denna kod igen."
 
 #: app/scripts/templates/play_sound.html:2

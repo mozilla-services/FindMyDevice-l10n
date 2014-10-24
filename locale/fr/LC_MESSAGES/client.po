@@ -86,14 +86,12 @@ msgstr "Désolé, vous ne possédez aucun appareil."
 msgid "Enable Find My Device on your Firefox OS device."
 msgstr "Activez Localiser mon appareil sur votre appareil Firefox OS."
 
-#: app/scripts/templates/erase.html:1
-#: app/scripts/templates/lost_mode.html:1
+#: app/scripts/templates/erase.html:1 app/scripts/templates/lost_mode.html:1
 #: app/scripts/templates/play_sound.html:1
 msgid "Close"
 msgstr "Fermer"
 
-#: app/scripts/templates/erase.html:2
-#: app/scripts/templates/erase.html:7
+#: app/scripts/templates/erase.html:2 app/scripts/templates/erase.html:7
 msgid "Erase Device"
 msgstr "Effacer l’appareil"
 
@@ -181,7 +179,8 @@ msgid "Passcodes must match."
 msgstr "Les codes d’accès doivent correspondre."
 
 #: app/scripts/templates/lost_mode_passcode.html:12
-msgid "Once your device is locked, you will not be able to change this code again."
+msgid ""
+"Once your device is locked, you will not be able to change this code again."
 msgstr ""
 "Une fois l’appareil verrouillé, vous ne pourrez plus modifier ce code à "
 "nouveau."

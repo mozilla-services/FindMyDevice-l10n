@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FindMyDevice\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-14 03:30+0000\n"
+"POT-Creation-Date: 2014-10-23 03:37+0000\n"
 "PO-Revision-Date: 2014-10-21 05:00-0500\n"
 "Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
 "Language-Team: Irish\n"
@@ -12,19 +12,36 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 1.10.0-rc1\n"
 
-#: templates/index.html:1
+#: app/index.html:9
+msgid "Find My Device — Firefox OS — Mozilla"
+msgstr ""
+
+#: app/index.html:42
+#, fuzzy
+msgid "mozilla"
+msgstr "Mozilla"
+
+#: app/index.html:43
 msgid "Firefox OS"
 msgstr "Firefox OS"
 
-#: templates/index.html:2
+#: app/index.html:44
 msgid "Find My Device"
 msgstr "Aimsigh Mo Ghléas"
 
-#: templates/index.html:3
+#: app/index.html:45
 msgid "Locate a lost phone, lock it or even erase it remotely."
 msgstr "Aimsigh guthán caillte, agus cuir faoi ghlas nó léirscrios é."
 
-#: templates/index.html:4
+#: app/index.html:48
+msgid "Sign in"
+msgstr "Logáil isteach"
+
+#: app/index.html:49
+msgid "Create a Firefox Account"
+msgstr "Cruthaigh Cuntas Firefox"
+
+#: app/index.html:51
 msgid ""
 "If you’ve lost your Firefox OS smartphone, Find My Device can help you find "
 "it. You can see it on a map, make it play a sound and have it display a "
@@ -32,11 +49,12 @@ msgid ""
 "completely."
 msgstr ""
 "Má chailleann tú do ghuthán Firefox OS, is féidir leat Aimsigh Mo Ghléas a "
-"úsáid chun teacht air arís. Beidh tú in ann é a fheiceáil ar léarscáil, fuaim "
-"a sheinm air, agus teachtaireacht a thaispeáint air. Nó, is féidir é a chur "
-"faoi ghlas agus do chuid faisnéise pearsanta a scriosadh, ar eagla na heagla."
+"úsáid chun teacht air arís. Beidh tú in ann é a fheiceáil ar léarscáil, "
+"fuaim a sheinm air, agus teachtaireacht a thaispeáint air. Nó, is féidir é a "
+"chur faoi ghlas agus do chuid faisnéise pearsanta a scriosadh, ar eagla na "
+"heagla."
 
-#: templates/index.html:5
+#: app/index.html:52
 msgid ""
 "To get started, make sure you have a Firefox Account and Find My Device "
 "enabled on your phone."
@@ -44,31 +62,23 @@ msgstr ""
 "I dtosach báire, bí cinnte go bhfuil Cuntas Firefox agat, agus go bhfuil "
 "Aimsigh Mo Ghléas ar siúl ar an nguthán."
 
-#: templates/index.html:6
-msgid "Sign in"
-msgstr "Logáil isteach"
-
-#: templates/index.html:7
-msgid "Create a Firefox Account"
-msgstr "Cruthaigh Cuntas Firefox"
-
-#: templates/index.html:8
+#: app/index.html:59
 msgid "Track"
 msgstr "Rianaigh"
 
-#: templates/index.html:9
+#: app/index.html:60
 msgid ""
 "As long as your phone remains on and connected to the Internet, you can see "
 "its location on the map."
 msgstr ""
-"Fad a bheidh do ghuthán ar siúl agus ceangailte leis an Idirlíon, beidh tú in "
-"ann é a fheiceáil ar an léarscáil."
+"Fad a bheidh do ghuthán ar siúl agus ceangailte leis an Idirlíon, beidh tú "
+"in ann é a fheiceáil ar an léarscáil."
 
-#: templates/index.html:10
+#: app/index.html:63
 msgid "Ring"
 msgstr "Cling"
 
-#: templates/index.html:11
+#: app/index.html:64
 msgid ""
 "If you see that it’s nearby on the map, you can make the phone ring, even if "
 "the ringer is set to silent."
@@ -76,121 +86,135 @@ msgstr ""
 "Má tá an guthán i ngar duit ar an léarscáil, is féidir leat fuaim a sheinm "
 "air, fiú má tá an clingire i dtost."
 
-#: templates/index.html:12
+#: app/index.html:67
 msgid "Lock"
 msgstr "Cuir Faoi Ghlas"
 
-#: templates/index.html:13
+#: app/index.html:68
 msgid ""
-"To protect your personal info, you can lock your screen and have it display a "
-"message to help someone return it to you."
+"To protect your personal info, you can lock your screen and have it display "
+"a message to help someone return it to you."
 msgstr ""
 "Chun do chuid faisnéise pearsanta a chosaint, is féidir leat an scáileán a "
-"chur faoi ghlas agus teachtaireacht a thaispeáint a chuideoidh le duine éigin "
-"an guthán a thabhairt ar ais duit."
+"chur faoi ghlas agus teachtaireacht a thaispeáint a chuideoidh le duine "
+"éigin an guthán a thabhairt ar ais duit."
 
-#: templates/index.html:14
+#: app/index.html:71
+msgid "Erase"
+msgstr ""
+
+#: app/index.html:72
 msgid ""
-"If you’re unable to find your phone, you can permanently erase it, but please "
-"note that this can not be undone."
+"If you’re unable to find your phone, you can permanently erase it, but "
+"please note that this can not be undone."
 msgstr ""
 "Mura bhfuil tú in ann do ghuthán a aimsiú, is féidir leat é a léirscriosadh "
 "go deo. Tabhair faoi deara nach mbeidh tú in ann dul siar air seo."
 
-#: templates/index.html:16
+#: app/index.html:79
 msgid "Mozilla"
 msgstr "Mozilla"
 
-#: templates/index.html:17
+#: app/index.html:80
+#, fuzzy
 msgid ""
 "Portions of this content are ©1998–2014 by individual mozilla.org "
-"contributors. Content available under a <a href=\"/en-US/foundation/licensing/"
-"website-content/\">Creative Commons license</a>."
+"contributors. Content available under a <a href='http://www.mozilla.org/"
+"foundation/licensing/website-content/'>Creative Commons license</a>."
 msgstr ""
-"Codanna faoi chóipcheart ©1998–2014 Rannpháirtithe mozilla.org. Tá an t-ábhar "
-"seo ar fáil de réir téarmaí <a href=\"/en-US/foundation/licensing/website-"
-"content/\">Cheadúnas Creative Commons</a>."
+"Codanna faoi chóipcheart ©1998–2014 Rannpháirtithe mozilla.org. Tá an t-"
+"ábhar seo ar fáil de réir téarmaí <a href=\"/en-US/foundation/licensing/"
+"website-content/\">Cheadúnas Creative Commons</a>."
 
-#: templates/index.html:18
+#: app/index.html:84
 msgid "Contact Us"
 msgstr "Teagmháil"
 
-#: templates/index.html:19
+#: app/index.html:85
 msgid "Partner with Us"
 msgstr "Comhpháirtíocht"
 
-#: templates/index.html:20
+#: app/index.html:86
 msgid "Donate"
 msgstr "Bronntanais"
 
-#: templates/index.html:21
+#: app/index.html:87
 msgid "Firefox Affiliates"
 msgstr "Cleamhnaithe Firefox"
 
-#: templates/index.html:22
+#: app/index.html:88
 msgid "Contribute to this page"
 msgstr "Cuir feabhas ar an leathanach seo"
 
-#: templates/index.html:23
+#: app/index.html:91
 msgid "Privacy"
 msgstr "Príobháideacht"
 
-#: templates/index.html:24
+#: app/index.html:92
 msgid "Legal"
 msgstr "Cúrsaí Dlí"
 
-#: templates/index.html:25
+#: app/index.html:93
 msgid "Report Trademark Abuse"
 msgstr "Drochúsáid Trádmharcanna"
 
-#: templates/index.html:26
+#: app/index.html:99
 msgid "Mozilla:"
 msgstr "Mozilla:"
 
-#: templates/index.html:27
-msgid ""
-"<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></a>"
+#: app/index.html:101 app/index.html:108
+msgid "Twitter"
 msgstr ""
-"<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></a>"
 
-#: templates/index.html:28
-msgid ""
-"<a href=\"https://www.facebook.com/mozilla\">Facebook<span> (Mozilla)</span></"
-"a>"
+#: app/index.html:102 app/index.html:109
+msgid "Facebook"
 msgstr ""
-"<a href=\"https://www.facebook.com/mozilla\">Facebook<span> (Mozilla)</span></"
-"a>"
 
-#: templates/index.html:29
+#: app/index.html:106
 msgid "Firefox:"
 msgstr "Firefox:"
 
-#: templates/index.html:30
-msgid ""
-"<a href=\"https://twitter.com/firefox\">Twitter<span> (@firefox)</span></a>"
+#: app/index.html:110
+msgid "YouTube"
 msgstr ""
-"<a href=\"https://twitter.com/firefox\">Twitter<span> (@firefox)</span></a>"
 
-#: templates/index.html:31
-msgid ""
-"<a href=\"https://www.facebook.com/Firefox\">Facebook<span> (Firefox)</span></"
-"a>"
-msgstr ""
-"<a href=\"https://www.facebook.com/Firefox\">Facebook<span> (Firefox)</span></"
-"a>"
+#~ msgid ""
+#~ "<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></"
+#~ "a>"
+#~ msgstr ""
+#~ "<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></"
+#~ "a>"
 
-#: templates/index.html:32
-msgid ""
-"<a href=\"https://www.youtube.com/firefoxchannel\">YouTube<span> "
-"(firefoxchannel)</span></a>"
-msgstr ""
-"<a href=\"https://www.youtube.com/firefoxchannel\">YouTube<span> "
-"(firefoxchannel)</span></a>"
+#~ msgid ""
+#~ "<a href=\"https://www.facebook.com/mozilla\">Facebook<span> (Mozilla)</"
+#~ "span></a>"
+#~ msgstr ""
+#~ "<a href=\"https://www.facebook.com/mozilla\">Facebook<span> (Mozilla)</"
+#~ "span></a>"
 
-#: templates/index.html:33
-msgid "Other languages:"
-msgstr "Teangacha eile:"
+#~ msgid ""
+#~ "<a href=\"https://twitter.com/firefox\">Twitter<span> (@firefox)</span></"
+#~ "a>"
+#~ msgstr ""
+#~ "<a href=\"https://twitter.com/firefox\">Twitter<span> (@firefox)</span></"
+#~ "a>"
 
-#: templates/index.html:34
-msgid "Go"
-msgstr "Téigh"
+#~ msgid ""
+#~ "<a href=\"https://www.facebook.com/Firefox\">Facebook<span> (Firefox)</"
+#~ "span></a>"
+#~ msgstr ""
+#~ "<a href=\"https://www.facebook.com/Firefox\">Facebook<span> (Firefox)</"
+#~ "span></a>"
+
+#~ msgid ""
+#~ "<a href=\"https://www.youtube.com/firefoxchannel\">YouTube<span> "
+#~ "(firefoxchannel)</span></a>"
+#~ msgstr ""
+#~ "<a href=\"https://www.youtube.com/firefoxchannel\">YouTube<span> "
+#~ "(firefoxchannel)</span></a>"
+
+#~ msgid "Other languages:"
+#~ msgstr "Teangacha eile:"
+
+#~ msgid "Go"
+#~ msgstr "Téigh"

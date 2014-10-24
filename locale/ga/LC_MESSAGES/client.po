@@ -97,7 +97,8 @@ msgstr "Má léirscriosann tú do ghléas:"
 
 #: app/scripts/templates/erase.html:4
 msgid "Delete your contacts, media, messages and installed apps"
-msgstr "Scriosfar do chuid teagmhálaithe, meán, teachtaireachtaí, agus aipeanna"
+msgstr ""
+"Scriosfar do chuid teagmhálaithe, meán, teachtaireachtaí, agus aipeanna"
 
 #: app/scripts/templates/erase.html:5
 msgid "Restore the device to its factory settings"

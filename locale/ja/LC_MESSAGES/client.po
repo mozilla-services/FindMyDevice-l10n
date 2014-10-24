@@ -82,14 +82,12 @@ msgstr "あなたはまだ端末をお持ちでないようです。"
 msgid "Enable Find My Device on your Firefox OS device."
 msgstr "あなたの Firefox OS 端末の Find My Device を有効化"
 
-#: app/scripts/templates/erase.html:1
-#: app/scripts/templates/lost_mode.html:1
+#: app/scripts/templates/erase.html:1 app/scripts/templates/lost_mode.html:1
 #: app/scripts/templates/play_sound.html:1
 msgid "Close"
 msgstr "閉じる"
 
-#: app/scripts/templates/erase.html:2
-#: app/scripts/templates/erase.html:7
+#: app/scripts/templates/erase.html:2 app/scripts/templates/erase.html:7
 msgid "Erase Device"
 msgstr "端末のデータを消去"
 
@@ -177,7 +175,8 @@ msgid "Passcodes must match."
 msgstr "暗証番号が一致しません。"
 
 #: app/scripts/templates/lost_mode_passcode.html:12
-msgid "Once your device is locked, you will not be able to change this code again."
+msgid ""
+"Once your device is locked, you will not be able to change this code again."
 msgstr "一度端末がロックされると、再度この暗証番号を変更することはできません。"
 
 #: app/scripts/templates/play_sound.html:2
