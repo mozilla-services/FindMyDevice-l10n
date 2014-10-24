@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: 2014-10-21 17:30-0400\n"
+"PO-Revision-Date: 2014-10-24 16:04-0400\n"
 "Last-Translator: Kohei Yoshino <kohei.yoshino@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja\n"
@@ -14,12 +14,11 @@ msgstr ""
 
 #: app/index.html:9
 msgid "Find My Device — Firefox OS — Mozilla"
-msgstr ""
+msgstr "Find My Device — Firefox OS — Mozilla"
 
 #: app/index.html:42
-#, fuzzy
 msgid "mozilla"
-msgstr "Mozilla"
+msgstr "mozilla"
 
 #: app/index.html:43
 msgid "Firefox OS"
@@ -100,7 +99,7 @@ msgstr ""
 
 #: app/index.html:71
 msgid "Erase"
-msgstr ""
+msgstr "消去"
 
 #: app/index.html:72
 msgid ""
@@ -115,15 +114,14 @@ msgid "Mozilla"
 msgstr "Mozilla"
 
 #: app/index.html:80
-#, fuzzy
 msgid ""
 "Portions of this content are ©1998–2014 by individual mozilla.org "
 "contributors. Content available under a <a href='http://www.mozilla.org/"
 "foundation/licensing/website-content/'>Creative Commons license</a>."
 msgstr ""
 "©1998–2014 コンテンツの一部は個別の貢献者によって mozilla.org へ提供されたも"
-"のです。コンテンツは <a href=\"/ja/foundation/licensing/website-content/"
-"\">Creative Commons license</a> で公開されています。"
+"のです。コンテンツは <a href=\"https://www.mozilla.org/foundation/licensing/"
+"website-content/\">Creative Commons license</a> で公開されています。"
 
 #: app/index.html:84
 msgid "Contact Us"
@@ -163,11 +161,11 @@ msgstr "Mozilla:"
 
 #: app/index.html:101 app/index.html:108
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: app/index.html:102 app/index.html:109
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: app/index.html:106
 msgid "Firefox:"
@@ -175,45 +173,4 @@ msgstr "Firefox:"
 
 #: app/index.html:110
 msgid "YouTube"
-msgstr ""
-
-#~ msgid ""
-#~ "<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></"
-#~ "a>"
-#~ msgstr ""
-#~ "<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></"
-#~ "a>"
-
-#~ msgid ""
-#~ "<a href=\"https://www.facebook.com/mozilla\">Facebook<span> (Mozilla)</"
-#~ "span></a>"
-#~ msgstr ""
-#~ "<a href=\"https://www.facebook.com/mozilla\">Facebook<span> (Mozilla)</"
-#~ "span></a>"
-
-#~ msgid ""
-#~ "<a href=\"https://twitter.com/firefox\">Twitter<span> (@firefox)</span></"
-#~ "a>"
-#~ msgstr ""
-#~ "<a href=\"https://twitter.com/firefox\">Twitter<span> (@firefox)</span></"
-#~ "a>"
-
-#~ msgid ""
-#~ "<a href=\"https://www.facebook.com/Firefox\">Facebook<span> (Firefox)</"
-#~ "span></a>"
-#~ msgstr ""
-#~ "<a href=\"https://www.facebook.com/Firefox\">Facebook<span> (Firefox)</"
-#~ "span></a>"
-
-#~ msgid ""
-#~ "<a href=\"https://www.youtube.com/firefoxchannel\">YouTube<span> "
-#~ "(firefoxchannel)</span></a>"
-#~ msgstr ""
-#~ "<a href=\"https://www.youtube.com/firefoxchannel\">YouTube<span> "
-#~ "(firefoxchannel)</span></a>"
-
-#~ msgid "Other languages:"
-#~ msgstr "他の言語:"
-
-#~ msgid "Go"
-#~ msgstr "移動"
+msgstr "YouTube"
