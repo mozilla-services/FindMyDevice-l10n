@@ -1,46 +1,44 @@
-﻿msgid ""
+msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: 2014-10-24 10:28+0000\n"
-"Last-Translator: Wim <fryskefirefox@gmail.com>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fy\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1414146499.0\n"
+"X-Generator: Translate Toolkit 1.10.0-rc1\n"
 
 #: app/index.html:9
 msgid "Find My Device — Firefox OS — Mozilla"
-msgstr "Find My Device – Firefox OS – Mozilla"
+msgstr ""
 
 #: app/index.html:42
 msgid "mozilla"
-msgstr "mozilla"
+msgstr ""
 
 #: app/index.html:43
 msgid "Firefox OS"
-msgstr "Firefox OS"
+msgstr ""
 
 #: app/index.html:44
 msgid "Find My Device"
-msgstr "Find My Device"
+msgstr ""
 
 #: app/index.html:45
 msgid "Locate a lost phone, lock it or even erase it remotely."
-msgstr "Fyn, beskottel of wiskje in ferlerne telefoan op ôfstân."
+msgstr ""
 
 #: app/index.html:48
 msgid "Sign in"
-msgstr "Oanmelde"
+msgstr ""
 
 #: app/index.html:49
 msgid "Create a Firefox Account"
-msgstr "In Firefox-account oanmeitjse"
+msgstr ""
 
 #: app/index.html:51
 msgid ""
@@ -49,172 +47,115 @@ msgid ""
 "message. You can also lock it for safety or delete your personal info "
 "completely."
 msgstr ""
-"As jo jo Firefox OS-snoadfoan ferlern binne, kin Find My Device jo "
-"helpe mei finen. Jo kinne it sjen op in kaart, in lûd ôfspylje litte en "
-"in berjocht werjaan litte. Ek kinne jo it om 'e wille fan feilichheid "
-"beskoattelje of jo persoanlike gegevens folslein fuortsmite."
 
 #: app/index.html:52
 msgid ""
 "To get started, make sure you have a Firefox Account and Find My Device "
 "enabled on your phone."
 msgstr ""
-"Soargje derfoar dat jo in Firefox-account hawwe en dat jo Find My Device ynskeakele "
-"hawwe op jo telefoan."
 
 #: app/index.html:59
 msgid "Track"
-msgstr "Folgjen"
+msgstr ""
 
 #: app/index.html:60
 msgid ""
 "As long as your phone remains on and connected to the Internet, you can see "
 "its location on the map."
 msgstr ""
-"Salang jo telefoan oan bliuwt en mei it ynternet ferbûn is, kinne jo de "
-"lokaasje derfan op de kaart sjen."
 
 #: app/index.html:63
 msgid "Ring"
-msgstr "Belle"
+msgstr ""
 
 #: app/index.html:64
 msgid ""
-"If you see that it’s nearby on the map, you can make the phone ring, even if "
-"the ringer is set to silent."
+"If you see that it’s nearby on the map, you can make the phone ring, even "
+"if the ringer is set to silent."
 msgstr ""
-"As jo op de kaart sjogge dat it yn de buert is, kinne jo de telefoan oergean "
-"litte, sels as it belsinjaal op stil ynsteld is."
 
 #: app/index.html:67
 msgid "Lock"
-msgstr "Beskoattelje"
+msgstr ""
 
 #: app/index.html:68
 msgid ""
 "To protect your personal info, you can lock your screen and have it display "
 "a message to help someone return it to you."
 msgstr ""
-"Om jo persoanlike gegevens te besermen kinne jo jo skerm beskoattellje en "
-"in berjocht werjaan litte om ien te helpen de telefoan werom te "
-"besoargjen."
 
 #: app/index.html:71
 msgid "Erase"
-msgstr "Wiskje"
+msgstr ""
 
 #: app/index.html:72
 msgid ""
 "If you’re unable to find your phone, you can permanently erase it, but "
 "please note that this can not be undone."
 msgstr ""
-"As jo jo telefoan net fine kinne, kinne jo it definityf wiskje, mar hâld "
-"der rekkening mei dat dit net ûngedien makke wurde kin."
 
 #: app/index.html:79
 msgid "Mozilla"
-msgstr "Mozilla"
+msgstr ""
 
 #: app/index.html:80
 msgid ""
 "Portions of this content are ©1998–2014 by individual mozilla.org "
-"contributors. Content available under a <a href='http://www.mozilla.org/"
-"foundation/licensing/website-content/'>Creative Commons license</a>."
+"contributors. Content available under a <a "
+"href='http://www.mozilla.org/foundation/licensing/website-content/'>"
+"Creative Commons license</a>."
 msgstr ""
-"Dielen fan dizze ynhâld binne ©1998–2014 troch yndividuele mozilla.org-"
-"meiwurkers. Ynhâld is beskikber ûnder in <a "
-"href='http://www.mozilla.org/foundation/licensing/website-content/'>Creative "
-"Commons-lisinsje</a>."
 
 #: app/index.html:84
 msgid "Contact Us"
-msgstr "Kontakt"
+msgstr ""
 
 #: app/index.html:85
 msgid "Partner with Us"
-msgstr "Partner wurde"
+msgstr ""
 
 #: app/index.html:86
 msgid "Donate"
-msgstr "Donearje"
+msgstr ""
 
 #: app/index.html:87
 msgid "Firefox Affiliates"
-msgstr "Firefox Affiliates"
+msgstr ""
 
 #: app/index.html:88
 msgid "Contribute to this page"
-msgstr "Bydrage oan dizze side"
+msgstr ""
 
 #: app/index.html:91
 msgid "Privacy"
-msgstr "Privacy"
+msgstr ""
 
 #: app/index.html:92
 msgid "Legal"
-msgstr "Juridysk"
+msgstr ""
 
 #: app/index.html:93
 msgid "Report Trademark Abuse"
-msgstr "Misbrûk fan hannelsmerk melde"
+msgstr ""
 
 #: app/index.html:99
 msgid "Mozilla:"
-msgstr "Mozilla:"
+msgstr ""
 
-#: app/index.html:101 app/index.html:108
+#: app/index.html:101
+#: app/index.html:108
 msgid "Twitter"
-msgstr "Twitter"
+msgstr ""
 
-#: app/index.html:102 app/index.html:109
+#: app/index.html:102
+#: app/index.html:109
 msgid "Facebook"
-msgstr "Facebook"
+msgstr ""
 
 #: app/index.html:106
 msgid "Firefox:"
-msgstr "Firefox:"
+msgstr ""
 
 #: app/index.html:110
 msgid "YouTube"
-msgstr "YouTube"
-
-#~ msgid ""
-#~ "<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></"
-#~ "a>"
-#~ msgstr ""
-#~ "<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></"
-#~ "a>"
-
-#~ msgid ""
-#~ "<a href=\"https://www.facebook.com/mozilla\">Facebook<span> (Mozilla)</"
-#~ "span></a>"
-#~ msgstr ""
-#~ "<a href=\"https://www.facebook.com/mozilla\">Facebook<span> (Mozilla)</"
-#~ "span></a>"
-
-#~ msgid ""
-#~ "<a href=\"https://twitter.com/firefox\">Twitter<span> (@firefox)</span></"
-#~ "a>"
-#~ msgstr ""
-#~ "<a href=\"https://twitter.com/firefox\">Twitter<span> (@firefox)</span></"
-#~ "a>"
-
-#~ msgid ""
-#~ "<a href=\"https://www.facebook.com/Firefox\">Facebook<span> (Firefox)</"
-#~ "span></a>"
-#~ msgstr ""
-#~ "<a href=\"https://www.facebook.com/Firefox\">Facebook<span> (Firefox)</"
-#~ "span></a>"
-
-#~ msgid ""
-#~ "<a href=\"https://www.youtube.com/firefoxchannel\">YouTube<span> "
-#~ "(firefoxchannel)</span></a>"
-#~ msgstr ""
-#~ "<a href=\"https://www.youtube.com/firefoxchannel\">YouTube<span> "
-#~ "(firefoxchannel)</span></a>"
-
-#~ msgid "Other languages:"
-#~ msgstr "Oare talen:"
-
-#~ msgid "Go"
-#~ msgstr "Gean"
+msgstr ""
