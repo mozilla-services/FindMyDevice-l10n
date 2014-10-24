@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: 2014-10-21 21:36+0000\n"
+"PO-Revision-Date: 2014-10-24 14:13+0000\n"
 "Last-Translator: Théo <theo.chevalier11@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -12,16 +12,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1413927395.0\n"
+"X-POOTLE-MTIME: 1414160010.0\n"
 
 #: app/index.html:9
 msgid "Find My Device — Firefox OS — Mozilla"
-msgstr ""
+msgstr "Localiser mon appareil — Firefox OS — Mozilla"
 
 #: app/index.html:42
-#, fuzzy
 msgid "mozilla"
-msgstr "Mozilla"
+msgstr "mozilla"
 
 #: app/index.html:43
 msgid "Firefox OS"
@@ -102,7 +101,7 @@ msgstr ""
 
 #: app/index.html:71
 msgid "Erase"
-msgstr ""
+msgstr "Effacer"
 
 #: app/index.html:72
 msgid ""
@@ -117,15 +116,15 @@ msgid "Mozilla"
 msgstr "Mozilla"
 
 #: app/index.html:80
-#, fuzzy
 msgid ""
 "Portions of this content are ©1998–2014 by individual mozilla.org "
 "contributors. Content available under a <a href='http://www.mozilla.org/"
 "foundation/licensing/website-content/'>Creative Commons license</a>."
 msgstr ""
 "Certaines parties de ce contenu sont ©1998–2014 par les contributeurs "
-"individuels de mozilla.org. Le contenu est disponible sous <a href=\"/en-US/"
-"foundation/licensing/website-content/\">licence Creative Commons</a>."
+"individuels de mozilla.org. Le contenu est disponible sous <a "
+"href='http://www.mozilla.org/foundation/licensing/website-content/'>licence "
+"Creative Commons</a>."
 
 #: app/index.html:84
 msgid "Contact Us"
@@ -165,11 +164,11 @@ msgstr "Mozilla&nbsp;:"
 
 #: app/index.html:101 app/index.html:108
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: app/index.html:102 app/index.html:109
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: app/index.html:106
 msgid "Firefox:"
@@ -177,7 +176,7 @@ msgstr "Firefox&nbsp;:"
 
 #: app/index.html:110
 msgid "YouTube"
-msgstr ""
+msgstr "YouTube"
 
 #~ msgid ""
 #~ "<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></"
