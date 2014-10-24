@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: 2014-10-24 19:47+0000\n"
+"PO-Revision-Date: 2014-10-24 20:02+0000\n"
 "Last-Translator: Inma <inma.barrios@mozilla-hispano.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1414180066.0\n"
+"X-POOTLE-MTIME: 1414180931.0\n"
 
 #: app/scripts/views/device.js:83
 msgid "Your device is erasing."
@@ -101,15 +101,15 @@ msgstr "Al borrar el dispositivo:"
 
 #: app/scripts/templates/erase.html:4
 msgid "Delete your contacts, media, messages and installed apps"
-msgstr "Borrar contactos, archivos multimedia, mensajes y apps instaladas"
+msgstr "Se borrarán contactos, archivos multimedia, mensajes y apps instaladas"
 
 #: app/scripts/templates/erase.html:5
 msgid "Restore the device to its factory settings"
-msgstr "Restaurar el dispositivo a su configuración de fábrica"
+msgstr "Se restaurará el dispositivo a su configuración de fábrica"
 
 #: app/scripts/templates/erase.html:6
 msgid "Disable Find My Device"
-msgstr "Desactivar Buscar mi dispositivo"
+msgstr "Se desactivará Buscar mi dispositivo"
 
 #: app/scripts/templates/erase_confirmation.html:1
 msgid "Confirmation"
