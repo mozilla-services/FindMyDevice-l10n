@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: 2014-10-22 20:06+0000\n"
+"PO-Revision-Date: 2014-10-24 13:01+0000\n"
 "Last-Translator: Sara <sara.todaro@mozillaitalia.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: it\n"
@@ -12,12 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1414008383.0\n"
+"X-POOTLE-MTIME: 1414155709.0\n"
 
 #: app/scripts/views/device.js:83
-#, fuzzy
 msgid "Your device is erasing."
-msgstr "Il contenuto del dispositivo sta venendo cancellato."
+msgstr "Cancellazione dei contenuti del dispositivo in corso…"
 
 #: app/scripts/views/device.js:85
 msgid "An error occurred while trying to erase your device."
@@ -36,19 +35,19 @@ msgstr ""
 
 #: app/scripts/views/device.js:99
 msgid "Your device is ringing."
-msgstr "Il dispositivo sta squillando."
+msgstr "In questo momento il dispositivo sta squillando."
 
 #: app/scripts/views/device.js:101
 #, fuzzy
 msgid "An error occurred while trying to ring your device."
 msgstr ""
-"Si è verificato un errore durante il tentativo di far squillare il "
+"Si è verificato un errore durante il tentativo di attivare la suoneria del "
 "dispositivo."
 
 #: app/scripts/views/device.js:107
 msgid "An error occurred while trying to locate your device. Trying again..."
 msgstr ""
-"Si è verificato un errore durante il tentativo di localizzare il "
+"Si è verificato un errore durante il tentativo di localizzazione del "
 "dispositivo. Nuovo tentativo in corso…"
 
 #: app/scripts/views/device.js:112
@@ -75,7 +74,7 @@ msgstr "Firefox OS"
 #: app/scripts/templates/device.html:5
 #, fuzzy
 msgid "Ring"
-msgstr "Squilla"
+msgstr "Segnale acustico"
 
 #: app/scripts/templates/device.html:6
 msgid "Lock"
@@ -132,7 +131,7 @@ msgstr ""
 
 #: app/scripts/templates/erase_confirmation.html:3
 msgid "Cancel"
-msgstr "Cancella contenuto"
+msgstr "Annulla"
 
 #: app/scripts/templates/lost_mode.html:2
 #: app/scripts/templates/lost_mode.html:7
@@ -157,24 +156,24 @@ msgstr "Inserisci il messaggio da visualizzare sullo schermo del dispositivo:"
 
 #: app/scripts/templates/lost_mode.html:6
 msgid "Note (optional)"
-msgstr "Messaggio (opzionale)"
+msgstr "Messaggio (facoltativo)"
 
 #: app/scripts/templates/lost_mode.html:9
 msgid "Next"
-msgstr "Successivo"
+msgstr "Avanti"
 
 #: app/scripts/templates/lost_mode_passcode.html:1
 msgid "Back"
-msgstr "Precedente"
+msgstr "Indietro"
 
 #: app/scripts/templates/lost_mode_passcode.html:5
 msgid "Enter a passcode to lock your device:"
-msgstr "Inserisci un codice per bloccare il dispositivo:"
+msgstr "Inserisci un codice di blocco per il dispositivo:"
 
 #: app/scripts/templates/lost_mode_passcode.html:6
 #: app/scripts/templates/lost_mode_passcode.html:9
 msgid "Passcode is required."
-msgstr "È richiesto un codice."
+msgstr "Il codice di blocco è un campo obbligatorio."
 
 #: app/scripts/templates/lost_mode_passcode.html:7
 #: app/scripts/templates/lost_mode_passcode.html:10
@@ -183,24 +182,24 @@ msgstr "Il codice deve essere composto da 4 cifre."
 
 #: app/scripts/templates/lost_mode_passcode.html:8
 msgid "Enter passcode again:"
-msgstr "Inserisci nuovamente il codice:"
+msgstr "Inserisci nuovamente il codice di blocco:"
 
 #: app/scripts/templates/lost_mode_passcode.html:11
 msgid "Passcodes must match."
-msgstr "I codici devono corrispondere."
+msgstr "I codici di blocco devono corrispondere."
 
 #: app/scripts/templates/lost_mode_passcode.html:12
 msgid ""
 "Once your device is locked, you will not be able to change this code again."
 msgstr ""
-"Una volta che il dispositivo verrà bloccato non sarà più possibile "
-"modificare il codice."
+"Dal momento in cui il dispositivo verrà bloccato non sarà più possibile "
+"modificare il codice di blocco."
 
 #: app/scripts/templates/play_sound.html:2
 #: app/scripts/templates/play_sound.html:4
 #, fuzzy
 msgid "Ring Device"
-msgstr "Fai squillare il dispositivo"
+msgstr "Attiva la suoneria del dispositivo"
 
 #: app/scripts/templates/play_sound.html:3
 msgid "Play a sound on your device to help you find it."

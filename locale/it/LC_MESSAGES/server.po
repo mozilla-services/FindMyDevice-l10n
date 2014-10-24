@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: 2014-10-22 20:15+0000\n"
+"PO-Revision-Date: 2014-10-24 13:11+0000\n"
 "Last-Translator: Sara <sara.todaro@mozillaitalia.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: it\n"
@@ -12,14 +12,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1414008923.0\n"
+"X-POOTLE-MTIME: 1414156262.0\n"
 
 #: app/index.html:9
 msgid "Find My Device — Firefox OS — Mozilla"
-msgstr ""
+msgstr "Trova dispositivo – Firefox OS — Mozilla"
 
 #: app/index.html:42
-#, fuzzy
 msgid "mozilla"
 msgstr "Mozilla"
 
@@ -54,9 +53,9 @@ msgid ""
 msgstr ""
 "Trova dispositivo può aiutarti a recuperare il tuo smartphone Firefox OS in "
 "caso di smarrimento. Permette di visualizzare la posizione del dispositivo "
-"su una mappa, farlo squillare o visualizzare un messaggio sullo schermo in "
-"remoto. Inoltre per la tua sicurezza consente di bloccare il dispositivo o "
-"cancellare completamente le informazioni personali."
+"su una mappa, attivarne la suoneria o visualizzare un messaggio sullo "
+"schermo in remoto. Inoltre per la tua sicurezza consente di bloccare il "
+"dispositivo o cancellare completamente le informazioni personali."
 
 #: app/index.html:52
 msgid ""
@@ -79,9 +78,8 @@ msgstr ""
 "visualizzare la sua posizione su una mappa."
 
 #: app/index.html:63
-#, fuzzy
 msgid "Ring"
-msgstr "Squillo"
+msgstr "Emissione suoni"
 
 #: app/index.html:64
 msgid ""
@@ -105,8 +103,9 @@ msgstr ""
 "chiunque trovi il dispositivo istruzioni su come restituirtelo."
 
 #: app/index.html:71
+#, fuzzy
 msgid "Erase"
-msgstr ""
+msgstr "Cancella contenuto"
 
 #: app/index.html:72
 msgid ""
@@ -122,15 +121,15 @@ msgid "Mozilla"
 msgstr "Mozilla"
 
 #: app/index.html:80
-#, fuzzy
 msgid ""
 "Portions of this content are ©1998–2014 by individual mozilla.org "
 "contributors. Content available under a <a href='http://www.mozilla.org/"
 "foundation/licensing/website-content/'>Creative Commons license</a>."
 msgstr ""
-"Parte del contenuto è sotto il copyright ©1998–2014 dei singoli "
-"collaboratori di mozilla.org. Questo contenuto è sotto <a href=\"/en-US/"
-"foundation/licensing/website-content/\">licenza Creative Commons</a>."
+"PParte di questi contenuti sono ©1998–2014 di singoli collaboratori di "
+"mozilla.org. I contenuti sono disponibili secondo la <a "
+"href='http://www.mozilla.org/foundation/licensing/website-content/'>licenza "
+"Creative Commons</a>."
 
 #: app/index.html:84
 msgid "Contact Us"
@@ -146,7 +145,7 @@ msgstr "Fai una donazione"
 
 #: app/index.html:87
 msgid "Firefox Affiliates"
-msgstr "Associati a Firefox"
+msgstr "Firefox Affiliates"
 
 #: app/index.html:88
 msgid "Contribute to this page"
@@ -170,11 +169,11 @@ msgstr "Mozilla:"
 
 #: app/index.html:101 app/index.html:108
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: app/index.html:102 app/index.html:109
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: app/index.html:106
 msgid "Firefox:"
@@ -182,7 +181,7 @@ msgstr "Firefox:"
 
 #: app/index.html:110
 msgid "YouTube"
-msgstr ""
+msgstr "YouTube"
 
 #~ msgid ""
 #~ "<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></"
