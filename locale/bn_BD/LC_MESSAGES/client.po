@@ -40,9 +40,7 @@ msgstr "আপনার ডিভাইসে রিং বাজানোর �
 
 #: app/scripts/views/device.js:107
 msgid "An error occurred while trying to locate your device. Trying again..."
-msgstr ""
-"আপনার ডিভাইস খুঁজে বের করার সময় একটি ত্রুটি হয়েছে। পুনরায় চেষ্টা করা "
-"হচ্ছে..."
+msgstr "আপনার ডিভাইস খুঁজে বের করার সময় একটি ত্রুটি হয়েছে। পুনরায় চেষ্টা করা হচ্ছে..."
 
 #: app/scripts/views/device.js:112
 msgid "Locating device..."
@@ -86,14 +84,12 @@ msgstr "দুঃখিত কিন্তু আপনার কোন ডি�
 msgid "Enable Find My Device on your Firefox OS device."
 msgstr "আপনার Firefox OS সম্বলিত ডিভাইসে Find My Device সক্রিয় করুন।"
 
-#: app/scripts/templates/erase.html:1
-#: app/scripts/templates/lost_mode.html:1
+#: app/scripts/templates/erase.html:1 app/scripts/templates/lost_mode.html:1
 #: app/scripts/templates/play_sound.html:1
 msgid "Close"
 msgstr "বন্ধ"
 
-#: app/scripts/templates/erase.html:2
-#: app/scripts/templates/erase.html:7
+#: app/scripts/templates/erase.html:2 app/scripts/templates/erase.html:7
 msgid "Erase Device"
 msgstr "ডিভাইস মুছুন"
 
@@ -181,7 +177,8 @@ msgid "Passcodes must match."
 msgstr "পাসকোড অবশ্যই মিলিতে হবে।"
 
 #: app/scripts/templates/lost_mode_passcode.html:12
-msgid "Once your device is locked, you will not be able to change this code again."
+msgid ""
+"Once your device is locked, you will not be able to change this code again."
 msgstr "একবার ডিভাইসটি লক হয়ে গেলে আপনি আর কোডটি পরিবর্তন করতে পারবেন না।"
 
 #: app/scripts/templates/play_sound.html:2

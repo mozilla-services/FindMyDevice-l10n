@@ -86,14 +86,12 @@ msgstr "Omlouváme se, ale nemáte žádné zařízení."
 msgid "Enable Find My Device on your Firefox OS device."
 msgstr "Povolte službu Nalézt mé zařízení na svém zařízení s Firefox OS."
 
-#: app/scripts/templates/erase.html:1
-#: app/scripts/templates/lost_mode.html:1
+#: app/scripts/templates/erase.html:1 app/scripts/templates/lost_mode.html:1
 #: app/scripts/templates/play_sound.html:1
 msgid "Close"
 msgstr "Zavřít"
 
-#: app/scripts/templates/erase.html:2
-#: app/scripts/templates/erase.html:7
+#: app/scripts/templates/erase.html:2 app/scripts/templates/erase.html:7
 msgid "Erase Device"
 msgstr "Vymazat zařízení"
 
@@ -181,7 +179,8 @@ msgid "Passcodes must match."
 msgstr "Hesla si musí odpovídat."
 
 #: app/scripts/templates/lost_mode_passcode.html:12
-msgid "Once your device is locked, you will not be able to change this code again."
+msgid ""
+"Once your device is locked, you will not be able to change this code again."
 msgstr ""
 "Jakmile bude vaše zařízení uzamčeno, nebudete mít možnost tento kód změnit."
 
