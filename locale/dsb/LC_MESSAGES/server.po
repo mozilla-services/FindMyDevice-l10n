@@ -3,42 +3,46 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2014-10-25 11:59+0000\n"
+"Last-Translator: milupo <milupo@sorbzilla.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: dsb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0-rc1\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
+"n%100==4 ? 2 : 3);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1414238364.0\n"
 
 #: app/index.html:9
 msgid "Find My Device — Firefox OS — Mozilla"
-msgstr ""
+msgstr "Mój rěd namakaś — Firefox OS — Mozilla"
 
 #: app/index.html:42
 msgid "mozilla"
-msgstr ""
+msgstr "mozilla"
 
 #: app/index.html:43
 msgid "Firefox OS"
-msgstr ""
+msgstr "Firefox OS"
 
 #: app/index.html:44
 msgid "Find My Device"
-msgstr ""
+msgstr "Mój rěd namakaś"
 
 #: app/index.html:45
 msgid "Locate a lost phone, lock it or even erase it remotely."
 msgstr ""
+"Namakajśo zgubjony telefon, zastajśoe jen abo wulašujśo jen samo znazdala."
 
 #: app/index.html:48
 msgid "Sign in"
-msgstr ""
+msgstr "Pśizjawiś"
 
 #: app/index.html:49
 msgid "Create a Firefox Account"
-msgstr ""
+msgstr "Konto Firefox załožyś"
 
 #: app/index.html:51
 msgid ""
@@ -47,56 +51,70 @@ msgid ""
 "message. You can also lock it for safety or delete your personal info "
 "completely."
 msgstr ""
+"Jolic sćo swój smartfon Firefox OS zgubił, móžo funkcija Mój rěd namakaś wam "
+"pomagaś, jen namakaś. Móžośo jen na kórśe wiźeś, jen zuk wótgraś daś a "
+"powěsć zwobrazniś daś. Móžośo jen teke wěstoty dla zastajiś abo swóje "
+"wósobinske informacije dopołnje wulašowaś."
 
 #: app/index.html:52
 msgid ""
 "To get started, make sure you have a Firefox Account and Find My Device "
 "enabled on your phone."
 msgstr ""
+"Nježli až zachopijośo. pśeznańśo se. až maśo konto Firefox a až funkcija Mó "
+"rěd namakaś jo zmóžnjona na swójom telefonje."
 
 #: app/index.html:59
 msgid "Track"
-msgstr ""
+msgstr "Slědowaś"
 
 #: app/index.html:60
 msgid ""
 "As long as your phone remains on and connected to the Internet, you can see "
 "its location on the map."
 msgstr ""
+"Tak dłujko ako waš telefon jo zašaltowany a zwězany z internetom, móžośo "
+"jogo stojnišćo na kórśe wiźeś."
 
 #: app/index.html:63
 msgid "Ring"
-msgstr ""
+msgstr "Zwóniś daś"
 
 #: app/index.html:64
 msgid ""
 "If you see that it’s nearby on the map, you can make the phone ring, even if "
 "the ringer is set to silent."
 msgstr ""
+"Jolic wiźiśo na kórśe, až waš telefon jo w bliskosći, móžośo jen zwóniś daś. "
+"samo gaž jo na nimy nastajony."
 
 #: app/index.html:67
 msgid "Lock"
-msgstr ""
+msgstr "Zastajiś"
 
 #: app/index.html:68
 msgid ""
 "To protect your personal info, you can lock your screen and have it display "
 "a message to help someone return it to you."
 msgstr ""
+"aby swóje wósobinske informacije šćitał, móžośo swóju wobrazowku zastajiś a "
+"powěsć zwobrazniś daś, aby někomu pomagał, jen k wam slědk pśinjasć."
 
 #: app/index.html:71
 msgid "Erase"
-msgstr ""
+msgstr "Wulašowaś"
 
 #: app/index.html:72
 msgid ""
 "If you’re unable to find your phone, you can permanently erase it, but "
 "please note that this can not be undone."
 msgstr ""
+"Jolic njenamakajośo swój telefon, móžośo jen na pśecej wulašowaś, ale "
+"źiwajśo pšosym na to, až to njedajo se anulěrowaś."
 
 #: app/index.html:79
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: app/index.html:80
 msgid ""
@@ -104,55 +122,59 @@ msgid ""
 "contributors. Content available under a <a href='http://www.mozilla.org/"
 "foundation/licensing/website-content/'>Creative Commons license</a>."
 msgstr ""
+"Źěle toś togo wopśimjeśa pódlaže awtorskemu pšawoju ©1998–2014 jadnotliwych "
+"sobustatkujucych mozilla.org. Wopśimjeśe jo pód <a "
+"href='http://www.mozilla.org/foundation/licensing/website-content/'>licencu "
+"Creative Commons</a> k dispoziciji."
 
 #: app/index.html:84
 msgid "Contact Us"
-msgstr ""
+msgstr "Kontakt"
 
 #: app/index.html:85
 msgid "Partner with Us"
-msgstr ""
+msgstr "Buźćo naš partnaŕ"
 
 #: app/index.html:86
 msgid "Donate"
-msgstr ""
+msgstr "Pósćiś"
 
 #: app/index.html:87
 msgid "Firefox Affiliates"
-msgstr ""
+msgstr "Partnarski program Firefox"
 
 #: app/index.html:88
 msgid "Contribute to this page"
-msgstr ""
+msgstr "K toś tomu bokoju pśinosowaś"
 
 #: app/index.html:91
 msgid "Privacy"
-msgstr ""
+msgstr "Priwatnosć"
 
 #: app/index.html:92
 msgid "Legal"
-msgstr ""
+msgstr "Pšawniske"
 
 #: app/index.html:93
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "Znjewužywanje wikowego znamjenja k wěsći daś"
 
 #: app/index.html:99
 msgid "Mozilla:"
-msgstr ""
+msgstr "Mozilla:"
 
 #: app/index.html:101 app/index.html:108
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: app/index.html:102 app/index.html:109
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: app/index.html:106
 msgid "Firefox:"
-msgstr ""
+msgstr "Firefox:"
 
 #: app/index.html:110
 msgid "YouTube"
-msgstr ""
+msgstr "YouTube"
