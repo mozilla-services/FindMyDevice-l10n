@@ -1,44 +1,45 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: fmo-server\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2014-10-25 20:28+0400\n"
+"Last-Translator: Alexander L. Slovesnik <unghost@mozilla-russia.org>\n"
+"Language-Team: russian <LL@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0-rc1\n"
+"X-Generator: Poedit 1.6.10\n"
 
 #: app/index.html:9
 msgid "Find My Device — Firefox OS — Mozilla"
-msgstr ""
+msgstr "Найти мое устройство — Firefox OS — Mozilla"
 
 #: app/index.html:42
 msgid "mozilla"
-msgstr ""
+msgstr "mozilla"
 
 #: app/index.html:43
 msgid "Firefox OS"
-msgstr ""
+msgstr "Firefox OS"
 
 #: app/index.html:44
 msgid "Find My Device"
-msgstr ""
+msgstr "Найти мое устройство"
 
 #: app/index.html:45
 msgid "Locate a lost phone, lock it or even erase it remotely."
 msgstr ""
+"Найдите потерянный телефон, заблокируйте его или даже удалённо сотрите его."
 
 #: app/index.html:48
 msgid "Sign in"
-msgstr ""
+msgstr "Войти"
 
 #: app/index.html:49
 msgid "Create a Firefox Account"
-msgstr ""
+msgstr "Создать Firefox Аккаунт"
 
 #: app/index.html:51
 msgid ""
@@ -47,56 +48,70 @@ msgid ""
 "message. You can also lock it for safety or delete your personal info "
 "completely."
 msgstr ""
+"Если вы потеряли свой смартфон на Firefox OS, функция «Найти мое устройство» "
+"может помочь вам его найти. Вы можете увидеть его на карте, заставить его "
+"воспроизвести звук и отобразить сообщение. Вы также можете заблокировать его "
+"в целях безопасности или полностью удалить личную информацию."
 
 #: app/index.html:52
 msgid ""
 "To get started, make sure you have a Firefox Account and Find My Device "
 "enabled on your phone."
 msgstr ""
+"Для начала убедитесь, что у вас есть Firefox Аккаунт и на телефоне включено "
+"«Найти мое устройство»."
 
 #: app/index.html:59
 msgid "Track"
-msgstr ""
+msgstr "Отслеживать"
 
 #: app/index.html:60
 msgid ""
 "As long as your phone remains on and connected to the Internet, you can see "
 "its location on the map."
 msgstr ""
+"Пока ваш телефон остается включённым и подключённым к Интернету, вы можете "
+"видеть его местоположение на карте."
 
 #: app/index.html:63
 msgid "Ring"
-msgstr ""
+msgstr "Позвонить"
 
 #: app/index.html:64
 msgid ""
 "If you see that it’s nearby on the map, you can make the phone ring, even if "
 "the ringer is set to silent."
 msgstr ""
+"Если вы видите на карте, что он поблизости, вы можете заставить его звонить, "
+"даже если установлен беззвучный режим."
 
 #: app/index.html:67
 msgid "Lock"
-msgstr ""
+msgstr "Заблокировать"
 
 #: app/index.html:68
 msgid ""
 "To protect your personal info, you can lock your screen and have it display "
 "a message to help someone return it to you."
 msgstr ""
+"Для защиты вашей личной информации вы можете заблокировать экран, и он "
+"отобразит сообщение, чтобы помочь кому-нибудь вернуть его вам."
 
 #: app/index.html:71
 msgid "Erase"
-msgstr ""
+msgstr "Стереть"
 
 #: app/index.html:72
 msgid ""
 "If you’re unable to find your phone, you can permanently erase it, but "
 "please note that this can not be undone."
 msgstr ""
+"Если вы не можете найти свой ​​телефон, вы можете полностью стереть его, но, "
+"пожалуйста, обратите внимание, что это не может быть отменено."
 
 #: app/index.html:79
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: app/index.html:80
 msgid ""
@@ -104,55 +119,58 @@ msgid ""
 "contributors. Content available under a <a href='http://www.mozilla.org/"
 "foundation/licensing/website-content/'>Creative Commons license</a>."
 msgstr ""
+"Части этого содержимого созданы участниками проекта mozilla.org ©1998–2014. "
+"Содержимое доступно на условиях <a href='http://www.mozilla.org/foundation/"
+"licensing/website-content/'>лицензии Creative Commons</a>."
 
 #: app/index.html:84
 msgid "Contact Us"
-msgstr ""
+msgstr "Связаться с нами"
 
 #: app/index.html:85
 msgid "Partner with Us"
-msgstr ""
+msgstr "Стать нашим партнером"
 
 #: app/index.html:86
 msgid "Donate"
-msgstr ""
+msgstr "Пожертвовать"
 
 #: app/index.html:87
 msgid "Firefox Affiliates"
-msgstr ""
+msgstr "Помощники Firefox"
 
 #: app/index.html:88
 msgid "Contribute to this page"
-msgstr ""
+msgstr "Внесите вклад в эту страницу"
 
 #: app/index.html:91
 msgid "Privacy"
-msgstr ""
+msgstr "Приватность"
 
 #: app/index.html:92
 msgid "Legal"
-msgstr ""
+msgstr "Юридическая информация"
 
 #: app/index.html:93
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "Сообщить о злоупотреблении торговой маркой"
 
 #: app/index.html:99
 msgid "Mozilla:"
-msgstr ""
+msgstr "Mozilla:"
 
 #: app/index.html:101 app/index.html:108
 msgid "Twitter"
-msgstr ""
+msgstr "Твиттер"
 
 #: app/index.html:102 app/index.html:109
 msgid "Facebook"
-msgstr ""
+msgstr "Фейсбук"
 
 #: app/index.html:106
 msgid "Firefox:"
-msgstr ""
+msgstr "Firefox:"
 
 #: app/index.html:110
 msgid "YouTube"
-msgstr ""
+msgstr "YouTube"
