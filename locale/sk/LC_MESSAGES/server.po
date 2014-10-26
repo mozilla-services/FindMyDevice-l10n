@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: 2014-10-26 22:35+0000\n"
+"PO-Revision-Date: 2014-10-26 22:49+0000\n"
 "Last-Translator: Branislav <rozbora@mozilla.sk>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sk\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1414362931.0\n"
+"X-POOTLE-MTIME: 1414363770.0\n"
 
 #: app/index.html:9
 msgid "Find My Device — Firefox OS — Mozilla"
@@ -51,56 +51,71 @@ msgid ""
 "message. You can also lock it for safety or delete your personal info "
 "completely."
 msgstr ""
+"Ak stratíte svoj telefón s Firefox OS, služba Vyhľadať moje zariadenie vám "
+"môže pomôcť ho nájsť. Môžete ho vidieť na mape, prehrať na ňom zvuk, alebo "
+"zobraziť správu. Môžete ho tiež z bezpečnostných dôvodov zablokovať, alebo z "
+"neho kompletne odstrániť všetky vaše údaje."
 
 #: app/index.html:52
 msgid ""
 "To get started, make sure you have a Firefox Account and Find My Device "
 "enabled on your phone."
 msgstr ""
+"Na začiatok sa uistite, že ste na vašom zariadení prihlásený k Účtu Firefox "
+"a máte aktívovanú službu Vyhľadať moje zariadenie."
 
 #: app/index.html:59
 msgid "Track"
-msgstr ""
+msgstr "Sledovať"
 
 #: app/index.html:60
 msgid ""
 "As long as your phone remains on and connected to the Internet, you can see "
 "its location on the map."
 msgstr ""
+"Tak dlho ako ostane váš telefón zapnutý a pripojený na Internet budete môcť "
+"vidieť jeho polohu na mape."
 
 #: app/index.html:63
 msgid "Ring"
-msgstr ""
+msgstr "Vyzváňanie"
 
 #: app/index.html:64
 msgid ""
 "If you see that it’s nearby on the map, you can make the phone ring, even if "
 "the ringer is set to silent."
 msgstr ""
+"Ak podľa mapy vidíte, že sa nachádza blízko, môžete aktivovať vyzváňanie a "
+"to dokonca aj vtedy, ak sú zvonenia vypnuté."
 
 #: app/index.html:67
 msgid "Lock"
-msgstr ""
+msgstr "Uzamknúť"
 
 #: app/index.html:68
 msgid ""
 "To protect your personal info, you can lock your screen and have it display "
 "a message to help someone return it to you."
 msgstr ""
+"Pre ochranu vašich osobných údajov môžete zamknúť obrazovku a zobraziť na "
+"nej správu. Môžete tak prípadnému nálezcovi zjednodušiť cestu k vráteniu "
+"zariadenia."
 
 #: app/index.html:71
 msgid "Erase"
-msgstr ""
+msgstr "Vymazať"
 
 #: app/index.html:72
 msgid ""
 "If you’re unable to find your phone, you can permanently erase it, but "
 "please note that this can not be undone."
 msgstr ""
+"Ak sa vám nedarí váš telefón nájsť, môžete ho natrvalo vymazať. Vymazanie je "
+"však nezvratný krok."
 
 #: app/index.html:79
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: app/index.html:80
 msgid ""
@@ -108,6 +123,10 @@ msgid ""
 "contributors. Content available under a <a href='http://www.mozilla.org/"
 "foundation/licensing/website-content/'>Creative Commons license</a>."
 msgstr ""
+"Časť tohto obsahu bola v rokoch ©1998–2014 vytvorená individuálnymi "
+"prispievateľmi mozilla.org. Obsah je dostupný pod licenciou <a "
+"href='http://www.mozilla.org/foundation/licensing/website-content/'>Creative "
+"Commons</a>."
 
 #: app/index.html:84
 msgid "Contact Us"
