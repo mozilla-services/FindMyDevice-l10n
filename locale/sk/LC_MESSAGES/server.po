@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: 2014-10-26 22:30+0000\n"
+"PO-Revision-Date: 2014-10-26 22:35+0000\n"
 "Last-Translator: Branislav <rozbora@mozilla.sk>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sk\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1414362606.0\n"
+"X-POOTLE-MTIME: 1414362931.0\n"
 
 #: app/index.html:9
 msgid "Find My Device — Firefox OS — Mozilla"
@@ -111,52 +111,52 @@ msgstr ""
 
 #: app/index.html:84
 msgid "Contact Us"
-msgstr ""
+msgstr "Kontaktujte nás"
 
 #: app/index.html:85
 msgid "Partner with Us"
-msgstr ""
+msgstr "Partnerstvo"
 
 #: app/index.html:86
 msgid "Donate"
-msgstr ""
+msgstr "Darujte"
 
 #: app/index.html:87
 msgid "Firefox Affiliates"
-msgstr ""
+msgstr "Firefox tlačidlá"
 
 #: app/index.html:88
 msgid "Contribute to this page"
-msgstr ""
+msgstr "Prispieť k obsahu stránky"
 
 #: app/index.html:91
 msgid "Privacy"
-msgstr ""
+msgstr "Súkromie"
 
 #: app/index.html:92
 msgid "Legal"
-msgstr ""
+msgstr "Právne informácie"
 
 #: app/index.html:93
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "Nahlásiť porušenie ochrannej známky"
 
 #: app/index.html:99
 msgid "Mozilla:"
-msgstr ""
+msgstr "Mozilla:"
 
 #: app/index.html:101 app/index.html:108
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: app/index.html:102 app/index.html:109
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: app/index.html:106
 msgid "Firefox:"
-msgstr ""
+msgstr "Firefox:"
 
 #: app/index.html:110
 msgid "YouTube"
-msgstr ""
+msgstr "YouTube"
