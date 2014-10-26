@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: 2014-10-24 13:11+0000\n"
+"PO-Revision-Date: 2014-10-26 10:37+0000\n"
 "Last-Translator: Sara <sara.todaro@mozillaitalia.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: it\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1414156262.0\n"
+"X-POOTLE-MTIME: 1414319867.0\n"
 
 #: app/index.html:9
 msgid "Find My Device — Firefox OS — Mozilla"
@@ -103,7 +103,6 @@ msgstr ""
 "chiunque trovi il dispositivo istruzioni su come restituirtelo."
 
 #: app/index.html:71
-#, fuzzy
 msgid "Erase"
 msgstr "Cancella contenuto"
 
@@ -161,7 +160,7 @@ msgstr "Note legali"
 
 #: app/index.html:93
 msgid "Report Trademark Abuse"
-msgstr "Segnala abuso di un marchio registrato"
+msgstr "Segnala abusi dei marchi registrati"
 
 #: app/index.html:99
 msgid "Mozilla:"

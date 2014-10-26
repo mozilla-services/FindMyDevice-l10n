@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: 2014-10-24 13:01+0000\n"
+"PO-Revision-Date: 2014-10-26 10:37+0000\n"
 "Last-Translator: Sara <sara.todaro@mozillaitalia.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: it\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1414155709.0\n"
+"X-POOTLE-MTIME: 1414319856.0\n"
 
 #: app/scripts/views/device.js:83
 msgid "Your device is erasing."
@@ -38,7 +38,6 @@ msgid "Your device is ringing."
 msgstr "In questo momento il dispositivo sta squillando."
 
 #: app/scripts/views/device.js:101
-#, fuzzy
 msgid "An error occurred while trying to ring your device."
 msgstr ""
 "Si è verificato un errore durante il tentativo di attivare la suoneria del "
@@ -72,7 +71,6 @@ msgid "Firefox OS"
 msgstr "Firefox OS"
 
 #: app/scripts/templates/device.html:5
-#, fuzzy
 msgid "Ring"
 msgstr "Segnale acustico"
 
@@ -178,7 +176,7 @@ msgstr "Il codice di blocco è un campo obbligatorio."
 #: app/scripts/templates/lost_mode_passcode.html:7
 #: app/scripts/templates/lost_mode_passcode.html:10
 msgid "Passcode must be 4 digits."
-msgstr "Il codice deve essere composto da 4 cifre."
+msgstr "Il codice di blocco deve essere composto da 4 cifre."
 
 #: app/scripts/templates/lost_mode_passcode.html:8
 msgid "Enter passcode again:"
@@ -197,7 +195,6 @@ msgstr ""
 
 #: app/scripts/templates/play_sound.html:2
 #: app/scripts/templates/play_sound.html:4
-#, fuzzy
 msgid "Ring Device"
 msgstr "Attiva la suoneria del dispositivo"
 
