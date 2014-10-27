@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: 2014-10-22 06:19+0000\n"
+"PO-Revision-Date: 2014-10-27 14:12+0000\n"
 "Last-Translator: Peter <petercpg@mail.moztw.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_TW\n"
@@ -12,16 +12,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1413958760.0\n"
+"X-POOTLE-MTIME: 1414419134.0\n"
 
 #: app/index.html:9
 msgid "Find My Device — Firefox OS — Mozilla"
-msgstr ""
+msgstr "Find My Device — Firefox OS — Mozilla"
 
 #: app/index.html:42
-#, fuzzy
 msgid "mozilla"
-msgstr "Mozilla"
+msgstr "mozilla"
 
 #: app/index.html:43
 msgid "Firefox OS"
@@ -94,7 +93,7 @@ msgstr ""
 
 #: app/index.html:71
 msgid "Erase"
-msgstr ""
+msgstr "抹除"
 
 #: app/index.html:72
 msgid ""
@@ -107,15 +106,14 @@ msgid "Mozilla"
 msgstr "Mozilla"
 
 #: app/index.html:80
-#, fuzzy
 msgid ""
 "Portions of this content are ©1998–2014 by individual mozilla.org "
 "contributors. Content available under a <a href='http://www.mozilla.org/"
 "foundation/licensing/website-content/'>Creative Commons license</a>."
 msgstr ""
-"本頁的部分內容著作權係 ©1998–2014 由不同 mozilla.org 貢獻者所有。內容依照 <a "
-"href=\"/en-US/foundation/licensing/website-content/\">創用 CC 授權條款</a> 進"
-"行授權。"
+"部分內容著作權係 ©1998–2014 由不同 mozilla.org 貢獻者所有。內容依照 <a "
+"href='http://www.mozilla.org/foundation/licensing/website-content/'>創用 CC "
+"授權條款</a> 進行授權。"
 
 #: app/index.html:84
 msgid "Contact Us"
@@ -155,11 +153,11 @@ msgstr "Mozilla:"
 
 #: app/index.html:101 app/index.html:108
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: app/index.html:102 app/index.html:109
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: app/index.html:106
 msgid "Firefox:"
@@ -167,7 +165,7 @@ msgstr "Firefox:"
 
 #: app/index.html:110
 msgid "YouTube"
-msgstr ""
+msgstr "YouTube"
 
 #~ msgid ""
 #~ "<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></"
