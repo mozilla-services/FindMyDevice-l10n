@@ -3,42 +3,44 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2014-10-27 10:50+0000\n"
+"Last-Translator: Marco Aurélio <ouesten@me.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0-rc1\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1414407006.0\n"
 
 #: app/index.html:9
 msgid "Find My Device — Firefox OS — Mozilla"
-msgstr ""
+msgstr "Encontrar o Meu Dispositivo — Firefox OS — Mozilla"
 
 #: app/index.html:42
 msgid "mozilla"
-msgstr ""
+msgstr "mozilla"
 
 #: app/index.html:43
 msgid "Firefox OS"
-msgstr ""
+msgstr "Firefox OS"
 
 #: app/index.html:44
 msgid "Find My Device"
-msgstr ""
+msgstr "Encontre Meu Dispositivo"
 
 #: app/index.html:45
 msgid "Locate a lost phone, lock it or even erase it remotely."
-msgstr ""
+msgstr "Encontre um aparelho perdido, bloqueie ou apague-o remotamente."
 
 #: app/index.html:48
 msgid "Sign in"
-msgstr ""
+msgstr "Entrar"
 
 #: app/index.html:49
 msgid "Create a Firefox Account"
-msgstr ""
+msgstr "Criar uma conta Firefox"
 
 #: app/index.html:51
 msgid ""
@@ -47,56 +49,70 @@ msgid ""
 "message. You can also lock it for safety or delete your personal info "
 "completely."
 msgstr ""
+"Se você perdeu seu smartphone Firefox OS, o Encontre Meu Dispositivo pode "
+"ajudá-lo a encontrá-lo. Você pode vê-lo em um mapa, fazê-lo tocar e exibir "
+"uma mensagem. Você também pode bloqueá-lo, por segurança, ou deletar suas "
+"informações pessoais completamente."
 
 #: app/index.html:52
 msgid ""
 "To get started, make sure you have a Firefox Account and Find My Device "
 "enabled on your phone."
 msgstr ""
+"Para começar, certifique-se que você possui uma conta Firefox e o Encontre "
+"Meu Dispositivo habilitados em seu telefone."
 
 #: app/index.html:59
 msgid "Track"
-msgstr ""
+msgstr "Localizar"
 
 #: app/index.html:60
 msgid ""
 "As long as your phone remains on and connected to the Internet, you can see "
 "its location on the map."
 msgstr ""
+"Enquanto seu telefone estiver ligado e conectado à Internet, poderá ver a "
+"sua localização no mapa."
 
 #: app/index.html:63
 msgid "Ring"
-msgstr ""
+msgstr "Tocar"
 
 #: app/index.html:64
 msgid ""
 "If you see that it’s nearby on the map, you can make the phone ring, even if "
 "the ringer is set to silent."
 msgstr ""
+"Se você ver que está perto do mapa, você pode fazer o telefone tocar, mesmo "
+"que ele esteja no modo silencioso."
 
 #: app/index.html:67
 msgid "Lock"
-msgstr ""
+msgstr "Bloquear"
 
 #: app/index.html:68
 msgid ""
 "To protect your personal info, you can lock your screen and have it display "
 "a message to help someone return it to you."
 msgstr ""
+"Para proteger suas informações pessoais, você pode bloquear sua tela e "
+"exibir uma mensagem para ajudar alguém a devolvê-lo."
 
 #: app/index.html:71
 msgid "Erase"
-msgstr ""
+msgstr "Apagar"
 
 #: app/index.html:72
 msgid ""
 "If you’re unable to find your phone, you can permanently erase it, but "
 "please note that this can not be undone."
 msgstr ""
+"Se você não conseguir encontrar seu telefone, você pode apagá-lo "
+"permanentemente, mas por favor, note que esta ação não pode ser desfeita."
 
 #: app/index.html:79
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: app/index.html:80
 msgid ""
@@ -104,55 +120,59 @@ msgid ""
 "contributors. Content available under a <a href='http://www.mozilla.org/"
 "foundation/licensing/website-content/'>Creative Commons license</a>."
 msgstr ""
+"Partes deste conteúdo  © 1998-2014 são de colabordores individuais da "
+"mozilla.org. Conteúdo disponível sob a <a "
+"href='http://www.mozilla.org/foundation/licensing/website-content/'>Licença "
+"Creative Commons</a>."
 
 #: app/index.html:84
 msgid "Contact Us"
-msgstr ""
+msgstr "Contacte-nos"
 
 #: app/index.html:85
 msgid "Partner with Us"
-msgstr ""
+msgstr "Seja nosso parceiro"
 
 #: app/index.html:86
 msgid "Donate"
-msgstr ""
+msgstr "Doe"
 
 #: app/index.html:87
 msgid "Firefox Affiliates"
-msgstr ""
+msgstr "Afiliados do Firefox"
 
 #: app/index.html:88
 msgid "Contribute to this page"
-msgstr ""
+msgstr "Contribua com esta página"
 
 #: app/index.html:91
 msgid "Privacy"
-msgstr ""
+msgstr "Privacidade"
 
 #: app/index.html:92
 msgid "Legal"
-msgstr ""
+msgstr "Legal"
 
 #: app/index.html:93
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "Reportar abuso de marca registrada"
 
 #: app/index.html:99
 msgid "Mozilla:"
-msgstr ""
+msgstr "Mozilla:"
 
 #: app/index.html:101 app/index.html:108
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: app/index.html:102 app/index.html:109
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: app/index.html:106
 msgid "Firefox:"
-msgstr ""
+msgstr "Firefox:"
 
 #: app/index.html:110
 msgid "YouTube"
-msgstr ""
+msgstr "YouTube"
