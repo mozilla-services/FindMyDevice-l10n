@@ -3,187 +3,191 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2014-11-05 11:48+0000\n"
+"Last-Translator: Artem <a.polivanchuk@outlook.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0-rc1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1415188116.0\n"
 
 #: app/scripts/views/device.js:83
 msgid "Your device is erasing."
-msgstr ""
+msgstr "Вміст вашого пристрою стирається."
 
 #: app/scripts/views/device.js:85
 msgid "An error occurred while trying to erase your device."
-msgstr ""
+msgstr "Під час спроби стерти ваш пристрій сталася помилка."
 
 #: app/scripts/views/device.js:91
 msgid "Your device is locked."
-msgstr ""
+msgstr "Ваш пристрій заблоковано."
 
 #: app/scripts/views/device.js:93
 msgid "An error occurred while trying to lock your device."
-msgstr ""
+msgstr "Під час спроби заблокувати ваш пристрій сталася помилка."
 
 #: app/scripts/views/device.js:99
 msgid "Your device is ringing."
-msgstr ""
+msgstr "Ваш пристрій зараз дзвонить."
 
 #: app/scripts/views/device.js:101
 msgid "An error occurred while trying to ring your device."
-msgstr ""
+msgstr "Під час спроби увімкнути дзвінок на вашому пристрої сталася помилка."
 
 #: app/scripts/views/device.js:107
 msgid "An error occurred while trying to locate your device. Trying again..."
-msgstr ""
+msgstr "Під час визначення розташування вашого пристрою сталася помилка. Повторна спроба..."
 
 #: app/scripts/views/device.js:112
 msgid "Locating device..."
-msgstr ""
+msgstr "Визначення розташування пристрою..."
 
 #: app/scripts/templates/device.html:1
 msgid "Menu"
-msgstr ""
+msgstr "Меню"
 
 #: app/scripts/templates/device.html:2
 #: app/scripts/templates/device_not_found.html:3
 msgid "Sign out"
-msgstr ""
+msgstr "Вийти"
 
 #: app/scripts/templates/device.html:3
 msgid "Connecting to device..."
-msgstr ""
+msgstr "З'єднання з пристроєм..."
 
 #: app/scripts/templates/device.html:4
 msgid "Firefox OS"
-msgstr ""
+msgstr "Firefox OS"
 
 #: app/scripts/templates/device.html:5
 msgid "Ring"
-msgstr ""
+msgstr "Дзвонити"
 
 #: app/scripts/templates/device.html:6
 msgid "Lock"
-msgstr ""
+msgstr "Заблокувати"
 
 #: app/scripts/templates/device.html:7
 #: app/scripts/templates/erase_confirmation.html:4
 msgid "Erase"
-msgstr ""
+msgstr "Стерти"
 
 #: app/scripts/templates/device_not_found.html:1
 msgid "Sorry but you don't have any devices."
-msgstr ""
+msgstr "Нажаль ви не маєте жодного пристрою."
 
 #: app/scripts/templates/device_not_found.html:2
 msgid "Enable Find My Device on your Firefox OS device."
-msgstr ""
+msgstr "Увімкнути знаходження пристрою на своєму пристрої з Firefox OS."
 
 #: app/scripts/templates/erase.html:1 app/scripts/templates/lost_mode.html:1
 #: app/scripts/templates/play_sound.html:1
 msgid "Close"
-msgstr ""
+msgstr "Закрити"
 
 #: app/scripts/templates/erase.html:2 app/scripts/templates/erase.html:7
 msgid "Erase Device"
-msgstr ""
+msgstr "Стерти пристрій"
 
 #: app/scripts/templates/erase.html:3
 msgid "Erasing your device will:"
-msgstr ""
+msgstr "Стирання вашого пристрою призведе до:"
 
 #: app/scripts/templates/erase.html:4
 msgid "Delete your contacts, media, messages and installed apps"
-msgstr ""
+msgstr "Видалення ваших контактів, медіа, повідомлень та встановлених програм"
 
 #: app/scripts/templates/erase.html:5
 msgid "Restore the device to its factory settings"
-msgstr ""
+msgstr "Відновлення пристрою до його заводських налаштувань"
 
 #: app/scripts/templates/erase.html:6
 msgid "Disable Find My Device"
-msgstr ""
+msgstr "Вимкнути знаходження пристрою"
 
 #: app/scripts/templates/erase_confirmation.html:1
 msgid "Confirmation"
-msgstr ""
+msgstr "Підтвердження"
 
 #: app/scripts/templates/erase_confirmation.html:2
 msgid "Are you sure you want to erase your device?"
-msgstr ""
+msgstr "Ви впевнені, що хочете стерти свій пристрій?"
 
 #: app/scripts/templates/erase_confirmation.html:3
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 #: app/scripts/templates/lost_mode.html:2
 #: app/scripts/templates/lost_mode.html:7
 #: app/scripts/templates/lost_mode_passcode.html:2
 #: app/scripts/templates/lost_mode_passcode.html:13
 msgid "Lock Device"
-msgstr ""
+msgstr "Заблокувати пристрій"
 
 #: app/scripts/templates/lost_mode.html:3
 #: app/scripts/templates/lost_mode_passcode.html:3
 msgid "Step 1"
-msgstr ""
+msgstr "Крок 1"
 
 #: app/scripts/templates/lost_mode.html:4
 #: app/scripts/templates/lost_mode_passcode.html:4
 msgid "Step 2"
-msgstr ""
+msgstr "Крок 2"
 
 #: app/scripts/templates/lost_mode.html:5
 msgid "Enter a note to show on the device:"
-msgstr ""
+msgstr "Уведіть повідомлення для показу на пристрої:"
 
 #: app/scripts/templates/lost_mode.html:6
 msgid "Note (optional)"
-msgstr ""
+msgstr "Повідомлення (необов'язково)"
 
 #: app/scripts/templates/lost_mode.html:9
 msgid "Next"
-msgstr ""
+msgstr "Далі"
 
 #: app/scripts/templates/lost_mode_passcode.html:1
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 #: app/scripts/templates/lost_mode_passcode.html:5
 msgid "Enter a passcode to lock your device:"
-msgstr ""
+msgstr "Уведіть код для блокування вашого пристрою:"
 
 #: app/scripts/templates/lost_mode_passcode.html:6
 #: app/scripts/templates/lost_mode_passcode.html:9
 msgid "Passcode is required."
-msgstr ""
+msgstr "Необхідний код."
 
 #: app/scripts/templates/lost_mode_passcode.html:7
 #: app/scripts/templates/lost_mode_passcode.html:10
 msgid "Passcode must be 4 digits."
-msgstr ""
+msgstr "Код повинен складатись із 4 цифр."
 
 #: app/scripts/templates/lost_mode_passcode.html:8
 msgid "Enter passcode again:"
-msgstr ""
+msgstr "Введіть код ще раз:"
 
 #: app/scripts/templates/lost_mode_passcode.html:11
 msgid "Passcodes must match."
-msgstr ""
+msgstr "Коди повинні співпадати."
 
 #: app/scripts/templates/lost_mode_passcode.html:12
 msgid ""
 "Once your device is locked, you will not be able to change this code again."
 msgstr ""
+"Після блокування вашого пристрою ви більше не зможете знову змінити цей код."
 
 #: app/scripts/templates/play_sound.html:2
 #: app/scripts/templates/play_sound.html:4
 msgid "Ring Device"
-msgstr ""
+msgstr "Дзвінок пристрою"
 
 #: app/scripts/templates/play_sound.html:3
 msgid "Play a sound on your device to help you find it."
-msgstr ""
+msgstr "Відтворити звук на вашому пристрої, щоб допомогти його знайти."
