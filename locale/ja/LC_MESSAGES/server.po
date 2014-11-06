@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: 2014-10-24 16:04-0400\n"
+"PO-Revision-Date: 2014-11-05 16:04-0500\n"
 "Last-Translator: Kohei Yoshino <kohei.yoshino@gmail.com>\n"
 "Language-Team: Japanese\n"
 "Language: ja\n"
@@ -39,7 +39,7 @@ msgstr "ログイン"
 
 #: app/index.html:49
 msgid "Create a Firefox Account"
-msgstr "Firefox Account を作成"
+msgstr "Firefox アカウントを作成"
 
 #: app/index.html:51
 msgid ""
@@ -58,7 +58,7 @@ msgid ""
 "To get started, make sure you have a Firefox Account and Find My Device "
 "enabled on your phone."
 msgstr ""
-"始めるには、まず Firefox Account を作成し、お使いの電話機の Find My Device を"
+"始めるには、まず Firefox アカウントを作成し、お使いの電話機の Find My Device を"
 "有効にする必要があります。"
 
 #: app/index.html:59
