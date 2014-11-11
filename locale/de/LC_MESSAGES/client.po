@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: 2014-10-22 08:51+0000\n"
+"PO-Revision-Date: 2014-11-11 19:48+0000\n"
 "Last-Translator: Michael <michael.koehler1@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1413967888.0\n"
+"X-POOTLE-MTIME: 1415735303.0\n"
 
 #: app/scripts/views/device.js:83
 msgid "Your device is erasing."
@@ -80,7 +80,7 @@ msgstr "Löschen"
 
 #: app/scripts/templates/device_not_found.html:1
 msgid "Sorry but you don't have any devices."
-msgstr "Es tut uns Leid, aber Sie haben keine Geräte."
+msgstr "Es tut uns leid, aber Sie haben keine Geräte."
 
 #: app/scripts/templates/device_not_found.html:2
 msgid "Enable Find My Device on your Firefox OS device."
