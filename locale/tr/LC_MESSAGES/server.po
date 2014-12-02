@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: 2014-10-31 13:03+0000\n"
+"PO-Revision-Date: 2014-12-02 10:49+0000\n"
 "Last-Translator: Selim <selim@sum.lu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1414760636.0\n"
+"X-POOTLE-MTIME: 1417517370.0\n"
 
 #: app/index.html:9
 msgid "Find My Device — Firefox OS — Mozilla"
@@ -32,7 +32,7 @@ msgstr "Cihazımı Bul"
 
 #: app/index.html:45
 msgid "Locate a lost phone, lock it or even erase it remotely."
-msgstr ""
+msgstr "Kaybettiğiniz telefonu uzaktan bulun, kilitleyin ve hatta silin."
 
 #: app/index.html:48
 msgid "Sign in"
@@ -49,22 +49,31 @@ msgid ""
 "message. You can also lock it for safety or delete your personal info "
 "completely."
 msgstr ""
+"Firefox OS akıllı telefonunuzu kaybettiyseniz Cihazımı Bul hizmeti onu "
+"bulmanıza yardımcı olabilir. Telefonunuzu harita üzerinde görebilir, ses "
+"çalmasını ve ekranında bir mesaj görünmesini sağlayabilirsiniz. Ayrıca "
+"güvenlik açısından telefonu kilitleyebilir veya kişisel bilgilerinizi "
+"tamamen silebilirsiniz."
 
 #: app/index.html:52
 msgid ""
 "To get started, make sure you have a Firefox Account and Find My Device "
 "enabled on your phone."
 msgstr ""
+"Başlamak için, bir Firefox Hesabınız olduğundan ve telefonunuzda Cihazımı "
+"Bul'un etkin olduğundan emin olun."
 
 #: app/index.html:59
 msgid "Track"
-msgstr ""
+msgstr "İzle"
 
 #: app/index.html:60
 msgid ""
 "As long as your phone remains on and connected to the Internet, you can see "
 "its location on the map."
 msgstr ""
+"Telefonunuz açık ve internete bağlı olduğu sürece konumunu harita üzerinde "
+"görebilirsiniz."
 
 #: app/index.html:63
 msgid "Ring"
@@ -75,6 +84,8 @@ msgid ""
 "If you see that it’s nearby on the map, you can make the phone ring, even if "
 "the ringer is set to silent."
 msgstr ""
+"Haritada yakınınızda görünüyorsa, telefon sessize alınmış olsa bile ses "
+"çalmasını sağlayabilirsiniz."
 
 #: app/index.html:67
 msgid "Lock"
@@ -85,6 +96,8 @@ msgid ""
 "To protect your personal info, you can lock your screen and have it display "
 "a message to help someone return it to you."
 msgstr ""
+"Kişisel bilgilerinizi korumak için ekranınızı kilitleyebilir, telefonu bulan "
+"kişinin size ulaşmasını kolaylaştıracak bir mesaj gösterebilirsiniz."
 
 #: app/index.html:71
 msgid "Erase"
@@ -95,6 +108,8 @@ msgid ""
 "If you’re unable to find your phone, you can permanently erase it, but "
 "please note that this can not be undone."
 msgstr ""
+"Telefonunuzu bulamıyorsanız onu kalıcı olarak silebilirsiniz ama unutmayın "
+"ki bu işlem geri alınamaz."
 
 #: app/index.html:79
 msgid "Mozilla"
