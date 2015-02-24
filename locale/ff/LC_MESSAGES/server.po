@@ -1,158 +1,195 @@
+# Ibrahima SARR <ibrahima.sarr@pulaagu.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2014-10-14 03:30+0000\n"
+"PO-Revision-Date: 2015-02-24 19:00+0200\n"
+"Last-Translator: Ibrahima SARR <ibrahima.sarr@pulaagu.com>\n"
+"Language-Team: FULAH LOCALIZATION\n"
 "Language: ff\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0-rc1\n"
+"X-Generator: Virtaal 0.7.1\n"
 
-#: app/index.html:9
-msgid "Find My Device — Firefox OS — Mozilla"
-msgstr ""
-
-#: app/index.html:42
-msgid "mozilla"
-msgstr ""
-
-#: app/index.html:43
+#: templates/index.html:1
 msgid "Firefox OS"
-msgstr ""
+msgstr "Firefox OS"
 
-#: app/index.html:44
+#: templates/index.html:2
 msgid "Find My Device"
-msgstr ""
+msgstr "Yiytu Kaɓirgol Am"
 
-#: app/index.html:45
+#: templates/index.html:3
 msgid "Locate a lost phone, lock it or even erase it remotely."
-msgstr ""
+msgstr "Yiytu cinndel majjungel, sok ngel walla nih momtu ngel e yolnde."
 
-#: app/index.html:48
-msgid "Sign in"
-msgstr ""
-
-#: app/index.html:49
-msgid "Create a Firefox Account"
-msgstr ""
-
-#: app/index.html:51
+#: templates/index.html:4
 msgid ""
 "If you’ve lost your Firefox OS smartphone, Find My Device can help you find "
 "it. You can see it on a map, make it play a sound and have it display a "
 "message. You can also lock it for safety or delete your personal info "
 "completely."
 msgstr ""
+"So a majjinii cinndel maa Firefox OS, Yiytu Kaɓirgol Am maa wallu-ma yiytude "
+"ngel. Aɗa waawi yiyde nde e mappal, tarnude ngel nantere kadi jaytinde e "
+"maggel ɓatakuru. Aɗa waawi kadi sokde ngel ngam suturo maa walla momtude "
+"humpito maa sirlije haa laaɓa."
 
-#: app/index.html:52
+#: templates/index.html:5
 msgid ""
 "To get started, make sure you have a Firefox Account and Find My Device "
 "enabled on your phone."
 msgstr ""
+"Ko adii fof, ƴeewto so Konte Firefox e Yiytu Kaɓirgol Am ena kurmi e cinndel "
+"maa."
 
-#: app/index.html:59
+#: templates/index.html:6
+msgid "Sign in"
+msgstr "Seŋo"
+
+#: templates/index.html:7
+msgid "Create a Firefox Account"
+msgstr "Sos Konte Firefox"
+
+#: templates/index.html:8
 msgid "Track"
-msgstr ""
+msgstr "Lappol"
 
-#: app/index.html:60
+#: templates/index.html:9
 msgid ""
 "As long as your phone remains on and connected to the Internet, you can see "
 "its location on the map."
 msgstr ""
+"Kala sahaa mo cinndel maa ena huɓɓi tee ena seŋii e Enternet, aɗa waawi "
+"yiyde nokkuure mayre e mappal ngal."
 
-#: app/index.html:63
+#: templates/index.html:10
 msgid "Ring"
-msgstr ""
+msgstr "Holɓin"
 
-#: app/index.html:64
+#: templates/index.html:11
 msgid ""
-"If you see that it’s nearby on the map, you can make the phone ring, even if "
-"the ringer is set to silent."
+"If you see that it’s nearby on the map, you can make the phone ring, even "
+"if the ringer is set to silent."
 msgstr ""
+"So a yiyi ende sara ɗoon e mappal ngal, aɗa waawi holɓinde cinndel ngel, hay "
+"so holɓitorde ndee ena muumɗinaa."
 
-#: app/index.html:67
+#: templates/index.html:12
 msgid "Lock"
-msgstr ""
+msgstr "Sok"
 
-#: app/index.html:68
+#: templates/index.html:13
 msgid ""
 "To protect your personal info, you can lock your screen and have it display "
 "a message to help someone return it to you."
 msgstr ""
+"Ngam reende humpito maa heeriingo, aɗa waawi sokde yaynirde maa kadi "
+"yaltinde heen ɓatakuru ngam wallude jogiiɗo oo artirde ɗum to maa."
 
-#: app/index.html:71
-msgid "Erase"
-msgstr ""
-
-#: app/index.html:72
+#: templates/index.html:14
 msgid ""
 "If you’re unable to find your phone, you can permanently erase it, but "
 "please note that this can not be undone."
 msgstr ""
+"So a horiima yiytude cinndel maa, aɗa waawi momtude kala ko wonnoo e maggel, "
+"kono faam noon haŋkadi ɗuum firtotaako."
 
-#: app/index.html:79
+#: templates/index.html:16
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
-#: app/index.html:80
+#: templates/index.html:17
 msgid ""
 "Portions of this content are ©1998–2014 by individual mozilla.org "
-"contributors. Content available under a <a href='http://www.mozilla.org/"
-"foundation/licensing/website-content/'>Creative Commons license</a>."
+"contributors. Content available under a <a "
+"href=\"/en-US/foundation/licensing/website-content/\">Creative Commons "
+"license</a>."
 msgstr ""
+"Bannge e ndii loowdi ko golle ©1998–2014 wallitooɓe Mozilla.org heeriiɓe. "
+"Loowdi ngoodndi e jamirol <a href=\"/en-US/foundation/licensing/website-"
+"content/\">Creative Commons license</a>."
 
-#: app/index.html:84
+#: templates/index.html:18
 msgid "Contact Us"
-msgstr ""
+msgstr "Jokkondir e amen"
 
-#: app/index.html:85
+#: templates/index.html:19
 msgid "Partner with Us"
-msgstr ""
+msgstr "Huutondir e Amen"
 
-#: app/index.html:86
+#: templates/index.html:20
 msgid "Donate"
-msgstr ""
+msgstr "Addu dokkal"
 
-#: app/index.html:87
+#: templates/index.html:21
 msgid "Firefox Affiliates"
-msgstr ""
+msgstr "Gollodiiɓe Firefox"
 
-#: app/index.html:88
+#: templates/index.html:22
 msgid "Contribute to this page"
-msgstr ""
+msgstr "Wallit e ngoo hello"
 
-#: app/index.html:91
+#: templates/index.html:23
 msgid "Privacy"
-msgstr ""
+msgstr "Suturo"
 
-#: app/index.html:92
+#: templates/index.html:24
 msgid "Legal"
-msgstr ""
+msgstr "Laawol"
 
-#: app/index.html:93
+#: templates/index.html:25
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "Jaŋto Nguyka Marke"
 
-#: app/index.html:99
+#: templates/index.html:26
 msgid "Mozilla:"
-msgstr ""
+msgstr "Mozilla:"
 
-#: app/index.html:101 app/index.html:108
-msgid "Twitter"
+#: templates/index.html:27
+msgid "<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></a>"
 msgstr ""
+"<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></a>"
 
-#: app/index.html:102 app/index.html:109
-msgid "Facebook"
+#: templates/index.html:28
+msgid ""
+"<a href=\"https://www.facebook.com/mozilla\">Facebook<span> "
+"(Mozilla)</span></a>"
 msgstr ""
+"<a href=\"https://www.facebook.com/mozilla\">Facebook<span> "
+"(Mozilla)</span></a>"
 
-#: app/index.html:106
+#: templates/index.html:29
 msgid "Firefox:"
-msgstr ""
+msgstr "Firefox:"
 
-#: app/index.html:110
-msgid "YouTube"
+#: templates/index.html:30
+msgid "<a href=\"https://twitter.com/firefox\">Twitter<span> (@firefox)</span></a>"
 msgstr ""
+"<a href=\"https://twitter.com/firefox\">Twitter<span> (@firefox)</span></a>"
+
+#: templates/index.html:31
+msgid ""
+"<a href=\"https://www.facebook.com/Firefox\">Facebook<span> "
+"(Firefox)</span></a>"
+msgstr ""
+"<a href=\"https://www.facebook.com/Firefox\">Facebook<span> "
+"(Firefox)</span></a>"
+
+#: templates/index.html:32
+msgid ""
+"<a href=\"https://www.youtube.com/firefoxchannel\">YouTube<span> "
+"(firefoxchannel)</span></a>"
+msgstr ""
+"<a href=\"https://www.youtube.com/firefoxchannel\">YouTube<span> "
+"(firefoxchannel)</span></a>"
+
+#: templates/index.html:33
+msgid "Other languages:"
+msgstr "Ɗemɗe goɗɗe:"
+
+#: templates/index.html:34
+msgid "Go"
+msgstr "Yah"

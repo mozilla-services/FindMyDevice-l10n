@@ -1,189 +1,191 @@
+# Ibrahima SARR <ibrahima.sarr@pulaagu.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2015-02-24 12:31+0200\n"
+"Last-Translator: Ibrahima SARR <ibrahima.sarr@pulaagu.com>\n"
+"Language-Team: FULAH LOCALIZATION\n"
 "Language: ff\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0-rc1\n"
+"X-Generator: Virtaal 0.7.1\n"
 
 #: app/scripts/views/device.js:83
 msgid "Your device is erasing."
-msgstr ""
+msgstr "Kaɓirgol maa nana momta."
 
 #: app/scripts/views/device.js:85
 msgid "An error occurred while trying to erase your device."
-msgstr ""
+msgstr "Juumre waaɗii tuma etagol momtude kaɓirgol maa."
 
 #: app/scripts/views/device.js:91
 msgid "Your device is locked."
-msgstr ""
+msgstr "Kaɓirgol maa daaƴaama."
 
 #: app/scripts/views/device.js:93
 msgid "An error occurred while trying to lock your device."
-msgstr ""
+msgstr "Juumre waaɗii tuma etagol sokde kaɓirgol maa."
 
 #: app/scripts/views/device.js:99
 msgid "Your device is ringing."
-msgstr ""
+msgstr "Kaɓirgol maa nana holɓa."
 
 #: app/scripts/views/device.js:101
 msgid "An error occurred while trying to ring your device."
-msgstr ""
+msgstr "Juumre waaɗii tuma etagol holɓinde kaɓirgol maa."
 
 #: app/scripts/views/device.js:107
 msgid "An error occurred while trying to locate your device. Trying again..."
-msgstr ""
+msgstr "Juumre waaɗii tuma etagol yiytude kaɓirgol maa. Nana etoo kadi..."
 
 #: app/scripts/views/device.js:112
 msgid "Locating device..."
-msgstr ""
+msgstr "Nana yiyloo kaɓirgol..."
 
 #: app/scripts/templates/device.html:1
 msgid "Menu"
-msgstr ""
+msgstr "Dosol"
 
 #: app/scripts/templates/device.html:2
 #: app/scripts/templates/device_not_found.html:3
 msgid "Sign out"
-msgstr ""
+msgstr "Seŋto"
 
 #: app/scripts/templates/device.html:3
 msgid "Connecting to device..."
-msgstr ""
+msgstr "Nana seŋoo e kaɓirgol..."
 
 #: app/scripts/templates/device.html:4
 msgid "Firefox OS"
-msgstr ""
+msgstr "Firefox OS"
 
 #: app/scripts/templates/device.html:5
 msgid "Ring"
-msgstr ""
+msgstr "Holɓin"
 
 #: app/scripts/templates/device.html:6
 msgid "Lock"
-msgstr ""
+msgstr "Sok"
 
 #: app/scripts/templates/device.html:7
 #: app/scripts/templates/erase_confirmation.html:4
 msgid "Erase"
-msgstr ""
+msgstr "Momtu"
 
 #: app/scripts/templates/device_not_found.html:1
 msgid "Sorry but you don't have any devices."
-msgstr ""
+msgstr "Ɗaccu hakke kono a alaa kaɓirɗi."
 
 #: app/scripts/templates/device_not_found.html:2
 msgid "Enable Find My Device on your Firefox OS device."
-msgstr ""
+msgstr "Hurmin Yiytu Kaɓirgol Am e kaɓirgol maa Firefox OS."
 
-#: app/scripts/templates/erase.html:1 app/scripts/templates/lost_mode.html:1
+#: app/scripts/templates/erase.html:1
+#: app/scripts/templates/lost_mode.html:1
 #: app/scripts/templates/play_sound.html:1
 msgid "Close"
-msgstr ""
+msgstr "Uddu"
 
-#: app/scripts/templates/erase.html:2 app/scripts/templates/erase.html:7
+#: app/scripts/templates/erase.html:2
+#: app/scripts/templates/erase.html:7
 msgid "Erase Device"
-msgstr ""
+msgstr "Momtu Kaɓirgol"
 
 #: app/scripts/templates/erase.html:3
 msgid "Erasing your device will:"
-msgstr ""
+msgstr "Momtude kaɓirgol maa:"
 
 #: app/scripts/templates/erase.html:4
 msgid "Delete your contacts, media, messages and installed apps"
-msgstr ""
+msgstr "Momtu jokkondire maa, mejaaje, ɓatakuuje e jaaɓɗe aafaaɗe"
 
 #: app/scripts/templates/erase.html:5
 msgid "Restore the device to its factory settings"
-msgstr ""
+msgstr "Artir kaɓirgol maa e teelte tafngo"
 
 #: app/scripts/templates/erase.html:6
 msgid "Disable Find My Device"
-msgstr ""
+msgstr "Dartin Yiytu Kaɓirgol Am"
 
 #: app/scripts/templates/erase_confirmation.html:1
 msgid "Confirmation"
-msgstr ""
+msgstr "Teeŋtingol"
 
 #: app/scripts/templates/erase_confirmation.html:2
 msgid "Are you sure you want to erase your device?"
-msgstr ""
+msgstr "Aɗa yenanaa yiɗde momtude kaɓirgol maa?"
 
 #: app/scripts/templates/erase_confirmation.html:3
 msgid "Cancel"
-msgstr ""
+msgstr "Haaytu"
 
 #: app/scripts/templates/lost_mode.html:2
 #: app/scripts/templates/lost_mode.html:7
 #: app/scripts/templates/lost_mode_passcode.html:2
 #: app/scripts/templates/lost_mode_passcode.html:13
 msgid "Lock Device"
-msgstr ""
+msgstr "Sok Kaɓirgol"
 
 #: app/scripts/templates/lost_mode.html:3
 #: app/scripts/templates/lost_mode_passcode.html:3
 msgid "Step 1"
-msgstr ""
+msgstr "Daawal 1"
 
 #: app/scripts/templates/lost_mode.html:4
 #: app/scripts/templates/lost_mode_passcode.html:4
 msgid "Step 2"
-msgstr ""
+msgstr "Daawal 2"
 
 #: app/scripts/templates/lost_mode.html:5
 msgid "Enter a note to show on the device:"
-msgstr ""
+msgstr "Naatnu ciifol ngam hollude e kaɓirgol ngol:"
 
 #: app/scripts/templates/lost_mode.html:6
 msgid "Note (optional)"
-msgstr ""
+msgstr "Ciifol (waɗɗaaki)"
 
 #: app/scripts/templates/lost_mode.html:9
 msgid "Next"
-msgstr ""
+msgstr "Yeeso"
 
 #: app/scripts/templates/lost_mode_passcode.html:1
 msgid "Back"
-msgstr ""
+msgstr "Caggal"
 
 #: app/scripts/templates/lost_mode_passcode.html:5
 msgid "Enter a passcode to lock your device:"
-msgstr ""
+msgstr "Naatnu finnde ngam sokde kaɓirgol maa:"
 
 #: app/scripts/templates/lost_mode_passcode.html:6
 #: app/scripts/templates/lost_mode_passcode.html:9
 msgid "Passcode is required."
-msgstr ""
+msgstr "Finnde ena waɗɗii."
 
 #: app/scripts/templates/lost_mode_passcode.html:7
 #: app/scripts/templates/lost_mode_passcode.html:10
 msgid "Passcode must be 4 digits."
-msgstr ""
+msgstr "Finnde foti waɗde ko limooje 4."
 
 #: app/scripts/templates/lost_mode_passcode.html:8
 msgid "Enter passcode again:"
-msgstr ""
+msgstr "Naatnu finnde kadi:"
 
 #: app/scripts/templates/lost_mode_passcode.html:11
 msgid "Passcodes must match."
-msgstr ""
+msgstr "Finndeeji ena poti nanndude."
 
 #: app/scripts/templates/lost_mode_passcode.html:12
-msgid ""
-"Once your device is locked, you will not be able to change this code again."
-msgstr ""
+msgid "Once your device is locked, you will not be able to change this code again."
+msgstr "Caggal nde kaɓirgol maa sokaa, a waawoytaa waylude ndee finnde kadi."
 
 #: app/scripts/templates/play_sound.html:2
 #: app/scripts/templates/play_sound.html:4
 msgid "Ring Device"
-msgstr ""
+msgstr "Holɓin Kaɓirgol"
 
 #: app/scripts/templates/play_sound.html:3
 msgid "Play a sound on your device to help you find it."
-msgstr ""
+msgstr "Tar nantere e kaɓirgol maa ngam yiytude ɗum."
