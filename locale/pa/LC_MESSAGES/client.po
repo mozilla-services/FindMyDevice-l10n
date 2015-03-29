@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: 2014-10-21 21:23+0000\n"
+"PO-Revision-Date: 2015-03-29 02:08+0000\n"
 "Last-Translator: Aman <amanpreet.alam@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pa\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1) ;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1413926595.0\n"
+"X-POOTLE-MTIME: 1427594935.0\n"
 
 #: app/scripts/views/device.js:83
 msgid "Your device is erasing."
@@ -36,11 +36,12 @@ msgstr "ਤੁਹਾਡੇ ਯੰਤਰ ਦੀ ਘੰਟੀ ਵੱਜ ਰਹੀ 
 
 #: app/scripts/views/device.js:101
 msgid "An error occurred while trying to ring your device."
-msgstr ""
+msgstr "ਤੁਹਾਡੇ ਯੰਤਰ ਨੂੰ ਰਿੰਗ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ।"
 
 #: app/scripts/views/device.js:107
 msgid "An error occurred while trying to locate your device. Trying again..."
 msgstr ""
+"ਤੁਹਾਡੇ ਯੰਤਰ ਨੂੰ ਲੱਭਣ ਦੇ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ। ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ..."
 
 #: app/scripts/views/device.js:112
 msgid "Locating device..."
@@ -48,7 +49,7 @@ msgstr "...ਯੰਤਰ ਲੱਭਿਆ ਜਾਂਦਾ ਹੈ"
 
 #: app/scripts/templates/device.html:1
 msgid "Menu"
-msgstr "ਮੇਨੂ"
+msgstr "ਮੀਨੂ"
 
 #: app/scripts/templates/device.html:2
 #: app/scripts/templates/device_not_found.html:3
@@ -78,115 +79,116 @@ msgstr "ਸਾਫ਼ ਕਰੋ"
 
 #: app/scripts/templates/device_not_found.html:1
 msgid "Sorry but you don't have any devices."
-msgstr ""
+msgstr "ਅਫਸੋਸ ਪਰ ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਵੀ ਯੰਤਰ ਨਹੀਂ ਹੈ।"
 
 #: app/scripts/templates/device_not_found.html:2
 msgid "Enable Find My Device on your Firefox OS device."
-msgstr ""
+msgstr "ਤੁਹਾਡੇ ਫਾਇਰਫਾਕਸ ਓਐਸ ਯੰਤਰ ਉੱਤੇ ਯੰਤਰ ਲ਼ੱਭਣ ਯੋਗ ਕਰੋ।"
 
 #: app/scripts/templates/erase.html:1
 #: app/scripts/templates/lost_mode.html:1
 #: app/scripts/templates/play_sound.html:1
 msgid "Close"
-msgstr ""
+msgstr "ਬੰਦ ਕਰੋ"
 
 #: app/scripts/templates/erase.html:2
 #: app/scripts/templates/erase.html:7
 msgid "Erase Device"
-msgstr ""
+msgstr "ਯੰਤਰ ਸਾਫ਼ ਕਰੋ"
 
 #: app/scripts/templates/erase.html:3
 msgid "Erasing your device will:"
-msgstr ""
+msgstr "ਤੁਹਾਡੇ ਯੰਤਰ ਨੂੰ ਸਾਫ਼ ਕੀਤਾ ਜਾਵੇਗਾ:"
 
 #: app/scripts/templates/erase.html:4
 msgid "Delete your contacts, media, messages and installed apps"
-msgstr ""
+msgstr "ਤੁਹਾਡੇ ਸੰਪਰਕਾਂ, ਮੀਡਿਆ, ਸੁਨੇਹਿਆਂ ਤੇ ਇੰਸਟਾਲ ਹੋਏ ਐਪਸ ਨੂੰ ਹਟਾਉਣਾ"
 
 #: app/scripts/templates/erase.html:5
 msgid "Restore the device to its factory settings"
-msgstr ""
+msgstr "ਯੰਤਰ ਨੂੰ ਇਸ ਦੀ ਫੈਕਟਰੀ ਸੈਟਿੰਗ ਲਈ ਮੁੜ-ਸਟੋਰ ਕਰਨਾ"
 
 #: app/scripts/templates/erase.html:6
 msgid "Disable Find My Device"
-msgstr ""
+msgstr "ਮੇਰੇ ਯੰਤਰ ਨੂੰ ਲੱਭੋ ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ"
 
 #: app/scripts/templates/erase_confirmation.html:1
 msgid "Confirmation"
-msgstr ""
+msgstr "ਪੁਸ਼ਟੀ"
 
 #: app/scripts/templates/erase_confirmation.html:2
 msgid "Are you sure you want to erase your device?"
-msgstr ""
+msgstr "ਕੀ ਤੁਸੀਂ ਆਪਣੇ ਯੰਤਰ ਨੂੰ ਸਾਫ਼ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"
 
 #: app/scripts/templates/erase_confirmation.html:3
 msgid "Cancel"
-msgstr ""
+msgstr "ਰੱਦ ਕਰੋ"
 
 #: app/scripts/templates/lost_mode.html:2
 #: app/scripts/templates/lost_mode.html:7
 #: app/scripts/templates/lost_mode_passcode.html:2
 #: app/scripts/templates/lost_mode_passcode.html:13
 msgid "Lock Device"
-msgstr ""
+msgstr "ਯੰਤਰ ਨੂੰ ਲਾਕ ਕਰੋ"
 
 #: app/scripts/templates/lost_mode.html:3
 #: app/scripts/templates/lost_mode_passcode.html:3
 msgid "Step 1"
-msgstr ""
+msgstr "ਪਗ਼ 1"
 
 #: app/scripts/templates/lost_mode.html:4
 #: app/scripts/templates/lost_mode_passcode.html:4
 msgid "Step 2"
-msgstr ""
+msgstr "ਪਗ਼ 2"
 
 #: app/scripts/templates/lost_mode.html:5
 msgid "Enter a note to show on the device:"
-msgstr ""
+msgstr "ਯੰਤਰ ਉੱਤੇ ਦਿਖਾਉਣ ਲਈ ਨੋਟ ਦਿਉ:"
 
 #: app/scripts/templates/lost_mode.html:6
 msgid "Note (optional)"
-msgstr ""
+msgstr "ਨੋਟ (ਚੋਣਵਾਂ)"
 
 #: app/scripts/templates/lost_mode.html:9
 msgid "Next"
-msgstr ""
+msgstr "ਅੱਗੇ"
 
 #: app/scripts/templates/lost_mode_passcode.html:1
 msgid "Back"
-msgstr ""
+msgstr "ਪਿੱਛੇ"
 
 #: app/scripts/templates/lost_mode_passcode.html:5
 msgid "Enter a passcode to lock your device:"
-msgstr ""
+msgstr "ਆਪਣੇ ਯੰਤਰ ਨੂੰ ਲਾਕ ਕਰਨ ਲਈ ਪਾਸਕੋਡ ਦਿਉ:"
 
 #: app/scripts/templates/lost_mode_passcode.html:6
 #: app/scripts/templates/lost_mode_passcode.html:9
 msgid "Passcode is required."
-msgstr ""
+msgstr "ਪਾਸਕੋਡ ਚਾਹੀਦਾ ਹੈ।"
 
 #: app/scripts/templates/lost_mode_passcode.html:7
 #: app/scripts/templates/lost_mode_passcode.html:10
 msgid "Passcode must be 4 digits."
-msgstr ""
+msgstr "ਪਾਸਕੋਡ 4 ਅੰਕਾਂ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।"
 
 #: app/scripts/templates/lost_mode_passcode.html:8
 msgid "Enter passcode again:"
-msgstr ""
+msgstr "ਪਾਸਕੋਡ ਫ਼ੇਰ ਦਿਉ:"
 
 #: app/scripts/templates/lost_mode_passcode.html:11
 msgid "Passcodes must match."
-msgstr ""
+msgstr "ਪਾਸਕੋਡ ਮਿਲਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।"
 
 #: app/scripts/templates/lost_mode_passcode.html:12
 msgid "Once your device is locked, you will not be able to change this code again."
 msgstr ""
+"ਇੱਕ ਵਾਰ ਤੁਹਾਡਾ ਯੰਤਰ ਲਾਕ ਹੋ ਗਿਆ ਤਾਂ ਤੁਸੀਂ ਇਹ ਪਾਸਕੋਡ ਦੁਬਾਾਰ ਨਹੀਂ ਬਦਲ ਸਕੋਗੇ।"
 
 #: app/scripts/templates/play_sound.html:2
 #: app/scripts/templates/play_sound.html:4
 msgid "Ring Device"
-msgstr ""
+msgstr "ਯੰਤਰ ਲਈ ਘੰਟੀ ਮਾਰੋ"
 
 #: app/scripts/templates/play_sound.html:3
 msgid "Play a sound on your device to help you find it."
-msgstr ""
+msgstr "ਆਪਣੇ ਯੰਤਰ ਨੂੰ ਲੱਭਣ ਲਈ ਆਪਣੀ ਮਦਦ ਕਰਨ ਲਈ ਆਵਾਜ਼ ਚਲਾਉ।"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: 2014-10-21 21:26+0000\n"
+"PO-Revision-Date: 2015-03-29 02:09+0000\n"
 "Last-Translator: Aman <amanpreet.alam@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pa\n"
@@ -12,16 +12,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1) ;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1413926784.0\n"
+"X-POOTLE-MTIME: 1427594997.0\n"
 
 #: app/index.html:9
 msgid "Find My Device — Firefox OS — Mozilla"
-msgstr ""
+msgstr "ਮੇਰਾ ਯੰਤਰ ਲੱਭੋ — ਫਾਇਰਫਾਕਸ ਓ.ਸਿ. — ਮੋਜ਼ੀਲਾ"
 
 #: app/index.html:42
-#, fuzzy
 msgid "mozilla"
-msgstr "ਮੋਜ਼ੀਲਾ:"
+msgstr "ਮੋਜ਼ੀਲਾ"
 
 #: app/index.html:43
 msgid "Firefox OS"
@@ -69,7 +68,7 @@ msgstr ""
 
 #: app/index.html:63
 msgid "Ring"
-msgstr ""
+msgstr "ਘੰਟੀ"
 
 #: app/index.html:64
 msgid ""
@@ -79,7 +78,7 @@ msgstr ""
 
 #: app/index.html:67
 msgid "Lock"
-msgstr ""
+msgstr "ਲਾਕ"
 
 #: app/index.html:68
 msgid ""
@@ -89,17 +88,19 @@ msgstr ""
 
 #: app/index.html:71
 msgid "Erase"
-msgstr ""
+msgstr "ਸਾਫ਼ ਕਰੋ"
 
 #: app/index.html:72
 msgid ""
 "If you’re unable to find your phone, you can permanently erase it, but "
 "please note that this can not be undone."
 msgstr ""
+"ਜੇ ਤੁਸੀਂ ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਲੱਭਣ ਨਹੀਂ ਸਕਦੇ ਹੋ ਤਾਂ ਤੁਸੀਂ ਇਸ ਨੂੰ ਪੱਕੇ ਤੌਰ ਉੱਤੇ ਸਾਫ਼ "
+"ਕਰ ਸਕਦੇ ਹੋ, ਪਰ ਯਾਦ ਰੱਖੋ ਕਿ ਇਹ ਕਾਰਵਾਈ ਨੂੰ ਵਾਪਿਸ ਨਹੀਂ ਲਿਆ ਜਾ ਸਕਦਾ ਹੈ।"
 
 #: app/index.html:79
 msgid "Mozilla"
-msgstr ""
+msgstr "ਮੋਜ਼ੀਲਾ"
 
 #: app/index.html:80
 msgid ""
@@ -148,12 +149,12 @@ msgstr "ਮੋਜ਼ੀਲਾ:"
 #: app/index.html:101
 #: app/index.html:108
 msgid "Twitter"
-msgstr ""
+msgstr "ਟਵਿੱਟਰ"
 
 #: app/index.html:102
 #: app/index.html:109
 msgid "Facebook"
-msgstr ""
+msgstr "ਫੇਸਬੁੱਕ"
 
 #: app/index.html:106
 msgid "Firefox:"
@@ -161,7 +162,7 @@ msgstr "ਫਾਇਰਫਾਕਸ:"
 
 #: app/index.html:110
 msgid "YouTube"
-msgstr ""
+msgstr "ਯੂਟਿਊਬ"
 
 #~ msgid ""
 #~ "<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></"
