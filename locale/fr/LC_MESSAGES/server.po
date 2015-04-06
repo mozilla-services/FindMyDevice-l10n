@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: 2015-02-27 11:51+0000\n"
+"PO-Revision-Date: 2015-04-06 07:29+0000\n"
 "Last-Translator: Théo <theo.chevalier11@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1425037877.0\n"
+"X-POOTLE-MTIME: 1428305364.0\n"
 
 #: app/index.html:9
 msgid "Find My Device — Firefox OS — Mozilla"
@@ -65,7 +65,7 @@ msgstr ""
 
 #: app/index.html:59
 msgid "Track"
-msgstr "Pister"
+msgstr "Localiser"
 
 #: app/index.html:60
 msgid ""
