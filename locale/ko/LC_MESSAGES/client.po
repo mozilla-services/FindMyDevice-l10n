@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: 2015-01-25 16:25+0000\n"
-"Last-Translator: Lawrence <ultimate1352@gmail.com>\n"
+"PO-Revision-Date: 2015-05-06 04:59+0000\n"
+"Last-Translator: Hyeonseok <hyeonseok@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1422203101.0\n"
+"X-POOTLE-MTIME: 1430888376.0\n"
 
 #: app/scripts/views/device.js:83
 msgid "Your device is erasing."
@@ -95,7 +95,7 @@ msgstr "장치 지우기"
 
 #: app/scripts/templates/erase.html:3
 msgid "Erasing your device will:"
-msgstr ""
+msgstr "장치를 지우면:"
 
 #: app/scripts/templates/erase.html:4
 msgid "Delete your contacts, media, messages and installed apps"
@@ -174,18 +174,18 @@ msgstr "다시 한번 입력해주세요"
 
 #: app/scripts/templates/lost_mode_passcode.html:11
 msgid "Passcodes must match."
-msgstr ""
+msgstr "패스코드가 일치해야 합니다."
 
 #: app/scripts/templates/lost_mode_passcode.html:12
 msgid ""
 "Once your device is locked, you will not be able to change this code again."
-msgstr ""
+msgstr "장치가 잠기면 이 코드를 다시 변경할 수 없게 됩니다."
 
 #: app/scripts/templates/play_sound.html:2
 #: app/scripts/templates/play_sound.html:4
 msgid "Ring Device"
-msgstr ""
+msgstr "장치 울리기"
 
 #: app/scripts/templates/play_sound.html:3
 msgid "Play a sound on your device to help you find it."
-msgstr ""
+msgstr "장치를 찾을 수 있도록 소리를 내게 합니다."

@@ -3,42 +3,44 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-05-06 05:02+0000\n"
+"Last-Translator: Hyeonseok <hyeonseok@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0-rc1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1430888545.0\n"
 
 #: app/index.html:9
 msgid "Find My Device — Firefox OS — Mozilla"
-msgstr ""
+msgstr "Find My Device — Firefox OS — Mozilla"
 
 #: app/index.html:42
 msgid "mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: app/index.html:43
 msgid "Firefox OS"
-msgstr ""
+msgstr "Firefox OS"
 
 #: app/index.html:44
 msgid "Find My Device"
-msgstr ""
+msgstr "Find My Device"
 
 #: app/index.html:45
 msgid "Locate a lost phone, lock it or even erase it remotely."
-msgstr ""
+msgstr "읽어버린 핸드폰을 찾거나 잠구거나 원격으로 지웁니다."
 
 #: app/index.html:48
 msgid "Sign in"
-msgstr ""
+msgstr "로그인"
 
 #: app/index.html:49
 msgid "Create a Firefox Account"
-msgstr ""
+msgstr "Firefox 계정 생성하기"
 
 #: app/index.html:51
 msgid ""
@@ -47,16 +49,18 @@ msgid ""
 "message. You can also lock it for safety or delete your personal info "
 "completely."
 msgstr ""
+"Firefox OS 스마트폰을 잃어버리면 Find My Device를 이용해서 찾을 수 있습니다. 지도에서 위치를 확인하거나 소리를 내게 "
+"할 수 있고 메시지를 보낼 수도 있습니다. 기기를 잠그거나 안전을 위해서 개인정보를 삭제할 수도 있습니다."
 
 #: app/index.html:52
 msgid ""
 "To get started, make sure you have a Firefox Account and Find My Device "
 "enabled on your phone."
-msgstr ""
+msgstr "시작하려면 Firefox Account가 있는지와 전화기에 Find My Device가 활성화되어 있는지 확인하세요."
 
 #: app/index.html:59
 msgid "Track"
-msgstr ""
+msgstr "트랙"
 
 #: app/index.html:60
 msgid ""
@@ -66,7 +70,7 @@ msgstr ""
 
 #: app/index.html:63
 msgid "Ring"
-msgstr ""
+msgstr "벨소리"
 
 #: app/index.html:64
 msgid ""
@@ -76,7 +80,7 @@ msgstr ""
 
 #: app/index.html:67
 msgid "Lock"
-msgstr ""
+msgstr "잠금"
 
 #: app/index.html:68
 msgid ""
@@ -86,7 +90,7 @@ msgstr ""
 
 #: app/index.html:71
 msgid "Erase"
-msgstr ""
+msgstr "지우기"
 
 #: app/index.html:72
 msgid ""
@@ -96,7 +100,7 @@ msgstr ""
 
 #: app/index.html:79
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: app/index.html:80
 msgid ""
@@ -107,35 +111,35 @@ msgstr ""
 
 #: app/index.html:84
 msgid "Contact Us"
-msgstr ""
+msgstr "연락하기"
 
 #: app/index.html:85
 msgid "Partner with Us"
-msgstr ""
+msgstr "제휴하기"
 
 #: app/index.html:86
 msgid "Donate"
-msgstr ""
+msgstr "기부하기"
 
 #: app/index.html:87
 msgid "Firefox Affiliates"
-msgstr ""
+msgstr "Firefox 제휴"
 
 #: app/index.html:88
 msgid "Contribute to this page"
-msgstr ""
+msgstr "이 페이지에 기여하기"
 
 #: app/index.html:91
 msgid "Privacy"
-msgstr ""
+msgstr "개인 정보 보호 정책"
 
 #: app/index.html:92
 msgid "Legal"
-msgstr ""
+msgstr "법률"
 
 #: app/index.html:93
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "상표권 침해 신고"
 
 #: app/index.html:99
 msgid "Mozilla:"
@@ -143,11 +147,11 @@ msgstr ""
 
 #: app/index.html:101 app/index.html:108
 msgid "Twitter"
-msgstr ""
+msgstr "트위터"
 
 #: app/index.html:102 app/index.html:109
 msgid "Facebook"
-msgstr ""
+msgstr "페이스북"
 
 #: app/index.html:106
 msgid "Firefox:"
@@ -155,4 +159,4 @@ msgstr ""
 
 #: app/index.html:110
 msgid "YouTube"
-msgstr ""
+msgstr "유튜브"
