@@ -3,42 +3,46 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-05-15 15:32+0000\n"
+"Last-Translator: Alfredos-Panagiotis <fredy@fredy.gr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0-rc1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1431703970.0\n"
 
 #: app/index.html:9
 msgid "Find My Device — Firefox OS — Mozilla"
-msgstr ""
+msgstr "Εύρεση Συσκευής — Firefox OS — Mozilla"
 
 #: app/index.html:42
 msgid "mozilla"
-msgstr ""
+msgstr "mozilla"
 
 #: app/index.html:43
 msgid "Firefox OS"
-msgstr ""
+msgstr "Firefox OS"
 
 #: app/index.html:44
 msgid "Find My Device"
-msgstr ""
+msgstr "Εύρεση Συσκευής"
 
 #: app/index.html:45
 msgid "Locate a lost phone, lock it or even erase it remotely."
 msgstr ""
+"Εντοπισμός, κλείδωμα ή διαγραφή δεδομένων ενός χαμένου τηλεφώνου "
+"απομακρυσμένα."
 
 #: app/index.html:48
 msgid "Sign in"
-msgstr ""
+msgstr "Είσοδος"
 
 #: app/index.html:49
 msgid "Create a Firefox Account"
-msgstr ""
+msgstr "Δημιουργία λογαριασμού Firefox"
 
 #: app/index.html:51
 msgid ""
@@ -47,56 +51,71 @@ msgid ""
 "message. You can also lock it for safety or delete your personal info "
 "completely."
 msgstr ""
+"Εάν έχασες την Firefox OS συσκευή σου, η λειτουργία «Εύρεση Συσκευής» σε "
+"βοηθήσει να την βρεις. Μπορείς να την δεις στον χάρτη, να την κάνεις να "
+"παίξει έναν ήχο ή να εμφανίζει ένα μήνυμα. Μπορείς επίσης να την κλειδώσεις "
+"για ασφάλεια ή να διαγράψεις όλα τα προσωπικά σου δεδομένα."
 
 #: app/index.html:52
 msgid ""
 "To get started, make sure you have a Firefox Account and Find My Device "
 "enabled on your phone."
 msgstr ""
+"Για να ξεκινήσεις σιγουρέψου πως έχεις έναν λογαριασμό Firefox άλλα και "
+"ενεργοποιημένη την λειτουργία «Εύρεση Συσκευής» στην συσκευή σου."
 
 #: app/index.html:59
 msgid "Track"
-msgstr ""
+msgstr "Εντοπισμός"
 
 #: app/index.html:60
 msgid ""
 "As long as your phone remains on and connected to the Internet, you can see "
 "its location on the map."
 msgstr ""
+"Όσο το τηλέφωνό σας παραμένει συνδεδεμένο στο Διαδίκτυο, μπορείτε να δείτε "
+"την τοποθεσία του στον χάρτη."
 
 #: app/index.html:63
 msgid "Ring"
-msgstr ""
+msgstr "Κουδούνισμα"
 
 #: app/index.html:64
 msgid ""
 "If you see that it’s nearby on the map, you can make the phone ring, even if "
 "the ringer is set to silent."
 msgstr ""
+"Εάν η συσκευή βρίσκεται κοντά σας στον χάρτη, μπορείτε να την κάνετε να "
+"χτυπήσει ακόμα και αν είναι ρυθμισμένη στο αθόρυβο."
 
 #: app/index.html:67
 msgid "Lock"
-msgstr ""
+msgstr "Κλείδωμα"
 
 #: app/index.html:68
 msgid ""
 "To protect your personal info, you can lock your screen and have it display "
 "a message to help someone return it to you."
 msgstr ""
+"Για να προστατέψετε τα προσωπικά σας δεδομένα, μπορείτε να κλειδώσετε την "
+"οθόνη και να προβάλετε ένα μήνυμα σε αυτή ώστε να βοηθήσετε κάποιον να σας "
+"την επιστρέψει."
 
 #: app/index.html:71
 msgid "Erase"
-msgstr ""
+msgstr "Διαγραφή Δεδομένων"
 
 #: app/index.html:72
 msgid ""
 "If you’re unable to find your phone, you can permanently erase it, but "
 "please note that this can not be undone."
 msgstr ""
+"Εάν αδυνατείτε να βρείτε το τηλέφωνό σας, μπορείτε να το διαγράψετε μόνιμα, "
+"προσοχή η διαγραφή είναι μη αναστρέψιμη."
 
 #: app/index.html:79
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: app/index.html:80
 msgid ""
@@ -104,55 +123,59 @@ msgid ""
 "contributors. Content available under a <a href='http://www.mozilla.org/"
 "foundation/licensing/website-content/'>Creative Commons license</a>."
 msgstr ""
+"Μέρη αυτού του περιεχομένου είναι ©1998–2014 από τους επιμέρους "
+"συνεισφέροντες του mozilla.org. Το περιεχόμενο είναι διαθέσιμο στο <a "
+"href='http://www.mozilla.org/foundation/licensing/website-content/'>Άδεια "
+"Creative Commons</a>."
 
 #: app/index.html:84
 msgid "Contact Us"
-msgstr ""
+msgstr "Επικοινωνήστε μαζί μας"
 
 #: app/index.html:85
 msgid "Partner with Us"
-msgstr ""
+msgstr "Γίνετε συνεργάτης μας"
 
 #: app/index.html:86
 msgid "Donate"
-msgstr ""
+msgstr "Κάντε μια δωρεά"
 
 #: app/index.html:87
 msgid "Firefox Affiliates"
-msgstr ""
+msgstr "Firefox Affiliates"
 
 #: app/index.html:88
 msgid "Contribute to this page"
-msgstr ""
+msgstr "Συνεισφέρετε σε αυτήν την σελίδα"
 
 #: app/index.html:91
 msgid "Privacy"
-msgstr ""
+msgstr "Απόρρητο"
 
 #: app/index.html:92
 msgid "Legal"
-msgstr ""
+msgstr "Νομικά"
 
 #: app/index.html:93
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "Αναφορά παραβίασης εμπορικού σήματος"
 
 #: app/index.html:99
 msgid "Mozilla:"
-msgstr ""
+msgstr "Mozilla:"
 
 #: app/index.html:101 app/index.html:108
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: app/index.html:102 app/index.html:109
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: app/index.html:106
 msgid "Firefox:"
-msgstr ""
+msgstr "Firefox:"
 
 #: app/index.html:110
 msgid "YouTube"
-msgstr ""
+msgstr "YouTube"
