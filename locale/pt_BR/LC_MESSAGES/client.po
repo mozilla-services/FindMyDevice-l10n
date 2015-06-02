@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: 2014-10-27 10:50+0000\n"
+"PO-Revision-Date: 2015-06-02 16:51+0000\n"
 "Last-Translator: Marco Aurélio <ouesten@me.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1414407006.0\n"
+"X-POOTLE-MTIME: 1433263912.0\n"
 
 #: app/scripts/views/device.js:83
 msgid "Your device is erasing."
@@ -83,7 +83,7 @@ msgstr "Desculpe, mas você não possui nenhum dispositivo."
 
 #: app/scripts/templates/device_not_found.html:2
 msgid "Enable Find My Device on your Firefox OS device."
-msgstr "Ative o Encontrar o Meu Dispositivo no seu dispositivo com Firefox OS."
+msgstr "Ative o Encontre meu dispositivo no seu Firefox OS."
 
 #: app/scripts/templates/erase.html:1 app/scripts/templates/lost_mode.html:1
 #: app/scripts/templates/play_sound.html:1
@@ -96,11 +96,13 @@ msgstr "Apagar dispositivo"
 
 #: app/scripts/templates/erase.html:3
 msgid "Erasing your device will:"
-msgstr "Apagar seu dispositivo irá:"
+msgstr "Ao apagar seu dispositivo:"
 
 #: app/scripts/templates/erase.html:4
 msgid "Delete your contacts, media, messages and installed apps"
-msgstr "Apagar seus contatos, mídia, mensagens e aplicativos instalados"
+msgstr ""
+"Excluir os seus contatos, arquivos de mídia, mensagens e aplicativos "
+"instalados"
 
 #: app/scripts/templates/erase.html:5
 msgid "Restore the device to its factory settings"
@@ -108,7 +110,7 @@ msgstr "Restaurar o dispositivo para as configurações de fábrica"
 
 #: app/scripts/templates/erase.html:6
 msgid "Disable Find My Device"
-msgstr "Desativar o Encontre o Meu Dispositivo"
+msgstr "Desativar o Encontre meu dispositivo"
 
 #: app/scripts/templates/erase_confirmation.html:1
 msgid "Confirmation"

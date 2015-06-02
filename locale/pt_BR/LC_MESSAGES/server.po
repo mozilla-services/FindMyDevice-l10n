@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: 2015-03-10 00:47+0000\n"
+"PO-Revision-Date: 2015-06-02 16:53+0000\n"
 "Last-Translator: Marco Aurélio <ouesten@me.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1425948450.0\n"
+"X-POOTLE-MTIME: 1433264007.0\n"
 
 #: app/index.html:9
 msgid "Find My Device — Firefox OS — Mozilla"
-msgstr "Encontrar o Meu Dispositivo — Firefox OS — Mozilla"
+msgstr "Encontre meu dispositivo — Firefox OS — Mozilla"
 
 #: app/index.html:42
 msgid "mozilla"
@@ -28,7 +28,7 @@ msgstr "Firefox OS"
 
 #: app/index.html:44
 msgid "Find My Device"
-msgstr "Encontre Meu Dispositivo"
+msgstr "Encontre meu dispositivo"
 
 #: app/index.html:45
 msgid "Locate a lost phone, lock it or even erase it remotely."
@@ -49,18 +49,18 @@ msgid ""
 "message. You can also lock it for safety or delete your personal info "
 "completely."
 msgstr ""
-"Se perder seu smartphone Firefox OS, o Encontre Meu Dispositivo pode "
-"ajudá-lo a encontrá-lo. Poderá vê-lo em um mapa, fazê-lo tocar e exibir uma "
-"mensagem. Também poderá bloqueá-lo por segurança ou apagar suas informações "
-"pessoais completamente."
+"Se perder seu smartphone Firefox OS, o Encontre meu dispositivo pode ajudar "
+"a encontrá-lo. Poderá vê-lo em um mapa, fazê-lo tocar e exibir uma mensagem. "
+"Também poderá bloqueá-lo por segurança ou excluir suas informações pessoais "
+"completamente."
 
 #: app/index.html:52
 msgid ""
 "To get started, make sure you have a Firefox Account and Find My Device "
 "enabled on your phone."
 msgstr ""
-"Para começar, certifique-se que você possui uma conta Firefox e o Encontre "
-"Meu Dispositivo habilitados em seu telefone."
+"Para começar, certifique-se que possui uma conta Firefox e o Encontre meu "
+"dispositivo ativado em seu telefone."
 
 #: app/index.html:59
 msgid "Track"
