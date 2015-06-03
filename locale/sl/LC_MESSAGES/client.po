@@ -1,3 +1,4 @@
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -10,9 +11,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
-"n%100==4 ? 2 : 3);\n"
-"X-Generator: Pootle 2.5.0\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 1 : n%100==2 ? 2 : n%100==3 || n%100==4 ? 3 : 0);\n"
+"X-Generator: Pontoon\n"
 "X-POOTLE-MTIME: 1414609970.0\n"
 
 #: app/scripts/views/device.js:83
@@ -42,8 +42,8 @@ msgstr "Med poskusom zvonjenja vaše naprave je prišlo do napake."
 #: app/scripts/views/device.js:107
 msgid "An error occurred while trying to locate your device. Trying again..."
 msgstr ""
-"Med poskusom iskanja vaše naprave je prišlo do napake. Poteka ponovni poskus "
-"..."
+"Med poskusom iskanja vaše naprave je prišlo do napake. Poteka ponovni poskus"
+" ..."
 
 #: app/scripts/views/device.js:112
 msgid "Locating device..."
@@ -182,7 +182,8 @@ msgstr "Gesli se morata ujemati."
 #: app/scripts/templates/lost_mode_passcode.html:12
 msgid ""
 "Once your device is locked, you will not be able to change this code again."
-msgstr "Ko napravo enkrat zaklenete, tega gesla ne boste mogli več spreminjati."
+msgstr ""
+"Ko napravo enkrat zaklenete, tega gesla ne boste mogli več spreminjati."
 
 #: app/scripts/templates/play_sound.html:2
 #: app/scripts/templates/play_sound.html:4
