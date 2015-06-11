@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: 2015-06-02 16:51+0000\n"
+"PO-Revision-Date: 2015-06-11 07:34:33\n"
 "Last-Translator: Marco Aurélio <ouesten@me.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt-BR\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 #: app/scripts/views/device.js:83
 msgid "Your device is erasing."
-msgstr "Apagando seu dispositivo."
+msgstr "Seu dispositivo está sendo apagado."
 
 #: app/scripts/views/device.js:85
 msgid "An error occurred while trying to erase your device."
@@ -101,9 +101,7 @@ msgstr "Ao apagar seu dispositivo:"
 
 #: app/scripts/templates/erase.html:4
 msgid "Delete your contacts, media, messages and installed apps"
-msgstr ""
-"Excluir os seus contatos, arquivos de mídia, mensagens e aplicativos "
-"instalados"
+msgstr "Exclui seus contatos, mídia, mensagens e aplicativos instalados"
 
 #: app/scripts/templates/erase.html:5
 msgid "Restore the device to its factory settings"
@@ -184,7 +182,7 @@ msgstr "Os códigos devem coincidir."
 msgid ""
 "Once your device is locked, you will not be able to change this code again."
 msgstr ""
-"Após o seu dispositivo estar bloqueado, não poderá alterar este código "
+"Após o seu dispositivo ser bloqueado, não poderá alterar este código "
 "novamente."
 
 #: app/scripts/templates/play_sound.html:2
