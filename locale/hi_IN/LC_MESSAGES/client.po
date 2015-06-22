@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: 2015-06-05 12:39+0000\n"
-"Last-Translator: Kumar <sjneedsu@live.com>\n"
+"PO-Revision-Date: 2015-06-22 17:57+0000\n"
+"Last-Translator: umesh <umeshsnwl@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi_IN\n"
 "MIME-Version: 1.0\n"
@@ -12,73 +12,75 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1433507966.0\n"
+"X-POOTLE-MTIME: 1434995873.0\n"
 
 #: app/scripts/views/device.js:83
 msgid "Your device is erasing."
-msgstr ""
+msgstr "आपका डिवाइस मिट रहा है."
 
 #: app/scripts/views/device.js:85
 msgid "An error occurred while trying to erase your device."
-msgstr "आपके डिवाइस को मिटाने का प्रयास करते समय एक त्रुटि उत्पन्न हुई।"
+msgstr "आपके डिवाइस को मिटाने का प्रयास करते समय एक त्रुटि उत्पन्न हुई."
 
 #: app/scripts/views/device.js:91
 msgid "Your device is locked."
-msgstr "आपकी डिवाइस बंद कर दिया है ।"
+msgstr "आपका डिवाइस लॉक हो गया है."
 
 #: app/scripts/views/device.js:93
 msgid "An error occurred while trying to lock your device."
-msgstr "आपके डिवाइस लॉक करने के लिए प्रयास करते समय कोई त्रुटि आई ."
+msgstr "आपके डिवाइस को लॉक करने का प्रयास करते समय कोई त्रुटि आई."
 
 #: app/scripts/views/device.js:99
 msgid "Your device is ringing."
-msgstr "आपकी डिवाइस बज रहा है।"
+msgstr "आपकी डिवाइस बज रहा है."
 
 #: app/scripts/views/device.js:101
 msgid "An error occurred while trying to ring your device."
-msgstr ""
+msgstr "आपके डिवाइस को टेलिफोन करने का प्रयास करते समय एक त्रुटि उत्पन्न हुई."
 
 #: app/scripts/views/device.js:107
 msgid "An error occurred while trying to locate your device. Trying again..."
 msgstr ""
+"आपके डिवाइस का पता लगाने के प्रयास मैं एक त्रुटि हुई. फिर से प्रयास कर रहा "
+"हूँ..."
 
 #: app/scripts/views/device.js:112
 msgid "Locating device..."
-msgstr ""
+msgstr "डिवाइस ढूँढ रहा है..."
 
 #: app/scripts/templates/device.html:1
 msgid "Menu"
-msgstr ""
+msgstr "मेनू"
 
 #: app/scripts/templates/device.html:2
 #: app/scripts/templates/device_not_found.html:3
 msgid "Sign out"
-msgstr ""
+msgstr "साइन आउट करें"
 
 #: app/scripts/templates/device.html:3
 msgid "Connecting to device..."
-msgstr ""
+msgstr "उपकरण से जुड़ रहा है ..."
 
 #: app/scripts/templates/device.html:4
 msgid "Firefox OS"
-msgstr ""
+msgstr "फ़ायरफ़ॉक्स ओएस"
 
 #: app/scripts/templates/device.html:5
 msgid "Ring"
-msgstr ""
+msgstr "घंटी"
 
 #: app/scripts/templates/device.html:6
 msgid "Lock"
-msgstr ""
+msgstr "लॉक"
 
 #: app/scripts/templates/device.html:7
 #: app/scripts/templates/erase_confirmation.html:4
 msgid "Erase"
-msgstr ""
+msgstr "मिटाना"
 
 #: app/scripts/templates/device_not_found.html:1
 msgid "Sorry but you don't have any devices."
-msgstr ""
+msgstr "क्षमा करें, लेकिन आपके पास कोई भी उपकरण नहीं है."
 
 #: app/scripts/templates/device_not_found.html:2
 msgid "Enable Find My Device on your Firefox OS device."
@@ -91,19 +93,19 @@ msgstr ""
 
 #: app/scripts/templates/erase.html:2 app/scripts/templates/erase.html:7
 msgid "Erase Device"
-msgstr ""
+msgstr "उपकरण को हटायें"
 
 #: app/scripts/templates/erase.html:3
 msgid "Erasing your device will:"
-msgstr ""
+msgstr "उपकरण को हटाने से:"
 
 #: app/scripts/templates/erase.html:4
 msgid "Delete your contacts, media, messages and installed apps"
-msgstr ""
+msgstr "अपने संपर्कों , मीडिया, संदेश और इंस्टॉल किए गए एप्लिकेशन हटाएं"
 
 #: app/scripts/templates/erase.html:5
 msgid "Restore the device to its factory settings"
-msgstr ""
+msgstr "अपनी फैक्टरी सेटिंग्स करने के लिए डिवाइस पुनर्स्थापित करें"
 
 #: app/scripts/templates/erase.html:6
 msgid "Disable Find My Device"
@@ -111,36 +113,36 @@ msgstr ""
 
 #: app/scripts/templates/erase_confirmation.html:1
 msgid "Confirmation"
-msgstr ""
+msgstr "पुष्टीकरण"
 
 #: app/scripts/templates/erase_confirmation.html:2
 msgid "Are you sure you want to erase your device?"
-msgstr ""
+msgstr "आप वाकहि मैं अपने उपकरण को मिटाना चाहते?"
 
 #: app/scripts/templates/erase_confirmation.html:3
 msgid "Cancel"
-msgstr ""
+msgstr "रद्द"
 
 #: app/scripts/templates/lost_mode.html:2
 #: app/scripts/templates/lost_mode.html:7
 #: app/scripts/templates/lost_mode_passcode.html:2
 #: app/scripts/templates/lost_mode_passcode.html:13
 msgid "Lock Device"
-msgstr ""
+msgstr "उपकरण को लॉक करें"
 
 #: app/scripts/templates/lost_mode.html:3
 #: app/scripts/templates/lost_mode_passcode.html:3
 msgid "Step 1"
-msgstr ""
+msgstr "पहला कदम"
 
 #: app/scripts/templates/lost_mode.html:4
 #: app/scripts/templates/lost_mode_passcode.html:4
 msgid "Step 2"
-msgstr ""
+msgstr "दूसरा कदम"
 
 #: app/scripts/templates/lost_mode.html:5
 msgid "Enter a note to show on the device:"
-msgstr ""
+msgstr "उपकरण पर दिखाने के लिए एक नोट दर्ज करें:"
 
 #: app/scripts/templates/lost_mode.html:6
 msgid "Note (optional)"
