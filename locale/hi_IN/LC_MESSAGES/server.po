@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: 2015-06-29 04:33+0000\n"
+"PO-Revision-Date: 2015-07-01 18:12+0000\n"
 "Last-Translator: Priyank <priyank01agarwal@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1435552433.0\n"
+"X-POOTLE-MTIME: 1435774327.0\n"
 
 #: app/index.html:9
 msgid "Find My Device — Firefox OS — Mozilla"
@@ -32,15 +32,15 @@ msgstr "मेरा यंत्र खोजें"
 
 #: app/index.html:45
 msgid "Locate a lost phone, lock it or even erase it remotely."
-msgstr ""
+msgstr "एक खोये फ़ोन का पता ढूंढें, उसे लॉक करें अथवा उसे सुदूर से मिटा दें."
 
 #: app/index.html:48
 msgid "Sign in"
-msgstr ""
+msgstr "साइन इन"
 
 #: app/index.html:49
 msgid "Create a Firefox Account"
-msgstr ""
+msgstr "फ़ायरफ़ॉक्स खाता तैयार करें"
 
 #: app/index.html:51
 msgid ""
@@ -49,56 +49,71 @@ msgid ""
 "message. You can also lock it for safety or delete your personal info "
 "completely."
 msgstr ""
+"यदि आप अपना फ़ायरफ़ॉक्स ओएस स्मार्टफोन खो चुके हैं, मेरा यंत्र खोजो उसे ढूंढने "
+"में आपकी सहायता कर सकता है. आप उसे एक नक्षे पर देख सकते हैं, उसमें एक धुन "
+"बजा सकते हैं एवं उसमें एक संदेश प्रदर्शित कर सकते हैं. आप उसे सुरक्षा के लिए "
+"लॉक भी कर सकते हैं अथवा अपनी निजी जानकारी पूर्णतया नष्ट कर सकते हैं."
 
 #: app/index.html:52
 msgid ""
 "To get started, make sure you have a Firefox Account and Find My Device "
 "enabled on your phone."
 msgstr ""
+"शुरू करने के लिए, यह सुनश्चित करें की आपके पास एक फ़ायरफ़ॉक्स खाता एवं आपके "
+"फ़ोन पर मेरा यंत्र खोजो चालू है."
 
 #: app/index.html:59
 msgid "Track"
-msgstr ""
+msgstr "खोज"
 
 #: app/index.html:60
 msgid ""
 "As long as your phone remains on and connected to the Internet, you can see "
 "its location on the map."
 msgstr ""
+"जब तक आपका फ़ोन चालू एवं इंटरनेट से जुड़ा रहेगा, आप उसका ठिकाना नक्षे पर देख "
+"सकते हैं."
 
 #: app/index.html:63
 msgid "Ring"
-msgstr ""
+msgstr "बजाएं"
 
 #: app/index.html:64
 msgid ""
 "If you see that it’s nearby on the map, you can make the phone ring, even if "
 "the ringer is set to silent."
 msgstr ""
+"यदि आप देख सकते हैं की वह नक्षे पर समीप है, आप फ़ोन को बजा सकते हैं, यदि "
+"रिंगर साइलेंट हो तब भी."
 
 #: app/index.html:67
 msgid "Lock"
-msgstr ""
+msgstr "लॉक"
 
 #: app/index.html:68
 msgid ""
 "To protect your personal info, you can lock your screen and have it display "
 "a message to help someone return it to you."
 msgstr ""
+"अपनी निजी जानकारी सुरक्षित करने के लिए, आप अपनी स्क्रीन लॉक कर सकते हैं एवं "
+"उसपर एक संदेश प्रदर्शित कर सकते हैं जिसकी सहायता से कोई आपको उसे लौटा सकता "
+"है."
 
 #: app/index.html:71
 msgid "Erase"
-msgstr ""
+msgstr "मिटाएं"
 
 #: app/index.html:72
 msgid ""
 "If you’re unable to find your phone, you can permanently erase it, but "
 "please note that this can not be undone."
 msgstr ""
+"यदि आप अपना फ़ोन नहीं ढूंढ पा रहे हैं, आप उसे स्थायी रूप से मिटा सकते हैं, "
+"परन्तु कृपया ध्यान दें की यह क्रिया वापस नही हो पाएगी."
 
 #: app/index.html:79
 msgid "Mozilla"
-msgstr ""
+msgstr "मोज़िला"
 
 #: app/index.html:80
 msgid ""
@@ -106,55 +121,59 @@ msgid ""
 "contributors. Content available under a <a href='http://www.mozilla.org/"
 "foundation/licensing/website-content/'>Creative Commons license</a>."
 msgstr ""
+"इस सारांश के अंश ©1998–2014 के व्यक्तिगत mozilla.org सहयोगियों द्वारा हैं. "
+"सारांश इसके तहत उपलब्ध है <a "
+"href='http://www.mozilla.org/foundation/licensing/website-content/'>क्रिएटिव "
+"कॉमन्स लाइसेंस</a>."
 
 #: app/index.html:84
 msgid "Contact Us"
-msgstr ""
+msgstr "हमसे संपर्क करें"
 
 #: app/index.html:85
 msgid "Partner with Us"
-msgstr ""
+msgstr "हमारे साथ सहयोग करें"
 
 #: app/index.html:86
 msgid "Donate"
-msgstr ""
+msgstr "दान करें"
 
 #: app/index.html:87
 msgid "Firefox Affiliates"
-msgstr ""
+msgstr "फ़ायरफ़ॉक्स संबद्ध"
 
 #: app/index.html:88
 msgid "Contribute to this page"
-msgstr ""
+msgstr "इस पृष्ठ में योगदान करें"
 
 #: app/index.html:91
 msgid "Privacy"
-msgstr ""
+msgstr "निजी"
 
 #: app/index.html:92
 msgid "Legal"
-msgstr ""
+msgstr "कानूनी"
 
 #: app/index.html:93
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "ट्रेडमार्क दुरुपयोग सूचित करें"
 
 #: app/index.html:99
 msgid "Mozilla:"
-msgstr ""
+msgstr "मोज़िला:"
 
 #: app/index.html:101 app/index.html:108
 msgid "Twitter"
-msgstr ""
+msgstr "ट्वीटर"
 
 #: app/index.html:102 app/index.html:109
 msgid "Facebook"
-msgstr ""
+msgstr "फेसबुक"
 
 #: app/index.html:106
 msgid "Firefox:"
-msgstr ""
+msgstr "फ़ायरफ़ॉक्स:"
 
 #: app/index.html:110
 msgid "YouTube"
-msgstr ""
+msgstr "यूट्यूब"
