@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: 2015-07-17 11:45+0000\n"
+"PO-Revision-Date: 2015-07-17 16:55+0000\n"
 "Last-Translator: Jobava <jobaval10n@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ro\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2);;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1437133522.0\n"
+"X-POOTLE-MTIME: 1437152151.0\n"
 
 #: app/index.html:9
 msgid "Find My Device — Firefox OS — Mozilla"
@@ -33,8 +33,7 @@ msgstr "Găsește-mi dispozitivul"
 
 #: app/index.html:45
 msgid "Locate a lost phone, lock it or even erase it remotely."
-msgstr ""
-"Localizați un telefon pierdut, închideți-l sau ștergeți-l de la distanță."
+msgstr "Localizați un telefon pierdut, blocați-l sau ștergeți-l de la distanță."
 
 #: app/index.html:48
 msgid "Sign in"
@@ -52,16 +51,16 @@ msgid ""
 "completely."
 msgstr ""
 "Dacă ați pierdut telefonul cu FirefoxOS, „Găsește-mi dispozitivul” vă poate "
-"ajuta să-l găsiți. Îl puteți vedea pe hartă, îl puteți pune să cânte o "
-"melodie sau să afișeze un mesaj. Puteți să-l încuiați pentru siguranță sau "
-"să ștergeți complet informația personală stocată pe dispozitiv."
+"ajuta să-l găsiți. Îl puteți vedea pe hartă, puteți porni o melodie sau să "
+"afișați un mesaj pe el. Puteți să-l blocați pentru siguranță sau să ștergeți "
+"complet informația personală stocată pe dispozitiv."
 
 #: app/index.html:52
 msgid ""
 "To get started, make sure you have a Firefox Account and Find My Device "
 "enabled on your phone."
 msgstr ""
-"Pentru a porni aveți nevoie de un cont Firefox și de funcția „Găsește-mi "
+"Pentru a începe aveți nevoie de un cont Firefox și de funcția „Găsește-mi "
 "dispozitivul” activată pe telefon."
 
 #: app/index.html:59
@@ -90,14 +89,14 @@ msgstr ""
 
 #: app/index.html:67
 msgid "Lock"
-msgstr "Încuie"
+msgstr "Blochează"
 
 #: app/index.html:68
 msgid ""
 "To protect your personal info, you can lock your screen and have it display "
 "a message to help someone return it to you."
 msgstr ""
-"Pentru a vă proteja informațiile personale, puteți să încuiați dispozitivul "
+"Pentru a vă proteja informațiile personale, puteți să blocați dispozitivul "
 "și să-l faceți să afișeze un mesaj pentru a ajuta pe cineva să vi-l "
 "returneze."
 

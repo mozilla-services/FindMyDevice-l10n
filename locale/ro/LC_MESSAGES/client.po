@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: 2015-07-17 11:47+0000\n"
+"PO-Revision-Date: 2015-07-17 16:57+0000\n"
 "Last-Translator: Jobava <jobaval10n@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ro\n"
@@ -13,15 +13,15 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2);;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1437133669.0\n"
+"X-POOTLE-MTIME: 1437152256.0\n"
 
 #: app/scripts/views/device.js:83
 msgid "Your device is erasing."
-msgstr "Ștergem dispozitivul."
+msgstr "Se șterge dispozitivul."
 
 #: app/scripts/views/device.js:85
 msgid "An error occurred while trying to erase your device."
-msgstr "A apărut o eroare în timp ce încercam să ștergem dispozitivul."
+msgstr "A apărut o eroare la ștergerea dispozitivului."
 
 #: app/scripts/views/device.js:91
 msgid "Your device is locked."
@@ -29,7 +29,7 @@ msgstr "Dispozitivul este blocat."
 
 #: app/scripts/views/device.js:93
 msgid "An error occurred while trying to lock your device."
-msgstr "A apărut o eroare în timp ce încercam să încuiem dispozitivul."
+msgstr "A apărut o eroare la blocarea dispozitivului."
 
 #: app/scripts/views/device.js:99
 msgid "Your device is ringing."
@@ -37,7 +37,7 @@ msgstr "Dispozitivul sună."
 
 #: app/scripts/views/device.js:101
 msgid "An error occurred while trying to ring your device."
-msgstr "A apărut o eroare în timp ce încercam să apelăm dispozitivul."
+msgstr "A apărut o eroare la apelarea dispozitivului."
 
 #: app/scripts/views/device.js:107
 msgid "An error occurred while trying to locate your device. Trying again..."
@@ -47,7 +47,7 @@ msgstr ""
 
 #: app/scripts/views/device.js:112
 msgid "Locating device..."
-msgstr "Localizăm dispozitivul..."
+msgstr "Localizare dispozitiv..."
 
 #: app/scripts/templates/device.html:1
 msgid "Menu"
@@ -56,11 +56,11 @@ msgstr "Meniu"
 #: app/scripts/templates/device.html:2
 #: app/scripts/templates/device_not_found.html:3
 msgid "Sign out"
-msgstr "Ieșire"
+msgstr "Deconectare"
 
 #: app/scripts/templates/device.html:3
 msgid "Connecting to device..."
-msgstr "Ne conectăm la dispozitiv..."
+msgstr "Conectare la dispozitiv..."
 
 #: app/scripts/templates/device.html:4
 msgid "Firefox OS"
@@ -68,11 +68,11 @@ msgstr "Firefox OS"
 
 #: app/scripts/templates/device.html:5
 msgid "Ring"
-msgstr "Apelează"
+msgstr "Sună"
 
 #: app/scripts/templates/device.html:6
 msgid "Lock"
-msgstr "Încuie"
+msgstr "Blochează"
 
 #: app/scripts/templates/device.html:7
 #: app/scripts/templates/erase_confirmation.html:4
@@ -129,7 +129,7 @@ msgstr "Anulează"
 #: app/scripts/templates/lost_mode_passcode.html:2
 #: app/scripts/templates/lost_mode_passcode.html:13
 msgid "Lock Device"
-msgstr "Încuie dispozitivul"
+msgstr "Blochează dispozitivul"
 
 #: app/scripts/templates/lost_mode.html:3
 #: app/scripts/templates/lost_mode_passcode.html:3
@@ -143,7 +143,7 @@ msgstr "Pasul 2"
 
 #: app/scripts/templates/lost_mode.html:5
 msgid "Enter a note to show on the device:"
-msgstr "Scrieți un mesaj care să fie afișat pe dispozitiv:"
+msgstr "Introduceți un mesaj care să fie afișat pe dispozitiv:"
 
 #: app/scripts/templates/lost_mode.html:6
 msgid "Note (optional)"
@@ -159,7 +159,7 @@ msgstr "Înapoi"
 
 #: app/scripts/templates/lost_mode_passcode.html:5
 msgid "Enter a passcode to lock your device:"
-msgstr "Scrieți o parolă pentru a încuia dispozitivul:"
+msgstr "Scrieți o parolă pentru a bloca dispozitivul:"
 
 #: app/scripts/templates/lost_mode_passcode.html:6
 #: app/scripts/templates/lost_mode_passcode.html:9
@@ -169,7 +169,7 @@ msgstr "Parola este necesară."
 #: app/scripts/templates/lost_mode_passcode.html:7
 #: app/scripts/templates/lost_mode_passcode.html:10
 msgid "Passcode must be 4 digits."
-msgstr "Parola trebuie să conțină 4 cifre"
+msgstr "Parola trebuie să conțină 4 cifre."
 
 #: app/scripts/templates/lost_mode_passcode.html:8
 msgid "Enter passcode again:"
@@ -177,18 +177,18 @@ msgstr "Introduceți parola din nou:"
 
 #: app/scripts/templates/lost_mode_passcode.html:11
 msgid "Passcodes must match."
-msgstr "Parolele trebuie să fie identice"
+msgstr "Parolele trebuie să fie identice."
 
 #: app/scripts/templates/lost_mode_passcode.html:12
 msgid ""
 "Once your device is locked, you will not be able to change this code again."
-msgstr "După ce ați încuiat dispozitivul nu veți mai putea schimba acest cod."
+msgstr "După ce ați blocat dispozitivul nu veți mai putea schimba acest cod."
 
 #: app/scripts/templates/play_sound.html:2
 #: app/scripts/templates/play_sound.html:4
 msgid "Ring Device"
-msgstr "Apelează dispozitivul"
+msgstr "Sună dispozitivul"
 
 #: app/scripts/templates/play_sound.html:3
 msgid "Play a sound on your device to help you find it."
-msgstr "Puneți dispozitivul să cânte o melodie pentru a-l putea găsi."
+msgstr "Redați o melodie pe dispozitiv pentru a-l putea găsi."
