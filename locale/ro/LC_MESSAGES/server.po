@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: 2014-10-22 23:32+0000\n"
-"Last-Translator: Raul <raul.malea@gmail.com>\n"
+"PO-Revision-Date: 2015-07-17 11:45+0000\n"
+"Last-Translator: Jobava <jobaval10n@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
@@ -13,36 +13,36 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2);;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1414020758.0\n"
+"X-POOTLE-MTIME: 1437133522.0\n"
 
 #: app/index.html:9
 msgid "Find My Device — Firefox OS — Mozilla"
-msgstr ""
+msgstr "Găsește-mi dispozitivul — Firefox OS — Mozilla"
 
 #: app/index.html:42
-#, fuzzy
 msgid "mozilla"
-msgstr "Mozilla"
+msgstr "mozilla"
 
 #: app/index.html:43
 msgid "Firefox OS"
-msgstr ""
+msgstr "Firefox OS"
 
 #: app/index.html:44
 msgid "Find My Device"
-msgstr ""
+msgstr "Găsește-mi dispozitivul"
 
 #: app/index.html:45
 msgid "Locate a lost phone, lock it or even erase it remotely."
 msgstr ""
+"Localizați un telefon pierdut, închideți-l sau ștergeți-l de la distanță."
 
 #: app/index.html:48
 msgid "Sign in"
-msgstr ""
+msgstr "Autentificare"
 
 #: app/index.html:49
 msgid "Create a Firefox Account"
-msgstr ""
+msgstr "Creați un cont Firefox"
 
 #: app/index.html:51
 msgid ""
@@ -51,52 +51,67 @@ msgid ""
 "message. You can also lock it for safety or delete your personal info "
 "completely."
 msgstr ""
+"Dacă ați pierdut telefonul cu FirefoxOS, „Găsește-mi dispozitivul” vă poate "
+"ajuta să-l găsiți. Îl puteți vedea pe hartă, îl puteți pune să cânte o "
+"melodie sau să afișeze un mesaj. Puteți să-l încuiați pentru siguranță sau "
+"să ștergeți complet informația personală stocată pe dispozitiv."
 
 #: app/index.html:52
 msgid ""
 "To get started, make sure you have a Firefox Account and Find My Device "
 "enabled on your phone."
 msgstr ""
+"Pentru a porni aveți nevoie de un cont Firefox și de funcția „Găsește-mi "
+"dispozitivul” activată pe telefon."
 
 #: app/index.html:59
 msgid "Track"
-msgstr ""
+msgstr "Urmărește"
 
 #: app/index.html:60
 msgid ""
 "As long as your phone remains on and connected to the Internet, you can see "
 "its location on the map."
 msgstr ""
+"Atât timp cât telefonul rămâne pornit și conectat la internet, puteți să-i "
+"vedeți locația pe hartă."
 
 #: app/index.html:63
 msgid "Ring"
-msgstr ""
+msgstr "Sună"
 
 #: app/index.html:64
 msgid ""
 "If you see that it’s nearby on the map, you can make the phone ring, even if "
 "the ringer is set to silent."
 msgstr ""
+"Dacă observați că se află în apropiere pe hartă, puteți să-l puneți să sune, "
+"chiar dacă soneria este în mod „silențios”."
 
 #: app/index.html:67
 msgid "Lock"
-msgstr ""
+msgstr "Încuie"
 
 #: app/index.html:68
 msgid ""
 "To protect your personal info, you can lock your screen and have it display "
 "a message to help someone return it to you."
 msgstr ""
+"Pentru a vă proteja informațiile personale, puteți să încuiați dispozitivul "
+"și să-l faceți să afișeze un mesaj pentru a ajuta pe cineva să vi-l "
+"returneze."
 
 #: app/index.html:71
 msgid "Erase"
-msgstr ""
+msgstr "Șterge"
 
 #: app/index.html:72
 msgid ""
 "If you’re unable to find your phone, you can permanently erase it, but "
 "please note that this can not be undone."
 msgstr ""
+"Dacă nu puteți găsi telefonul, îl puteți șterge permanent, dar atenție, "
+"această operațiune este ireversibilă."
 
 #: app/index.html:79
 msgid "Mozilla"
@@ -108,26 +123,30 @@ msgid ""
 "contributors. Content available under a <a href='http://www.mozilla.org/"
 "foundation/licensing/website-content/'>Creative Commons license</a>."
 msgstr ""
+"Porțiuni din acest conținut sunt ©1998–2014 de contribuitori individuali "
+"mozilla.org. Conținutul disponibil se află sub licență <a "
+"href='http://www.mozilla.org/foundation/licensing/website-content/'>Creative "
+"Commons</a>."
 
 #: app/index.html:84
 msgid "Contact Us"
-msgstr ""
+msgstr "Contactați-ne"
 
 #: app/index.html:85
 msgid "Partner with Us"
-msgstr ""
+msgstr "Deveniți partener"
 
 #: app/index.html:86
 msgid "Donate"
-msgstr "Donează"
+msgstr "Donați"
 
 #: app/index.html:87
 msgid "Firefox Affiliates"
-msgstr ""
+msgstr "Afiliați Firefox"
 
 #: app/index.html:88
 msgid "Contribute to this page"
-msgstr ""
+msgstr "Contribuiți la această pagină"
 
 #: app/index.html:91
 msgid "Privacy"
@@ -139,7 +158,7 @@ msgstr "Legal"
 
 #: app/index.html:93
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "Raportați abuzul mărcilor înregistrate"
 
 #: app/index.html:99
 msgid "Mozilla:"
@@ -147,11 +166,11 @@ msgstr "Mozilla:"
 
 #: app/index.html:101 app/index.html:108
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: app/index.html:102 app/index.html:109
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: app/index.html:106
 msgid "Firefox:"
@@ -159,7 +178,7 @@ msgstr "Firefox:"
 
 #: app/index.html:110
 msgid "YouTube"
-msgstr ""
+msgstr "YouTube"
 
 #~ msgid ""
 #~ "<a href=\"https://twitter.com/firefox\">Twitter<span> (@firefox)</span></"
