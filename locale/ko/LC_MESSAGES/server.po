@@ -1,3 +1,4 @@
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -11,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.5.0\n"
+"X-Generator: Pontoon\n"
 "X-POOTLE-MTIME: 1430888545.0\n"
 
 #: app/index.html:9
@@ -49,8 +50,8 @@ msgid ""
 "message. You can also lock it for safety or delete your personal info "
 "completely."
 msgstr ""
-"Firefox OS 스마트폰을 잃어버리면 Find My Device를 이용해서 찾을 수 있습니다. 지도에서 위치를 확인하거나 소리를 내게 "
-"할 수 있고 메시지를 보낼 수도 있습니다. 기기를 잠그거나 안전을 위해서 개인정보를 삭제할 수도 있습니다."
+"Firefox OS 스마트폰을 잃어버리면 Find My Device를 이용해서 찾을 수 있습니다. 지도에서 위치를 확인하거나 소리를 내게"
+" 할 수 있고 메시지를 보낼 수도 있습니다. 기기를 잠그거나 안전을 위해서 개인정보를 삭제할 수도 있습니다."
 
 #: app/index.html:52
 msgid ""
@@ -74,8 +75,8 @@ msgstr "벨소리"
 
 #: app/index.html:64
 msgid ""
-"If you see that it’s nearby on the map, you can make the phone ring, even if "
-"the ringer is set to silent."
+"If you see that it’s nearby on the map, you can make the phone ring, even if"
+" the ringer is set to silent."
 msgstr ""
 
 #: app/index.html:67
@@ -105,8 +106,9 @@ msgstr "Mozilla"
 #: app/index.html:80
 msgid ""
 "Portions of this content are ©1998–2014 by individual mozilla.org "
-"contributors. Content available under a <a href='http://www.mozilla.org/"
-"foundation/licensing/website-content/'>Creative Commons license</a>."
+"contributors. Content available under a <a "
+"href='http://www.mozilla.org/foundation/licensing/website-content/'>Creative"
+" Commons license</a>."
 msgstr ""
 
 #: app/index.html:84
