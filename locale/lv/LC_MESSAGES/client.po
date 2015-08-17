@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: 2015-06-05 11:18:11\n"
+"PO-Revision-Date: 2015-08-17 13:34:09.610053\n"
 "Last-Translator: Jānis Marks Gailis - Jean-Marc <jm-gailis@fai-vianet.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: lv\n"
@@ -28,23 +28,23 @@ msgstr ""
 
 #: app/scripts/views/device.js:93
 msgid "An error occurred while trying to lock your device."
-msgstr ""
+msgstr "Notika kļūda mēģinot aizslēgt jūsu ierīci."
 
 #: app/scripts/views/device.js:99
 msgid "Your device is ringing."
-msgstr ""
+msgstr "Jūsu ierīce šobrīd skan."
 
 #: app/scripts/views/device.js:101
 msgid "An error occurred while trying to ring your device."
-msgstr ""
+msgstr "Notika kļūda mēģinot jūsu ierīci skanēt."
 
 #: app/scripts/views/device.js:107
 msgid "An error occurred while trying to locate your device. Trying again..."
-msgstr ""
+msgstr "Notika kļūda mēģinot atrast jūsu ierīci. Mēģina vēlreiz..."
 
 #: app/scripts/views/device.js:112
 msgid "Locating device..."
-msgstr ""
+msgstr "Lokalizē ierīci..."
 
 #: app/scripts/templates/device.html:1
 msgid "Menu"
@@ -82,7 +82,7 @@ msgstr ""
 
 #: app/scripts/templates/device_not_found.html:2
 msgid "Enable Find My Device on your Firefox OS device."
-msgstr ""
+msgstr "Ieslēdziet Atrast Manu Ierīci uz savu Firefox OS ierīci."
 
 #: app/scripts/templates/erase.html:1 app/scripts/templates/lost_mode.html:1
 #: app/scripts/templates/play_sound.html:1
@@ -107,7 +107,7 @@ msgstr ""
 
 #: app/scripts/templates/erase.html:6
 msgid "Disable Find My Device"
-msgstr ""
+msgstr "Izslēgt Atrast Manu Ierīci"
 
 #: app/scripts/templates/erase_confirmation.html:1
 msgid "Confirmation"
@@ -144,7 +144,7 @@ msgstr ""
 
 #: app/scripts/templates/lost_mode.html:6
 msgid "Note (optional)"
-msgstr ""
+msgstr "Piezīme (fakultatīvi)"
 
 #: app/scripts/templates/lost_mode.html:9
 msgid "Next"
