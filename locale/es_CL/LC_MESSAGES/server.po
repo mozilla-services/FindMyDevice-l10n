@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: 2015-08-20 17:50\n"
+"PO-Revision-Date: 2015-08-20 17:53\n"
 "Last-Translator: Richard Alexander von Moltke N <ravmn@ravmn.cl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es_CL\n"
@@ -58,47 +58,55 @@ msgstr ""
 
 #: app/index.html:59
 msgid "Track"
-msgstr ""
+msgstr "Seguimiento"
 
 #: app/index.html:60
 msgid ""
 "As long as your phone remains on and connected to the Internet, you can see "
 "its location on the map."
 msgstr ""
+"Mientras tu teléfono se encuentre prendido y conectado a Internet, podrás "
+"ver su ubicación en el mapa."
 
 #: app/index.html:63
 msgid "Ring"
-msgstr ""
+msgstr "Sonido"
 
 #: app/index.html:64
 msgid ""
 "If you see that it’s nearby on the map, you can make the phone ring, even if"
 " the ringer is set to silent."
 msgstr ""
+"Si vez en el mapa que se encuentra cerca, puedes hacerlo sonar, incluso si "
+"lo tienes en modo silencioso."
 
 #: app/index.html:67
 msgid "Lock"
-msgstr ""
+msgstr "Bloqueo"
 
 #: app/index.html:68
 msgid ""
 "To protect your personal info, you can lock your screen and have it display "
 "a message to help someone return it to you."
 msgstr ""
+"Para proteger tu información personal, puedes bloquear la pantalla y hacer "
+"que muestre un mensaje para que te ayuden a recuperarlo."
 
 #: app/index.html:71
 msgid "Erase"
-msgstr ""
+msgstr "Borrar"
 
 #: app/index.html:72
 msgid ""
 "If you’re unable to find your phone, you can permanently erase it, but "
 "please note that this can not be undone."
 msgstr ""
+"Si no puedes encontrar tu teléfono, puedes borrarlo de forma permanente, "
+"pero recuerda que esto no puede ser deshecho."
 
 #: app/index.html:79
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: app/index.html:80
 msgid ""
@@ -110,7 +118,7 @@ msgstr ""
 
 #: app/index.html:84
 msgid "Contact Us"
-msgstr ""
+msgstr "Contáctanos"
 
 #: app/index.html:85
 msgid "Partner with Us"
@@ -118,44 +126,44 @@ msgstr ""
 
 #: app/index.html:86
 msgid "Donate"
-msgstr ""
+msgstr "Donar"
 
 #: app/index.html:87
 msgid "Firefox Affiliates"
-msgstr ""
+msgstr "Firefox Affiliates"
 
 #: app/index.html:88
 msgid "Contribute to this page"
-msgstr ""
+msgstr "Contribuir a esta página"
 
 #: app/index.html:91
 msgid "Privacy"
-msgstr ""
+msgstr "Privacidad"
 
 #: app/index.html:92
 msgid "Legal"
-msgstr ""
+msgstr "Legal"
 
 #: app/index.html:93
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "Reportar abuso de uso de marca"
 
 #: app/index.html:99
 msgid "Mozilla:"
-msgstr ""
+msgstr "Mozilla:"
 
 #: app/index.html:101 app/index.html:108
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: app/index.html:102 app/index.html:109
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: app/index.html:106
 msgid "Firefox:"
-msgstr ""
+msgstr "Firefox:"
 
 #: app/index.html:110
 msgid "YouTube"
-msgstr ""
+msgstr "YouTube"
