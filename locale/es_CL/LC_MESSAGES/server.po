@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-08-20 17:50\n"
+"Last-Translator: Richard Alexander von Moltke N <ravmn@ravmn.cl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es_CL\n"
 "MIME-Version: 1.0\n"
@@ -16,27 +16,27 @@ msgstr ""
 
 #: app/index.html:9
 msgid "Find My Device — Firefox OS — Mozilla"
-msgstr ""
+msgstr "Encontrar mi dispositivo — Firefox OS — Mozilla"
 
 #: app/index.html:42
 msgid "mozilla"
-msgstr ""
+msgstr "mozilla"
 
 #: app/index.html:43
 msgid "Firefox OS"
-msgstr ""
+msgstr "Firefox OS"
 
 #: app/index.html:44
 msgid "Find My Device"
-msgstr ""
+msgstr "Encontrar mi dispositivo"
 
 #: app/index.html:45
 msgid "Locate a lost phone, lock it or even erase it remotely."
-msgstr ""
+msgstr "Ubica un teléfono perdido, bloquéalo e incluso borrarlo remótamente."
 
 #: app/index.html:48
 msgid "Sign in"
-msgstr ""
+msgstr "Conectarse"
 
 #: app/index.html:49
 msgid "Create a Firefox Account"
