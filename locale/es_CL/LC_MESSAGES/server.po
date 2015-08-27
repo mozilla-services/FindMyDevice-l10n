@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: 2015-08-20 17:53\n"
+"PO-Revision-Date: 2015-08-24 10:55\n"
 "Last-Translator: Richard Alexander von Moltke N <ravmn@ravmn.cl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es_CL\n"
@@ -40,7 +40,7 @@ msgstr "Conectarse"
 
 #: app/index.html:49
 msgid "Create a Firefox Account"
-msgstr ""
+msgstr "Crea una cuenta de Firefox"
 
 #: app/index.html:51
 msgid ""
@@ -49,12 +49,18 @@ msgid ""
 "message. You can also lock it for safety or delete your personal info "
 "completely."
 msgstr ""
+"Si has perdido tu teléfono Firefox OS, Encontrar mi dispositivo te puede "
+"ayudar a recuperarlo. Puedes verlo en un mapa, hacer que reproduzca un "
+"sonido y que muestre un mensaje. Puedes también bloquearlo de forma segura o"
+" borrar tu información personal completamente."
 
 #: app/index.html:52
 msgid ""
 "To get started, make sure you have a Firefox Account and Find My Device "
 "enabled on your phone."
 msgstr ""
+"Para empezar, asegúrate de que tienes una cuenta de Firefox y Encontrar mi "
+"dispositivo activado en tu teléfono."
 
 #: app/index.html:59
 msgid "Track"
@@ -115,6 +121,10 @@ msgid ""
 "href='http://www.mozilla.org/foundation/licensing/website-content/'>Creative"
 " Commons license</a>."
 msgstr ""
+"Algunos de estos contenidos están protegidos por derechos de autor "
+"©1998–2014 de determinados colaboradores en mozilla.org. Contenido "
+"disponible bajo una <a href='http://www.mozilla.org/foundation/licensing"
+"/website-content/'>licencia Creative Commons</a>."
 
 #: app/index.html:84
 msgid "Contact Us"
@@ -122,7 +132,7 @@ msgstr "Contáctanos"
 
 #: app/index.html:85
 msgid "Partner with Us"
-msgstr ""
+msgstr "Asóciate con nosotros"
 
 #: app/index.html:86
 msgid "Donate"
