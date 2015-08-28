@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: 2015-08-12 16:22+0000\n"
-"Last-Translator: CristianSilaghi <cristian.silaghi@mozilla.ro>\n"
+"PO-Revision-Date: 2015-08-28 21:21+0000\n"
+"Last-Translator: Jobava <jobaval10n@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2);;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1439396578.0\n"
+"X-POOTLE-MTIME: 1440796912.0\n"
 
 #: app/scripts/views/device.js:83
 msgid "Your device is erasing."
@@ -85,7 +85,7 @@ msgstr "Ne pare rău, nu aveți dispozitive înregistrate."
 
 #: app/scripts/templates/device_not_found.html:2
 msgid "Enable Find My Device on your Firefox OS device."
-msgstr "Activați „Găsește-mi dispozitivul” pe dispozitivul Firefox OS."
+msgstr "Activează „Găsește-mi dispozitivul” pe dispozitivul Firefox OS."
 
 #: app/scripts/templates/erase.html:1 app/scripts/templates/lost_mode.html:1
 #: app/scripts/templates/play_sound.html:1
@@ -110,7 +110,7 @@ msgstr "Restaurează dispozitivul la setările din fabrică"
 
 #: app/scripts/templates/erase.html:6
 msgid "Disable Find My Device"
-msgstr "Dezactivați „Găsește-mi dispozitivul”"
+msgstr "Dezactivează „Găsește-mi dispozitivul”"
 
 #: app/scripts/templates/erase_confirmation.html:1
 msgid "Confirmation"
