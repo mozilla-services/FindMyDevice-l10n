@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: 2015-08-12 16:21+0000\n"
+"PO-Revision-Date: 2015-08-30 16:28+0000\n"
 "Last-Translator: CristianSilaghi <cristian.silaghi@mozilla.ro>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ro\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2);;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1439396515.0\n"
+"X-POOTLE-MTIME: 1440952107.0\n"
 
 #: app/index.html:9
 msgid "Find My Device — Firefox OS — Mozilla"
@@ -33,7 +33,9 @@ msgstr "Găsește-mi dispozitivul"
 
 #: app/index.html:45
 msgid "Locate a lost phone, lock it or even erase it remotely."
-msgstr "Localizați un telefon pierdut, blocați-l sau ștergeți-l de la distanță."
+msgstr ""
+"Localizați un telefon pierdut, blocați-l sau chiar să-l ștergeți de la "
+"distanță."
 
 #: app/index.html:48
 msgid "Sign in"
@@ -50,17 +52,17 @@ msgid ""
 "message. You can also lock it for safety or delete your personal info "
 "completely."
 msgstr ""
-"Dacă ați pierdut telefonul cu FirefoxOS, „Găsește-mi dispozitivul” vă poate "
-"ajuta să-l găsiți. Îl puteți vedea pe hartă, puteți porni o melodie sau să "
-"afișați un mesaj pe el. Puteți să-l blocați pentru siguranță sau să ștergeți "
-"complet informația personală stocată pe dispozitiv."
+"Dacă ați pierdut smartphone-ul FirefoxOS, „Găsește-mi dispozitivul” vă poate "
+"ajuta să-l găsiți. Îl puteți vedea pe hartă, puteți porni o sonerie sau să "
+"afișați un mesaj pe el. Puteți și să-l blocați pentru siguranță sau să "
+"ștergeți complet informațiile personale."
 
 #: app/index.html:52
 msgid ""
 "To get started, make sure you have a Firefox Account and Find My Device "
 "enabled on your phone."
 msgstr ""
-"Pentru a începe aveți nevoie de un cont Firefox și de funcția „Găsește-mi "
+"Pentru a începe asigurați-vă că aveți un cont Firefox și funcția „Găsește-mi "
 "dispozitivul” activată pe telefon."
 
 #: app/index.html:59
@@ -85,7 +87,7 @@ msgid ""
 "the ringer is set to silent."
 msgstr ""
 "Dacă observați că se află în apropiere pe hartă, puteți să-l puneți să sune, "
-"chiar dacă soneria este în mod „silențios”."
+"chiar dacă soneria este setată pe silențios."
 
 #: app/index.html:67
 msgid "Lock"
@@ -96,9 +98,8 @@ msgid ""
 "To protect your personal info, you can lock your screen and have it display "
 "a message to help someone return it to you."
 msgstr ""
-"Pentru a vă proteja informațiile personale, puteți să blocați dispozitivul "
-"și să-l faceți să afișeze un mesaj pentru a ajuta pe cineva să vi-l "
-"returneze."
+"Pentru a vă proteja informațiile personale, puteți să blocați ecranul și să "
+"afișeze un mesaj pentru a ajuta pe cineva să vi-l returneze."
 
 #: app/index.html:71
 msgid "Erase"
@@ -109,7 +110,7 @@ msgid ""
 "If you’re unable to find your phone, you can permanently erase it, but "
 "please note that this can not be undone."
 msgstr ""
-"Dacă nu puteți găsi telefonul, îl puteți șterge permanent, dar atenție, "
+"Dacă nu puteți găsi telefonul, îl puteți șterge permanent, dar rețineți că "
 "această operațiune este ireversibilă."
 
 #: app/index.html:79
@@ -153,11 +154,11 @@ msgstr "Confidențialitate"
 
 #: app/index.html:92
 msgid "Legal"
-msgstr "Legal"
+msgstr "Mențiuni legale"
 
 #: app/index.html:93
 msgid "Report Trademark Abuse"
-msgstr "Raportați abuz asupra mărcilor înregistrate"
+msgstr "Raportați abuzul mărcilor înregistrate"
 
 #: app/index.html:99
 msgid "Mozilla:"
