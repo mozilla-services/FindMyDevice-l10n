@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: 2015-08-17 13:34\n"
+"PO-Revision-Date: 2015-09-04 22:11+0000\n"
 "Last-Translator: Jānis Marks Gailis - Jean-Marc <jm-gailis@fai-vianet.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: lv\n"
@@ -24,7 +24,7 @@ msgstr "Notika kļūda mēģinot dzēst jūsu ierīci."
 
 #: app/scripts/views/device.js:91
 msgid "Your device is locked."
-msgstr ""
+msgstr "Ierīce ir aizslēgta."
 
 #: app/scripts/views/device.js:93
 msgid "An error occurred while trying to lock your device."
@@ -36,7 +36,7 @@ msgstr "Jūsu ierīce šobrīd skan."
 
 #: app/scripts/views/device.js:101
 msgid "An error occurred while trying to ring your device."
-msgstr "Notika kļūda mēģinot jūsu ierīci skanēt."
+msgstr "Notika kļūda mēģinot jūsu ierīci skandināt."
 
 #: app/scripts/views/device.js:107
 msgid "An error occurred while trying to locate your device. Trying again..."
@@ -65,11 +65,11 @@ msgstr "Firefox OS"
 
 #: app/scripts/templates/device.html:5
 msgid "Ring"
-msgstr ""
+msgstr "Skandināt"
 
 #: app/scripts/templates/device.html:6
 msgid "Lock"
-msgstr ""
+msgstr "Aizslēgt"
 
 #: app/scripts/templates/device.html:7
 #: app/scripts/templates/erase_confirmation.html:4
@@ -78,7 +78,7 @@ msgstr "Dzēst"
 
 #: app/scripts/templates/device_not_found.html:1
 msgid "Sorry but you don't have any devices."
-msgstr ""
+msgstr "Atvainojat, bet jums nav ierīču."
 
 #: app/scripts/templates/device_not_found.html:2
 msgid "Enable Find My Device on your Firefox OS device."
@@ -103,7 +103,7 @@ msgstr "Dzēsīs jūsu kontaktus, datnes, īsziņas, un instalētās aplikācija
 
 #: app/scripts/templates/erase.html:5
 msgid "Restore the device to its factory settings"
-msgstr ""
+msgstr "Atstatīt ierīci uz rūpnīcas iestatījumiem"
 
 #: app/scripts/templates/erase.html:6
 msgid "Disable Find My Device"
@@ -126,21 +126,21 @@ msgstr "Atcelt"
 #: app/scripts/templates/lost_mode_passcode.html:2
 #: app/scripts/templates/lost_mode_passcode.html:13
 msgid "Lock Device"
-msgstr ""
+msgstr "Aizslēgt ierīci"
 
 #: app/scripts/templates/lost_mode.html:3
 #: app/scripts/templates/lost_mode_passcode.html:3
 msgid "Step 1"
-msgstr ""
+msgstr "1. solis"
 
 #: app/scripts/templates/lost_mode.html:4
 #: app/scripts/templates/lost_mode_passcode.html:4
 msgid "Step 2"
-msgstr ""
+msgstr "2. solis"
 
 #: app/scripts/templates/lost_mode.html:5
 msgid "Enter a note to show on the device:"
-msgstr ""
+msgstr "Ievadiet piezīmi ko parādīt uz ierīces:"
 
 #: app/scripts/templates/lost_mode.html:6
 msgid "Note (optional)"
@@ -156,36 +156,38 @@ msgstr "Atpakaļ"
 
 #: app/scripts/templates/lost_mode_passcode.html:5
 msgid "Enter a passcode to lock your device:"
-msgstr ""
+msgstr "Ievadiet kodu lai aizslēgtu ierīci:"
 
 #: app/scripts/templates/lost_mode_passcode.html:6
 #: app/scripts/templates/lost_mode_passcode.html:9
 msgid "Passcode is required."
-msgstr ""
+msgstr "Kods ir nepieciešams."
 
 #: app/scripts/templates/lost_mode_passcode.html:7
 #: app/scripts/templates/lost_mode_passcode.html:10
 msgid "Passcode must be 4 digits."
-msgstr ""
+msgstr "Kodam ir jābūt 4 cipariem."
 
 #: app/scripts/templates/lost_mode_passcode.html:8
 msgid "Enter passcode again:"
-msgstr ""
+msgstr "Ievadiet kodu vēlreiz:"
 
 #: app/scripts/templates/lost_mode_passcode.html:11
 msgid "Passcodes must match."
-msgstr ""
+msgstr "Kodiem ir jāsakrīt."
 
 #: app/scripts/templates/lost_mode_passcode.html:12
 msgid ""
 "Once your device is locked, you will not be able to change this code again."
 msgstr ""
+"No brīža kad jūsu ierīce tiks aizslēgta, jūs vairs nevarēsiet mainīt šo "
+"kodu."
 
 #: app/scripts/templates/play_sound.html:2
 #: app/scripts/templates/play_sound.html:4
 msgid "Ring Device"
-msgstr ""
+msgstr "Skandināt ierīci"
 
 #: app/scripts/templates/play_sound.html:3
 msgid "Play a sound on your device to help you find it."
-msgstr ""
+msgstr "Atskaņot skaņu uz ierīci jums palīdzēs to atrast."

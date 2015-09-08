@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: 2015-06-05 11:15:59\n"
+"PO-Revision-Date: 2015-09-05 08:47+0000\n"
 "Last-Translator: Jānis Marks Gailis - Jean-Marc <jm-gailis@fai-vianet.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: lv\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: app/index.html:9
 msgid "Find My Device — Firefox OS — Mozilla"
-msgstr ""
+msgstr "Atrast Manu Ierīci — Firefox OS — Mozilla"
 
 #: app/index.html:42
 msgid "mozilla"
@@ -28,11 +28,12 @@ msgstr "Firefox OS"
 
 #: app/index.html:44
 msgid "Find My Device"
-msgstr ""
+msgstr "Atrast Manu Ierīci"
 
 #: app/index.html:45
 msgid "Locate a lost phone, lock it or even erase it remotely."
 msgstr ""
+"Atrodiet pazaudētu tālruni, aizslēdziet to, vai pat dzēšat to no tālienes."
 
 #: app/index.html:48
 msgid "Sign in"
@@ -65,6 +66,8 @@ msgid ""
 "As long as your phone remains on and connected to the Internet, you can see "
 "its location on the map."
 msgstr ""
+"Kamēr jūsu tālrunis paliks ieslēgts un pieslēgts internetam, jūs to varēsiet"
+" redzēt uz kartes."
 
 #: app/index.html:63
 msgid "Ring"
@@ -78,7 +81,7 @@ msgstr ""
 
 #: app/index.html:67
 msgid "Lock"
-msgstr ""
+msgstr "Aizslēgt"
 
 #: app/index.html:68
 msgid ""
@@ -88,7 +91,7 @@ msgstr ""
 
 #: app/index.html:71
 msgid "Erase"
-msgstr ""
+msgstr "Dzēst"
 
 #: app/index.html:72
 msgid ""
