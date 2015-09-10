@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: 2015-08-27 10:08+0000\n"
+"PO-Revision-Date: 2015-09-10 07:19+0000\n"
 "Last-Translator: Michal <michal.stanke@mikk.cz>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cs\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1440670137.0\n"
+"X-POOTLE-MTIME: 1441869562.0\n"
 
 #: app/scripts/views/device.js:83
 msgid "Your device is erasing."
@@ -117,7 +117,7 @@ msgstr "Potvrzení"
 
 #: app/scripts/templates/erase_confirmation.html:2
 msgid "Are you sure you want to erase your device?"
-msgstr "Jste si jisti, že chcete vymazat své zařízení?"
+msgstr "Opravdu chcete vymazat své zařízení?"
 
 #: app/scripts/templates/erase_confirmation.html:3
 msgid "Cancel"
