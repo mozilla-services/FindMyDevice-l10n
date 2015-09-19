@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: 2014-10-23 17:04+0000\n"
-"Last-Translator: Andrej <ofimaestro.legenda@gmail.com>\n"
+"PO-Revision-Date: 2015-09-19 12:03+0000\n"
+"Last-Translator: Vanja Tumbas <tumbas93@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
@@ -17,33 +17,32 @@ msgstr ""
 
 #: app/scripts/views/device.js:83
 msgid "Your device is erasing."
-msgstr "Ваш уређај се брише."
+msgstr "Уређај се брише."
 
 #: app/scripts/views/device.js:85
 msgid "An error occurred while trying to erase your device."
-msgstr "Појавила се грешка при покушају брисања Вашег уређаја."
+msgstr "Појавила се грешка при покушају брисања уређаја."
 
 #: app/scripts/views/device.js:91
 msgid "Your device is locked."
-msgstr "Ваш уређај је закључан."
+msgstr "Уређај је закључан."
 
 #: app/scripts/views/device.js:93
 msgid "An error occurred while trying to lock your device."
-msgstr "Појавила се грешка при покушају закључавања Вашег уређаја."
+msgstr "Појавила се грешка при покушају закључавања уређаја."
 
 #: app/scripts/views/device.js:99
 msgid "Your device is ringing."
-msgstr "Ваш уређај звони."
+msgstr "Уређај звони."
 
 #: app/scripts/views/device.js:101
 msgid "An error occurred while trying to ring your device."
-msgstr "Појавила се грешка при покушају звања Вашег уређаја."
+msgstr "Појавила се грешка при покушају звања уређаја."
 
 #: app/scripts/views/device.js:107
 msgid "An error occurred while trying to locate your device. Trying again..."
 msgstr ""
-"Појавила се грешка при покушају проналажења Вашег уређаја. Покушавам "
-"поново..."
+"Појавила се грешка при покушају проналажења уређаја. Покушавам поново..."
 
 #: app/scripts/views/device.js:112
 msgid "Locating device..."
@@ -81,11 +80,11 @@ msgstr "Избриши"
 
 #: app/scripts/templates/device_not_found.html:1
 msgid "Sorry but you don't have any devices."
-msgstr "Извините, али Ви немате ниједан уређај."
+msgstr "Извините, али немате ниједан уређај."
 
 #: app/scripts/templates/device_not_found.html:2
 msgid "Enable Find My Device on your Firefox OS device."
-msgstr "Омогућите Пронађи мој уређај на Вашем Firefox OS уређају."
+msgstr "Омогућите Пронађи мој уређај на Firefox OS уређају."
 
 #: app/scripts/templates/erase.html:1 app/scripts/templates/lost_mode.html:1
 #: app/scripts/templates/play_sound.html:1
@@ -102,7 +101,7 @@ msgstr "Брисање Вашег уређаја ће:"
 
 #: app/scripts/templates/erase.html:4
 msgid "Delete your contacts, media, messages and installed apps"
-msgstr "Обрисати Ваше контакте, видее, поруке и инсталиране апликације"
+msgstr "Обришите контакте, видее, поруке и инсталиране апликације"
 
 #: app/scripts/templates/erase.html:5
 msgid "Restore the device to its factory settings"
@@ -118,7 +117,7 @@ msgstr "Потврда"
 
 #: app/scripts/templates/erase_confirmation.html:2
 msgid "Are you sure you want to erase your device?"
-msgstr "Да ли сте сигурни да желите да избришете Ваш уређај?"
+msgstr "Да ли сте сигурни да желите да избришете уређај?"
 
 #: app/scripts/templates/erase_confirmation.html:3
 msgid "Cancel"
@@ -191,4 +190,4 @@ msgstr "Звони"
 
 #: app/scripts/templates/play_sound.html:3
 msgid "Play a sound on your device to help you find it."
-msgstr "Укључите звук на Вашем уређају да би сте га лакше пронашли."
+msgstr "Укључите звук на уређају да би сте га лакше пронашли."
