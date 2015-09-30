@@ -1,17 +1,18 @@
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
 "PO-Revision-Date: 2015-09-10 07:19+0000\n"
-"Last-Translator: Michal <michal.stanke@mikk.cz>\n"
+"Last-Translator: Michal Stanke <michal.stanke@mikk.cz>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Pootle 2.5.0\n"
+"X-Generator: Pontoon\n"
 "X-POOTLE-MTIME: 1441869562.0\n"
 
 #: app/scripts/views/device.js:83
