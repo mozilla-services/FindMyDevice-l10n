@@ -1,17 +1,18 @@
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
 "PO-Revision-Date: 2014-10-26 22:27+0000\n"
-"Last-Translator: Branislav <rozbora@mozilla.sk>\n"
+"Last-Translator: Branislav Rozbora <rozbora@mozilla.sk>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Pootle 2.5.0\n"
+"X-Generator: Pontoon\n"
 "X-POOTLE-MTIME: 1414362464.0\n"
 
 #: app/scripts/views/device.js:83
@@ -184,8 +185,8 @@ msgstr "Heslá sa musia zhodovať."
 msgid ""
 "Once your device is locked, you will not be able to change this code again."
 msgstr ""
-"Okamžite, ako bude vaše zariadenie uzamknuté, nebudete mať možnosť tento kód "
-"zmeniť."
+"Okamžite, ako bude vaše zariadenie uzamknuté, nebudete mať možnosť tento kód"
+" zmeniť."
 
 #: app/scripts/templates/play_sound.html:2
 #: app/scripts/templates/play_sound.html:4
