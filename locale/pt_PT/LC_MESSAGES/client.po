@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-14 03:30+0000\n"
+"PO-Revision-Date: 2014-10-22 02:37+0000\n"
+"Last-Translator: Cláudio <cesperanc@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1413945420.0\n"
+
+#: app/scripts/views/device.js:83
+msgid "Your device is erasing."
+msgstr "O seu dispositivo está a ser apagado."
+
+#: app/scripts/views/device.js:85
+msgid "An error occurred while trying to erase your device."
+msgstr "Ocorreu um erro ao tentar apagar o seu dispositivo."
+
+#: app/scripts/views/device.js:91
+msgid "Your device is locked."
+msgstr "O seu dispositivo está bloqueado."
+
+#: app/scripts/views/device.js:93
+msgid "An error occurred while trying to lock your device."
+msgstr "Ocorreu um erro ao tentar bloquear o seu dispositivo."
+
+#: app/scripts/views/device.js:99
+msgid "Your device is ringing."
+msgstr "O seu dispositivo está a tocar."
+
+#: app/scripts/views/device.js:101
+msgid "An error occurred while trying to ring your device."
+msgstr "Ocorreu um erro ao tentar fazer com que o seu dispositivo tocasse."
+
+#: app/scripts/views/device.js:107
+msgid "An error occurred while trying to locate your device. Trying again..."
+msgstr ""
+"Ocorreu um erro ao tentar localizar o seu dispositivo. A tentar novamente..."
+
+#: app/scripts/views/device.js:112
+msgid "Locating device..."
+msgstr "A localizar dispositivo..."
+
+#: app/scripts/templates/device.html:1
+msgid "Menu"
+msgstr "Menu"
+
+#: app/scripts/templates/device.html:2
+#: app/scripts/templates/device_not_found.html:3
+msgid "Sign out"
+msgstr "Terminar sessão"
+
+#: app/scripts/templates/device.html:3
+msgid "Connecting to device..."
+msgstr "A ligar ao dispositivo..."
+
+#: app/scripts/templates/device.html:4
+msgid "Firefox OS"
+msgstr "Firefox OS"
+
+#: app/scripts/templates/device.html:5
+msgid "Ring"
+msgstr "Tocar"
+
+#: app/scripts/templates/device.html:6
+msgid "Lock"
+msgstr "Bloquear"
+
+#: app/scripts/templates/device.html:7
+#: app/scripts/templates/erase_confirmation.html:4
+msgid "Erase"
+msgstr "Apagar"
+
+#: app/scripts/templates/device_not_found.html:1
+msgid "Sorry but you don't have any devices."
+msgstr "Lamentamos mais não tem quaisquer dispositivos."
+
+#: app/scripts/templates/device_not_found.html:2
+msgid "Enable Find My Device on your Firefox OS device."
+msgstr "Ative o Encontrar o Meu Dispositivo no seu dispositivo com Firefox OS."
+
+#: app/scripts/templates/erase.html:1 app/scripts/templates/lost_mode.html:1
+#: app/scripts/templates/play_sound.html:1
+msgid "Close"
+msgstr "Fechar"
+
+#: app/scripts/templates/erase.html:2 app/scripts/templates/erase.html:7
+msgid "Erase Device"
+msgstr "Apagar o meu dispositivo"
+
+#: app/scripts/templates/erase.html:3
+msgid "Erasing your device will:"
+msgstr "Ao apagar o seu dispositivo, vai:"
+
+#: app/scripts/templates/erase.html:4
+msgid "Delete your contacts, media, messages and installed apps"
+msgstr "Eliminar os seus contactos, media, mensagens e aplicações instaladas"
+
+#: app/scripts/templates/erase.html:5
+msgid "Restore the device to its factory settings"
+msgstr "Repor o dispositivo para o seu estado inicial"
+
+#: app/scripts/templates/erase.html:6
+msgid "Disable Find My Device"
+msgstr "Desativar o Encontrar o Meu Dispositivo"
+
+#: app/scripts/templates/erase_confirmation.html:1
+msgid "Confirmation"
+msgstr "Confirmação"
+
+#: app/scripts/templates/erase_confirmation.html:2
+msgid "Are you sure you want to erase your device?"
+msgstr "Tem a certeza que pretende apagar o seu dispositivo?"
+
+#: app/scripts/templates/erase_confirmation.html:3
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: app/scripts/templates/lost_mode.html:2
+#: app/scripts/templates/lost_mode.html:7
+#: app/scripts/templates/lost_mode_passcode.html:2
+#: app/scripts/templates/lost_mode_passcode.html:13
+msgid "Lock Device"
+msgstr "Bloquear dispositivo"
+
+#: app/scripts/templates/lost_mode.html:3
+#: app/scripts/templates/lost_mode_passcode.html:3
+msgid "Step 1"
+msgstr "Passo 1"
+
+#: app/scripts/templates/lost_mode.html:4
+#: app/scripts/templates/lost_mode_passcode.html:4
+msgid "Step 2"
+msgstr "Passo 2"
+
+#: app/scripts/templates/lost_mode.html:5
+msgid "Enter a note to show on the device:"
+msgstr "Introduza uma nota a apresentar no dispositivo:"
+
+#: app/scripts/templates/lost_mode.html:6
+msgid "Note (optional)"
+msgstr "Nota (opcional)"
+
+#: app/scripts/templates/lost_mode.html:9
+msgid "Next"
+msgstr "Seguinte"
+
+#: app/scripts/templates/lost_mode_passcode.html:1
+msgid "Back"
+msgstr "Anterior"
+
+#: app/scripts/templates/lost_mode_passcode.html:5
+msgid "Enter a passcode to lock your device:"
+msgstr "Introduza um código para bloquear o seu dispositivo:"
+
+#: app/scripts/templates/lost_mode_passcode.html:6
+#: app/scripts/templates/lost_mode_passcode.html:9
+msgid "Passcode is required."
+msgstr "É necessário um código."
+
+#: app/scripts/templates/lost_mode_passcode.html:7
+#: app/scripts/templates/lost_mode_passcode.html:10
+msgid "Passcode must be 4 digits."
+msgstr "O código deve ser de 4 dígitos."
+
+#: app/scripts/templates/lost_mode_passcode.html:8
+msgid "Enter passcode again:"
+msgstr "Introduza novamente o código:"
+
+#: app/scripts/templates/lost_mode_passcode.html:11
+msgid "Passcodes must match."
+msgstr "Os códigos devem coincidir."
+
+#: app/scripts/templates/lost_mode_passcode.html:12
+msgid ""
+"Once your device is locked, you will not be able to change this code again."
+msgstr ""
+"Após o seu dispositivo estar bloqueado, não poderá alterar este código "
+"novamente."
+
+#: app/scripts/templates/play_sound.html:2
+#: app/scripts/templates/play_sound.html:4
+msgid "Ring Device"
+msgstr "Tocar dispositivo"
+
+#: app/scripts/templates/play_sound.html:3
+msgid "Play a sound on your device to help you find it."
+msgstr "Toque um som no seu dispositivo para o encontrar."
