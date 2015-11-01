@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: 2014-10-24 12:49+0000\n"
-"Last-Translator: yfdyh000 <yfdyh000@gmail.com>\n"
+"PO-Revision-Date: 2015-10-23 15:34+0000\n"
+"Last-Translator: YFdyh000 <yfdyh000@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -33,7 +33,7 @@ msgstr "查找我的设备"
 
 #: app/index.html:45
 msgid "Locate a lost phone, lock it or even erase it remotely."
-msgstr "查找丢失的手机，将其锁定，甚至远程擦除。"
+msgstr "定位丢失的手机，将其锁定，甚至远程擦除。"
 
 #: app/index.html:48
 msgid "Sign in"
@@ -112,7 +112,7 @@ msgid ""
 msgstr ""
 "此内容的部分版权归属个别 mozilla.org 贡献者所有，©1998–2014。内容可在<a "
 "href='http://www.mozilla.org/foundation/licensing/website-"
-"content/'>知识共享许可证</a>下获得。"
+"content/'>知识共享许可证</a>下使用。"
 
 #: app/index.html:84
 msgid "Contact Us"
