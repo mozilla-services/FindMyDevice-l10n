@@ -1,0 +1,219 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-23 03:37+0000\n"
+"PO-Revision-Date: 2015-11-01 14:48+0000\n"
+"Last-Translator: Aman <amanpreet.alam@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pa_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1) ;\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1446389328.0\n"
+
+#: app/index.html:9
+msgid "Find My Device — Firefox OS — Mozilla"
+msgstr "ਮੇਰਾ ਯੰਤਰ ਲੱਭੋ — ਫਾਇਰਫਾਕਸ ਓ.ਸਿ. — ਮੋਜ਼ੀਲਾ"
+
+#: app/index.html:42
+msgid "mozilla"
+msgstr "ਮੋਜ਼ੀਲਾ"
+
+#: app/index.html:43
+msgid "Firefox OS"
+msgstr "ਫਾਇਰਫਾਕਸ ਓਐਸ"
+
+#: app/index.html:44
+msgid "Find My Device"
+msgstr "ਮੇਰਾ ਯੰਤਰ ਲੱਭੋ"
+
+#: app/index.html:45
+msgid "Locate a lost phone, lock it or even erase it remotely."
+msgstr "ਗੁਆਚਿਆਂ ਫੋਨ ਲੱਭੋ, ਲਾਕ ਕਰੋ ਜਾਂ ਇਸ ਨੂੰ ਦੂਰੋਂ ਹੀ ਸਾਫ਼ ਕਰੋ।"
+
+#: app/index.html:48
+msgid "Sign in"
+msgstr "ਸਾਇਨ ਇਨ"
+
+#: app/index.html:49
+msgid "Create a Firefox Account"
+msgstr "ਫਾਇਰਫਾਕਸ ਖਾਤਾ ਬਣਾਓ"
+
+#: app/index.html:51
+msgid ""
+"If you’ve lost your Firefox OS smartphone, Find My Device can help you find "
+"it. You can see it on a map, make it play a sound and have it display a "
+"message. You can also lock it for safety or delete your personal info "
+"completely."
+msgstr ""
+"ਜੇਕਰ ਤੁਹਾਡਾ firefox OS ਸਮਾਰਟਫੋਨ ਗੁੰਮ ਹੋ ਗਿਆ ਹੈ ਤਾਂ find my device ਤੁਹਾਡੀ ਮਦਦ "
+"ਕਰ ਸਕਦਾ ਹੈ । ਤੁਸੀਂ ਇਸਨੂੂੰ ਨਕਸ਼ੇ ਉਤੇ ਵੇਖ ਸਕਦੇ ਹੋ , ਕੋਈ ਸਾਊਂਡ ਚਲਾ ਸਕਦੇ ਹੋ ਅਤੇ "
+"ਇਹ ਸੁਨੇਹਾ ਵੀ ਦਿਖਾਉਂਦਾ ਹੈ । ਤੁਸੀਂ ਸੁਰੱਖਿਆ ਲਈ ਇਸ ਨੂੰ ਲੌਕ ਜਾਂ ਆਪਣੀ ਨਿੱਜੀ "
+"ਜਾਣਕਾਰੀ ਮਿਟਾ ਸਕਦੇ ਹੋ । "
+
+#: app/index.html:52
+msgid ""
+"To get started, make sure you have a Firefox Account and Find My Device "
+"enabled on your phone."
+msgstr ""
+"ਸ਼ੁਰੂ ਕਰੋ, ਕੀ ਤੁਹਾਡੇ ਕੋਲ ਯਕੀਨਨ ਫਾਇਰਫਾਕਸ ਖਾਤਾ ਹੈ ਅਤੇ ਮੇਰਾ ਯੰਤਰ ਲੱਭੋ ਯੋਗ ਕੀਤੀ "
+"ਹੋਈ ਹੈ ਤੁਹਾਡੇ ਫੋਨ ਵਿੱਚ"
+
+#: app/index.html:59
+msgid "Track"
+msgstr "ਟਰੈਕ ਕਰੋ"
+
+#: app/index.html:60
+msgid ""
+"As long as your phone remains on and connected to the Internet, you can see "
+"its location on the map."
+msgstr ""
+"ਜਿੰਨਾ ਸਮਾਂ ਤੁਹਾਡਾ ਫੋਨ ਚਾਲੂ ਅਤੇ ਇੰਟਰਨੈਟ ਨਾਲ ਸੰਪਰਕ ਵਿੱਚ ਰਹੇਗਾ , ਤੁਸੀਂ ਇਸਦੀ "
+"ਸਥਿਤੀ ਨਕਸ਼ੇ ਉਤੇ ਵੇਖ ਸਕਦੇ ਹੋ ।"
+
+#: app/index.html:63
+msgid "Ring"
+msgstr "ਘੰਟੀ"
+
+#: app/index.html:64
+msgid ""
+"If you see that it’s nearby on the map, you can make the phone ring, even "
+"if the ringer is set to silent."
+msgstr ""
+"ਜੇਕਰ ਤੁਸੀਂ ਨਕਸ਼ੇ ਉਤੇ ਇਸਨੂੰ ਨਜ਼ਦੀਕ ਦੇਖਦੇ ਹੋ , ਤਾਂ ਤੁਸੀਂ ਫੋਨ ਉਤੇ ਰਿੰਗ ਵਜਾ ਸਕਦੇ "
+"ਹੋ , ਭਾਵੇਂ ਰਿੰਗਰ silent ਉਤੇ ਸੈਟ ਹੋਵੇ ।"
+
+#: app/index.html:67
+msgid "Lock"
+msgstr "ਲਾਕ"
+
+#: app/index.html:68
+msgid ""
+"To protect your personal info, you can lock your screen and have it display "
+"a message to help someone return it to you."
+msgstr ""
+"ਅਾਪਣੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ, ਤੁਸੀਂ ਆਪਣੀ ਸਕਰੀਨ ਲੌਕ ਕਰ ਸਕਦੇ ਹੋ ਅਤੇ "
+"ਇਕ ਮੈਸੇਜ ਦਿਖਾਉਣ ਦਿਓ ਤਾਂ ਕਿ ਕੋਈ ਵੀ ਤੁਹਾਨੂੰ ਵਾਪਸ ਕਰ ਦੇਵੇ ।"
+
+#: app/index.html:71
+msgid "Erase"
+msgstr "ਸਾਫ਼ ਕਰੋ"
+
+#: app/index.html:72
+msgid ""
+"If you’re unable to find your phone, you can permanently erase it, but "
+"please note that this can not be undone."
+msgstr ""
+"ਜੇ ਤੁਸੀਂ ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਲੱਭਣ ਨਹੀਂ ਸਕਦੇ ਹੋ ਤਾਂ ਤੁਸੀਂ ਇਸ ਨੂੰ ਪੱਕੇ ਤੌਰ ਉੱਤੇ ਸਾਫ਼ "
+"ਕਰ ਸਕਦੇ ਹੋ, ਪਰ ਯਾਦ ਰੱਖੋ ਕਿ ਇਹ ਕਾਰਵਾਈ ਨੂੰ ਵਾਪਿਸ ਨਹੀਂ ਲਿਆ ਜਾ ਸਕਦਾ ਹੈ।"
+
+#: app/index.html:79
+msgid "Mozilla"
+msgstr "ਮੋਜ਼ੀਲਾ"
+
+#: app/index.html:80
+msgid ""
+"Portions of this content are ©1998–2014 by individual mozilla.org "
+"contributors. Content available under a <a "
+"href='http://www.mozilla.org/foundation/licensing/website-content/'>"
+"Creative Commons license</a>."
+msgstr ""
+"©1998–2014 ਦੇ ਵਿਸ਼ਾ-ਵਸਤੂ ਦੇ ਹਿੱਸੇ individual mozila.org ਦੇ ਸਹਾਇਕਾਂ ਦੁਆਰਾ "
+"ਦਿੱਤੇ ਹਨ । ਵਿਸ਼ਾ-ਵਸਤੂ<a href='http://www.mozilla.org/foundation/licensing"
+"/website-content/'>Creative Commons license</a>. ਦੇ ਅਧੀਨ ਉੁੁਪਲਬਧ ਹਨ  "
+
+#: app/index.html:84
+msgid "Contact Us"
+msgstr "ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ"
+
+#: app/index.html:85
+msgid "Partner with Us"
+msgstr "ਸਾਡੇ ਨਾਲ ਹਿੱਸੇਦਾਰ ਬਣੋ"
+
+#: app/index.html:86
+msgid "Donate"
+msgstr "ਦਾਨ ਦਿਓ"
+
+#: app/index.html:87
+msgid "Firefox Affiliates"
+msgstr "Firefox ਸ਼ਾਮਿਲ ਕਰਨਾ"
+
+#: app/index.html:88
+msgid "Contribute to this page"
+msgstr "ਇਹ ਸਫ਼ੇ ਲਈ ਯੋਗਦਾਨ ਦਿਓ"
+
+#: app/index.html:91
+msgid "Privacy"
+msgstr "ਪਰਦੇਦਾਰੀ"
+
+#: app/index.html:92
+msgid "Legal"
+msgstr "ਕਾਨੂੰਨੀ"
+
+#: app/index.html:93
+msgid "Report Trademark Abuse"
+msgstr "ਟਰੇਡਮਾਰਕ ਉਲੰਘਣ ਰਿਪੋਰਟ ਦਿਓ"
+
+#: app/index.html:99
+msgid "Mozilla:"
+msgstr "ਮੋਜ਼ੀਲਾ:"
+
+#: app/index.html:101
+#: app/index.html:108
+msgid "Twitter"
+msgstr "ਟਵਿੱਟਰ"
+
+#: app/index.html:102
+#: app/index.html:109
+msgid "Facebook"
+msgstr "ਫੇਸਬੁੱਕ"
+
+#: app/index.html:106
+msgid "Firefox:"
+msgstr "ਫਾਇਰਫਾਕਸ:"
+
+#: app/index.html:110
+msgid "YouTube"
+msgstr "ਯੂਟਿਊਬ"
+
+#~ msgid ""
+#~ "<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></"
+#~ "a>"
+#~ msgstr ""
+#~ "<a href=\"https://twitter.com/mozilla\"> ਟਵਿੱਟਰ<span> (@mozilla)</span></a>"
+
+#~ msgid ""
+#~ "<a href=\"https://www.facebook.com/mozilla\">Facebook<span> (Mozilla)</"
+#~ "span></a>"
+#~ msgstr ""
+#~ "<a href=\"https://www.facebook.com/mozilla\">ਫੇਸਬੁੱਕ<span> (Mozilla)</span></"
+#~ "a>"
+
+#~ msgid ""
+#~ "<a href=\"https://twitter.com/firefox\">Twitter<span> (@firefox)</span></"
+#~ "a>"
+#~ msgstr ""
+#~ "<a href=\"https://twitter.com/firefox\">ਟਵਿੱਟਰ<span> (@firefox)</span></a>"
+
+#~ msgid ""
+#~ "<a href=\"https://www.facebook.com/Firefox\">Facebook<span> (Firefox)</"
+#~ "span></a>"
+#~ msgstr ""
+#~ "<a href=\"https://www.facebook.com/Firefox\">ਫੇਸਬੁੱਕ<span> (Firefox)</span></"
+#~ "a>"
+
+#~ msgid ""
+#~ "<a href=\"https://www.youtube.com/firefoxchannel\">YouTube<span> "
+#~ "(firefoxchannel)</span></a>"
+#~ msgstr ""
+#~ "<a href=\"https://www.youtube.com/firefoxchannel\">ਯੂਟਿਊਬ<span> "
+#~ "(firefoxchannel)</span></a>"
+
+#~ msgid "Other languages:"
+#~ msgstr "ਹੋਰ ਭਾਸ਼ਾਵਾਂ:"
+
+#~ msgid "Go"
+#~ msgstr "ਜਾਓ"
