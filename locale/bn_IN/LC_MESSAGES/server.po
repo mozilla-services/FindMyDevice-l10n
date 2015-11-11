@@ -3,42 +3,45 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2014-11-24 17:30+0000\n"
+"Last-Translator: koustav <koustavsuny2009@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bn_IN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0-rc1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1416850236.0\n"
 
 #: app/index.html:9
 msgid "Find My Device — Firefox OS — Mozilla"
-msgstr ""
+msgstr "আমার ডিভাইস খুঁজুন — Firefox OS — Mozilla"
 
 #: app/index.html:42
 msgid "mozilla"
-msgstr ""
+msgstr "mozilla"
 
 #: app/index.html:43
 msgid "Firefox OS"
-msgstr ""
+msgstr "Firefox OS"
 
 #: app/index.html:44
 msgid "Find My Device"
-msgstr ""
+msgstr "আমার ডিভাইস অনুসন্ধান"
 
 #: app/index.html:45
 msgid "Locate a lost phone, lock it or even erase it remotely."
 msgstr ""
+"একটি হারিয়ে ফেলা ফোন খুঁজে বের করুন, দূর থেকে লক করে দিন কিমবা মুছে ফেলুন।"
 
 #: app/index.html:48
 msgid "Sign in"
-msgstr ""
+msgstr "সাইন ইন"
 
 #: app/index.html:49
 msgid "Create a Firefox Account"
-msgstr ""
+msgstr "একটি Firefox অ্যাকাউন্ট তৈরি করুন"
 
 #: app/index.html:51
 msgid ""
@@ -47,56 +50,73 @@ msgid ""
 "message. You can also lock it for safety or delete your personal info "
 "completely."
 msgstr ""
+"আপনি যদি আপনার Firefox OS স্মার্টফোন হারিয়ে ফেলে থাকেন, তাহলে আমার ডিভাইস "
+"অনুসন্ধান করুন আপনাকে তা ফিরে পেতে সাহায্য করতে পারে। আপনি একটি ম্যাপে এটিকে "
+"দেখতে পাবেন, এটিতে শব্দ করাতে অথবা বার্তা প্রদর্শিত করাতে পারেন। আপনার "
+"সুরক্ষার জন্য আপনি এটিকে লক করে দিতে পারেন অথবা আপনার ব্যক্তিগত তথ্য "
+"পুরোপুরিভাবে মুছে ফেলতে পারেন।"
 
 #: app/index.html:52
 msgid ""
 "To get started, make sure you have a Firefox Account and Find My Device "
 "enabled on your phone."
 msgstr ""
+"শুরু করার জন্য, আপনার একটি ফায়ারফক্স অ্যাকাউন্ট আছে কিনা তা নিশ্চিত করুন "
+"এবং আমার ডিভাইস অনুসন্ধান সক্রিয় করা আছে কিনা দেখুন।"
 
 #: app/index.html:59
 msgid "Track"
-msgstr ""
+msgstr "ট্র্যাক"
 
 #: app/index.html:60
 msgid ""
 "As long as your phone remains on and connected to the Internet, you can see "
 "its location on the map."
 msgstr ""
+"যতক্ষণ না আপনার ফোন অন আছে এবং ইন্টারনেটের সাথে সংযুক্ত রয়েছে, আপনি "
+"মানচিত্রে তার অবস্থান দেখতে পারেন।"
 
 #: app/index.html:63
 msgid "Ring"
-msgstr ""
+msgstr "রিং"
 
 #: app/index.html:64
 msgid ""
 "If you see that it’s nearby on the map, you can make the phone ring, even if "
 "the ringer is set to silent."
 msgstr ""
+"যদি আপনি এটি মানচিত্রে কাছাকাছি আছে এমন দেখেন তাহলে ফোন সাইলেন্টে থাকা "
+"স্বত্বেও ফোনে রিং করতে পারেন।"
 
 #: app/index.html:67
 msgid "Lock"
-msgstr ""
+msgstr "লক"
 
 #: app/index.html:68
 msgid ""
 "To protect your personal info, you can lock your screen and have it display "
 "a message to help someone return it to you."
 msgstr ""
+"আপনার ব্যক্তিগত তথ্য রক্ষা করার জন্য, আপনি আপনার পর্দা লক করতে পারেন এবং কেউ "
+"যাতে আপনাকে তা ফেরত দিতে সাহায্য করতে পারে তার জন্য একটি বার্তা প্রদর্শন "
+"করাতে পারেন।"
 
 #: app/index.html:71
 msgid "Erase"
-msgstr ""
+msgstr "মুছুন"
 
 #: app/index.html:72
 msgid ""
 "If you’re unable to find your phone, you can permanently erase it, but "
 "please note that this can not be undone."
 msgstr ""
+"যদি আপনি আপনার ফোন খুঁজে পেতে অসমর্থ হন, তাহলে আপনি এটি স্থায়ীভাবে মুছে "
+"ফেলতে পারেন, কিন্তু এটি পূর্বাবস্থায় আর ফেরানো যাবে না দয়া করে একথা মনে "
+"রাখবেন।"
 
 #: app/index.html:79
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: app/index.html:80
 msgid ""
@@ -104,55 +124,58 @@ msgid ""
 "contributors. Content available under a <a href='http://www.mozilla.org/"
 "foundation/licensing/website-content/'>Creative Commons license</a>."
 msgstr ""
+"এর কিছু অংশ ©1998–2014 স্বতন্ত্র mozilla.org অবদানকারীদের দ্বারা। অধীন "
+"উপলব্ধ বিষয়বস্তু <a href='http://www.mozilla.org/foundation/licensing"
+"/website-content/'>Creative Commons license</a>।"
 
 #: app/index.html:84
 msgid "Contact Us"
-msgstr ""
+msgstr "আমাদের সাথে যোগাযোগ করুন"
 
 #: app/index.html:85
 msgid "Partner with Us"
-msgstr ""
+msgstr "আমাদের সঙ্গে অংশীদার হন"
 
 #: app/index.html:86
 msgid "Donate"
-msgstr ""
+msgstr "দান করুন"
 
 #: app/index.html:87
 msgid "Firefox Affiliates"
-msgstr ""
+msgstr "Firefox Affiliates"
 
 #: app/index.html:88
 msgid "Contribute to this page"
-msgstr ""
+msgstr "এই পেজে অবদান রাখুন"
 
 #: app/index.html:91
 msgid "Privacy"
-msgstr ""
+msgstr "গোপনীয়তা"
 
 #: app/index.html:92
 msgid "Legal"
-msgstr ""
+msgstr "আইনানুগ"
 
 #: app/index.html:93
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "ট্রেডমার্ক অপব্যবহার সম্বন্ধে রিপোর্ট করুন"
 
 #: app/index.html:99
 msgid "Mozilla:"
-msgstr ""
+msgstr "Mozilla:"
 
 #: app/index.html:101 app/index.html:108
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: app/index.html:102 app/index.html:109
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: app/index.html:106
 msgid "Firefox:"
-msgstr ""
+msgstr "Firefox:"
 
 #: app/index.html:110
 msgid "YouTube"
-msgstr ""
+msgstr "YouTube"
