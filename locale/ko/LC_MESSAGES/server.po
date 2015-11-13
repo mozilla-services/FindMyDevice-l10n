@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: 2015-05-06 05:02\n"
+"PO-Revision-Date: 2015-11-13 02:22+0000\n"
 "Last-Translator: Hyeonseok Shin <hyeonseok@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -145,7 +145,7 @@ msgstr "상표권 침해 신고"
 
 #: app/index.html:99
 msgid "Mozilla:"
-msgstr ""
+msgstr "Mozilla:"
 
 #: app/index.html:101 app/index.html:108
 msgid "Twitter"
@@ -157,7 +157,7 @@ msgstr "페이스북"
 
 #: app/index.html:106
 msgid "Firefox:"
-msgstr ""
+msgstr "Firefox:"
 
 #: app/index.html:110
 msgid "YouTube"
