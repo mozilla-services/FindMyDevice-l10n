@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: 2015-06-02 16:53+0000\n"
+"PO-Revision-Date: 2015-11-14 00:18+0000\n"
 "Last-Translator: Marco Aurélio <ouesten@me.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -129,7 +129,7 @@ msgstr ""
 
 #: app/index.html:84
 msgid "Contact Us"
-msgstr "Contacte-nos"
+msgstr "Contato"
 
 #: app/index.html:85
 msgid "Partner with Us"
@@ -137,7 +137,7 @@ msgstr "Seja nosso parceiro"
 
 #: app/index.html:86
 msgid "Donate"
-msgstr "Doe"
+msgstr "Doações"
 
 #: app/index.html:87
 msgid "Firefox Affiliates"
