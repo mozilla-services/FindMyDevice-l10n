@@ -1,44 +1,48 @@
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-11-26 18:33+0000\n"
+"Last-Translator: mahirfarook <mahirfarook@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0-rc1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
 
 #: app/index.html:9
 msgid "Find My Device — Firefox OS — Mozilla"
-msgstr ""
+msgstr "എന്റെ ഡിവൈസ് കണ്ടെത്തുക — ഫയര്‍ഫോക്സ് OS — മോസില്ല"
 
 #: app/index.html:42
 msgid "mozilla"
-msgstr ""
+msgstr "മോസില്ല"
 
 #: app/index.html:43
 msgid "Firefox OS"
-msgstr ""
+msgstr "ഫയര്‍ഫോക്സ് OS"
 
 #: app/index.html:44
 msgid "Find My Device"
-msgstr ""
+msgstr "എന്റെ ഡിവൈസ് കണ്ടെത്തുക"
 
 #: app/index.html:45
 msgid "Locate a lost phone, lock it or even erase it remotely."
 msgstr ""
+"നഷ്ടപ്പെട്ട ഫോണ്‍ കണ്ടുപിടിക്കുക, പൂട്ടുക അല്ലെങ്കില്‍ വിദൂരമായി വിവരങ്ങള്‍ "
+"മായിച്ചുകളയുക."
 
 #: app/index.html:48
 msgid "Sign in"
-msgstr ""
+msgstr "പ്രവേശിക്കുക"
 
 #: app/index.html:49
 msgid "Create a Firefox Account"
-msgstr ""
+msgstr "ഒരു ഫയര്‍ഫോക്സ് അക്കൗണ്ട്‌ നിര്‍മ്മിക്കുക"
 
 #: app/index.html:51
 msgid ""
@@ -47,12 +51,19 @@ msgid ""
 "message. You can also lock it for safety or delete your personal info "
 "completely."
 msgstr ""
+"താങ്കളുടെ ഫയര്‍ഫോക്സ് OS സ്മാര്‍ട്ട്‌ഫോണ്‍ നഷ്ടപെട്ടിട്ടുണ്ടെങ്കില്‍, എന്‍റെ"
+" ഡിവൈസ് കണ്ടുപിടിക്കൂ ഉപയോഗിച്ച് താങ്കള്‍ക്ക് അത് കണ്ടെത്താം. താങ്കള്‍ക്ക് "
+"അത് ഒരു ഭൂപടത്തില്‍ കാണാം, അതില്‍ നിന്നും ഒരു ശബ്ദം പുറപ്പെടുവിക്കുകയും ഒരു "
+"സന്ദേശം കാണിപ്പിക്കുകയും ചെയ്യാം. താങ്കള്‍ക്ക് സുരക്ഷക്കായി പൂട്ടിവെക്കുവാനോ"
+" അല്ലെങ്കില്‍ സ്വകാര്യ വിവരങ്ങള്‍ പൂര്‍ണമായി മായ്ക്കുവാനോ കഴിയുന്നതാണ്."
 
 #: app/index.html:52
 msgid ""
 "To get started, make sure you have a Firefox Account and Find My Device "
 "enabled on your phone."
 msgstr ""
+"ആരംഭിക്കുവാനായി നിങ്ങള്‍ക്ക് ഒരു ഫയര്‍ഫോക്സ് അക്കൗണ്ട്‌ ഉണ്ടെന്നും എന്റെ "
+"ഡിവൈസ് കണ്ടെത്തൂ എന്നത് നിങ്ങളുടെ ഫോണില്‍ സജ്ജമാണെന്നും ഉറപ്പു വരുത്തുക."
 
 #: app/index.html:59
 msgid "Track"
@@ -70,8 +81,8 @@ msgstr ""
 
 #: app/index.html:64
 msgid ""
-"If you see that it’s nearby on the map, you can make the phone ring, even if "
-"the ringer is set to silent."
+"If you see that it’s nearby on the map, you can make the phone ring, even if"
+" the ringer is set to silent."
 msgstr ""
 
 #: app/index.html:67
@@ -101,8 +112,9 @@ msgstr ""
 #: app/index.html:80
 msgid ""
 "Portions of this content are ©1998–2014 by individual mozilla.org "
-"contributors. Content available under a <a href='http://www.mozilla.org/"
-"foundation/licensing/website-content/'>Creative Commons license</a>."
+"contributors. Content available under a <a "
+"href='http://www.mozilla.org/foundation/licensing/website-content/'>Creative"
+" Commons license</a>."
 msgstr ""
 
 #: app/index.html:84
@@ -123,36 +135,36 @@ msgstr ""
 
 #: app/index.html:88
 msgid "Contribute to this page"
-msgstr ""
+msgstr "ഈ താളിലേക്ക് സംഭാവന ചെയ്യുക"
 
 #: app/index.html:91
 msgid "Privacy"
-msgstr ""
+msgstr "സ്വകാര്യത"
 
 #: app/index.html:92
 msgid "Legal"
-msgstr ""
+msgstr "നിയമപരമായി"
 
 #: app/index.html:93
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "വ്യാപാരമുദ്രയുടെ ദുരുപയോഗം രേഖപ്പെടുത്തുക"
 
 #: app/index.html:99
 msgid "Mozilla:"
-msgstr ""
+msgstr "മോസില്ല:"
 
 #: app/index.html:101 app/index.html:108
 msgid "Twitter"
-msgstr ""
+msgstr "ട്വിറ്റെര്‍"
 
 #: app/index.html:102 app/index.html:109
 msgid "Facebook"
-msgstr ""
+msgstr "ഫേസ്ബുക്ക്"
 
 #: app/index.html:106
 msgid "Firefox:"
-msgstr ""
+msgstr "ഫയര്‍ഫോക്സ്:"
 
 #: app/index.html:110
 msgid "YouTube"
-msgstr ""
+msgstr "യുട്യൂബ്"

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: 2015-11-26 17:55+0000\n"
+"PO-Revision-Date: 2015-11-26 18:40+0000\n"
 "Last-Translator: mahirfarook <mahirfarook@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ml\n"
@@ -46,7 +46,7 @@ msgstr ""
 #: app/scripts/views/device.js:107
 msgid "An error occurred while trying to locate your device. Trying again..."
 msgstr ""
-"താങ്കളുടെ ഡിവൈസിന്‍റെ സ്ഥാനനിര്‍ണയം ചെയ്യാന്‍ ശ്രമിക്കുമ്പോള്‍ ഒരു തകരാര്‍ "
+"താങ്കളുടെ ഡിവൈസിന്റെ സ്ഥാന നിര്‍ണയം ചെയ്യാന്‍ ശ്രമിക്കുമ്പോള്‍ ഒരു തകരാര്‍ "
 "സംഭവിച്ചിട്ടുണ്ട്. വീണ്ടും ശ്രമിക്കുക..."
 
 #: app/scripts/views/device.js:112
