@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: 2015-11-26 13:50+0000\n"
+"PO-Revision-Date: 2015-11-26 17:55+0000\n"
 "Last-Translator: mahirfarook <mahirfarook@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ml\n"
@@ -109,92 +109,96 @@ msgstr "താങ്കളുടെ ഡിവൈസ് മായ്ക്കു�
 #: app/scripts/templates/erase.html:4
 msgid "Delete your contacts, media, messages and installed apps"
 msgstr ""
+"താങ്കളുടെ സമ്പര്‍ക്കങ്ങള്‍, മാധ്യമങ്ങള്‍, സന്ദേശങ്ങള്‍ കൂടാതെ ഇന്‍സ്റ്റോള്‍ "
+"ചെയ്ത ആപ്പുകള്‍ എന്നിവ ഒഴിവാക്കുക"
 
 #: app/scripts/templates/erase.html:5
 msgid "Restore the device to its factory settings"
-msgstr ""
+msgstr "ഡിവൈസ് അതിന്‍റെ ഫാക്ടറി ക്രമീകരണങ്ങളിലേക്ക് ആക്കുക"
 
 #: app/scripts/templates/erase.html:6
 msgid "Disable Find My Device"
-msgstr ""
+msgstr "എന്‍റെ ഡിവൈസ് കണ്ടെത്തൂ എന്നത് പ്രവര്‍ത്തന രഹിതമാക്കുക"
 
 #: app/scripts/templates/erase_confirmation.html:1
 msgid "Confirmation"
-msgstr ""
+msgstr "സ്ഥിരീകരണം"
 
 #: app/scripts/templates/erase_confirmation.html:2
 msgid "Are you sure you want to erase your device?"
-msgstr ""
+msgstr "താങ്കള്‍ തീര്‍ച്ചയായും താങ്കളുടെ ഡിവൈസ് മായ്ക്കുവാന്‍ ആഗ്രഹിക്കുണ്ടോ?"
 
 #: app/scripts/templates/erase_confirmation.html:3
 msgid "Cancel"
-msgstr ""
+msgstr "റദ്ദാക്കുക"
 
 #: app/scripts/templates/lost_mode.html:2
 #: app/scripts/templates/lost_mode.html:7
 #: app/scripts/templates/lost_mode_passcode.html:2
 #: app/scripts/templates/lost_mode_passcode.html:13
 msgid "Lock Device"
-msgstr ""
+msgstr "ഡിവൈസ് പൂട്ടുക"
 
 #: app/scripts/templates/lost_mode.html:3
 #: app/scripts/templates/lost_mode_passcode.html:3
 msgid "Step 1"
-msgstr ""
+msgstr "ഘട്ടം 1"
 
 #: app/scripts/templates/lost_mode.html:4
 #: app/scripts/templates/lost_mode_passcode.html:4
 msgid "Step 2"
-msgstr ""
+msgstr "ഘട്ടം 2"
 
 #: app/scripts/templates/lost_mode.html:5
 msgid "Enter a note to show on the device:"
-msgstr ""
+msgstr "ഡിവൈസില്‍ കാണിക്കുവാനായി ഒരു കുറിപ്പ് നല്‍കുക:"
 
 #: app/scripts/templates/lost_mode.html:6
 msgid "Note (optional)"
-msgstr ""
+msgstr "കുറിപ്പ് (നിര്‍ബന്ധമില്ലാത്തത്)"
 
 #: app/scripts/templates/lost_mode.html:9
 msgid "Next"
-msgstr ""
+msgstr "അടുത്തത്"
 
 #: app/scripts/templates/lost_mode_passcode.html:1
 msgid "Back"
-msgstr ""
+msgstr "പിറകോട്ട്"
 
 #: app/scripts/templates/lost_mode_passcode.html:5
 msgid "Enter a passcode to lock your device:"
-msgstr ""
+msgstr "താങ്കളുടെ ഡിവൈസ് പൂട്ടുവാന്‍ ഒരു രഹസ്യവാക്ക് നല്‍കുക:"
 
 #: app/scripts/templates/lost_mode_passcode.html:6
 #: app/scripts/templates/lost_mode_passcode.html:9
 msgid "Passcode is required."
-msgstr ""
+msgstr "രഹസ്യവാക്ക് ആവശ്യമാണ്."
 
 #: app/scripts/templates/lost_mode_passcode.html:7
 #: app/scripts/templates/lost_mode_passcode.html:10
 msgid "Passcode must be 4 digits."
-msgstr ""
+msgstr "രഹസ്യവാക്ക് 4 അക്കങ്ങള്‍ ആയിരിക്കണം."
 
 #: app/scripts/templates/lost_mode_passcode.html:8
 msgid "Enter passcode again:"
-msgstr ""
+msgstr "രഹസ്യവാക്ക് വീണ്ടും നല്‍കുക:"
 
 #: app/scripts/templates/lost_mode_passcode.html:11
 msgid "Passcodes must match."
-msgstr ""
+msgstr "രഹസ്യവാക്കുകള്‍ തമ്മില്‍ ചേര്‍ച്ച വേണം."
 
 #: app/scripts/templates/lost_mode_passcode.html:12
 msgid ""
 "Once your device is locked, you will not be able to change this code again."
 msgstr ""
+"ഒരിക്കല്‍ താങ്കളുടെ ഡിവൈസ് പൂട്ടിയാല്‍ വീണ്ടും ഈ രഹസ്യവാക്ക് മാറ്റുവാന്‍ "
+"കഴിയില്ല."
 
 #: app/scripts/templates/play_sound.html:2
 #: app/scripts/templates/play_sound.html:4
 msgid "Ring Device"
-msgstr ""
+msgstr "ഡിവൈസ് റിംങ്ങ് ചെയ്യുക"
 
 #: app/scripts/templates/play_sound.html:3
 msgid "Play a sound on your device to help you find it."
-msgstr ""
+msgstr "കണ്ടുപിടിക്കാന്‍ എളുപ്പത്തിനായി നിങ്ങളുടെ ഡിവൈസ് ശബ്ദിപ്പിക്കുക."
