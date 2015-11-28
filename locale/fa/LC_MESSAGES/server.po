@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: 2015-11-28 16:03+0000\n"
+"PO-Revision-Date: 2015-11-28 16:06+0000\n"
 "Last-Translator: amir_farsi <amir_farsi@ymail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fa\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: app/index.html:9
 msgid "Find My Device — Firefox OS — Mozilla"
-msgstr ""
+msgstr "دستگاه من را پیدا کن — سیستم عامل فایرفاکس— موزیلا"
 
 #: app/index.html:42
 msgid "mozilla"
@@ -33,6 +33,7 @@ msgstr "دستگاه من را پیدا کن"
 #: app/index.html:45
 msgid "Locate a lost phone, lock it or even erase it remotely."
 msgstr ""
+"یک تلفن گمشده را پیدا کرده، آن را قفل یا حتی آن را از راه دور پاک کنید."
 
 #: app/index.html:48
 msgid "Sign in"
@@ -58,7 +59,7 @@ msgstr ""
 
 #: app/index.html:59
 msgid "Track"
-msgstr ""
+msgstr "ردیابی"
 
 #: app/index.html:60
 msgid ""
@@ -138,7 +139,7 @@ msgstr "حقوقی"
 
 #: app/index.html:93
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "گزارش سوءاستفاده از علائم تجاری"
 
 #: app/index.html:99
 msgid "Mozilla:"
@@ -146,16 +147,16 @@ msgstr "موزیلا:"
 
 #: app/index.html:101 app/index.html:108
 msgid "Twitter"
-msgstr ""
+msgstr "توییتر"
 
 #: app/index.html:102 app/index.html:109
 msgid "Facebook"
-msgstr ""
+msgstr "فیسبوک"
 
 #: app/index.html:106
 msgid "Firefox:"
-msgstr ""
+msgstr "فایرفاکس:"
 
 #: app/index.html:110
 msgid "YouTube"
-msgstr ""
+msgstr "یوتیوب"
