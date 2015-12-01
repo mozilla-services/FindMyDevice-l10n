@@ -1,22 +1,23 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: FindMyDevice\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: 2014-10-25 15:13+0000\n"
-"Last-Translator: Wim <fryskefirefox@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: fy\n"
+"PO-Revision-Date: 2015-03-10 15:18+0000\n"
+"Last-Translator: Kevin <kscanne@gmail.com>\n"
+"Language-Team: Irish\n"
+"Language: ga_IE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n<11 ? 3 : "
+"4;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1414250001.0\n"
+"X-POOTLE-MTIME: 1426000681.0\n"
 
 #: app/index.html:9
 msgid "Find My Device — Firefox OS — Mozilla"
-msgstr "Find My Device – Firefox OS – Mozilla"
+msgstr "Aimsigh Mo Ghléas — Firefox OS — Mozilla"
 
 #: app/index.html:42
 msgid "mozilla"
@@ -28,19 +29,19 @@ msgstr "Firefox OS"
 
 #: app/index.html:44
 msgid "Find My Device"
-msgstr "Find My Device"
+msgstr "Aimsigh Mo Ghléas"
 
 #: app/index.html:45
 msgid "Locate a lost phone, lock it or even erase it remotely."
-msgstr "Fyn, beskoattel of wiskje in ferlerne telefoan op ôfstân."
+msgstr "Aimsigh guthán caillte, agus cuir faoi ghlas nó léirscrios é."
 
 #: app/index.html:48
 msgid "Sign in"
-msgstr "Oanmelde"
+msgstr "Logáil isteach"
 
 #: app/index.html:49
 msgid "Create a Firefox Account"
-msgstr "In Firefox-account oanmeitjse"
+msgstr "Cruthaigh Cuntas Firefox"
 
 #: app/index.html:51
 msgid ""
@@ -49,67 +50,68 @@ msgid ""
 "message. You can also lock it for safety or delete your personal info "
 "completely."
 msgstr ""
-"As jo jo Firefox OS-snoadfoan ferlern binne, kin Find My Device jo helpe mei "
-"finen. Jo kinne it sjen op in kaart, in lûd ôfspylje en in berjocht werjaan "
-"litte. Ek kinne jo it om 'e wille fan feilichheid beskoattelje of jo "
-"persoanlike gegevens folslein fuortsmite."
+"Má chailleann tú do ghuthán Firefox OS, is féidir leat Aimsigh Mo Ghléas a "
+"úsáid chun teacht air arís. Beidh tú in ann é a fheiceáil ar léarscáil, "
+"fuaim a sheinm air, agus teachtaireacht a thaispeáint air. Nó, is féidir é a "
+"chur faoi ghlas agus do chuid faisnéise pearsanta a scriosadh, ar eagla na "
+"heagla."
 
 #: app/index.html:52
 msgid ""
 "To get started, make sure you have a Firefox Account and Find My Device "
 "enabled on your phone."
 msgstr ""
-"Soargje derfoar dat jo in Firefox-account hawwe en dat jo Find My Device ynskeakele "
-"hawwe op jo telefoan."
+"I dtosach báire, bí cinnte go bhfuil Cuntas Firefox agat, agus go bhfuil "
+"Aimsigh Mo Ghléas ar siúl ar an nguthán."
 
 #: app/index.html:59
 msgid "Track"
-msgstr "Folgjen"
+msgstr "Rianaigh"
 
 #: app/index.html:60
 msgid ""
 "As long as your phone remains on and connected to the Internet, you can see "
 "its location on the map."
 msgstr ""
-"Salang jo telefoan oan bliuwt en mei it ynternet ferbûn is, kinne jo de "
-"lokaasje derfan op de kaart sjen."
+"Fad a bheidh do ghuthán ar siúl agus ceangailte leis an Idirlíon, beidh tú "
+"in ann é a fheiceáil ar an léarscáil."
 
 #: app/index.html:63
 msgid "Ring"
-msgstr "Belle"
+msgstr "Cling"
 
 #: app/index.html:64
 msgid ""
 "If you see that it’s nearby on the map, you can make the phone ring, even if "
 "the ringer is set to silent."
 msgstr ""
-"As jo op de kaart sjogge dat it yn de buert is, kinne jo de telefoan oergean "
-"litte, sels as it belsinjaal op stil ynsteld is."
+"Má tá an guthán i ngar duit ar an léarscáil, is féidir leat fuaim a sheinm "
+"air, fiú má tá an clingire i dtost."
 
 #: app/index.html:67
 msgid "Lock"
-msgstr "Beskoattelje"
+msgstr "Cuir Faoi Ghlas"
 
 #: app/index.html:68
 msgid ""
 "To protect your personal info, you can lock your screen and have it display "
 "a message to help someone return it to you."
 msgstr ""
-"Om jo persoanlike gegevens te besermen kinne jo jo skerm beskoattellje en "
-"in berjocht werjaan litte om ien te helpen de telefoan werom te "
-"besoargjen."
+"Chun do chuid faisnéise pearsanta a chosaint, is féidir leat an scáileán a "
+"chur faoi ghlas agus teachtaireacht a thaispeáint a chuideoidh le duine "
+"éigin an guthán a thabhairt ar ais duit."
 
 #: app/index.html:71
 msgid "Erase"
-msgstr "Wiskje"
+msgstr "Bánaigh"
 
 #: app/index.html:72
 msgid ""
 "If you’re unable to find your phone, you can permanently erase it, but "
 "please note that this can not be undone."
 msgstr ""
-"As jo jo telefoan net fine kinne, kinne jo it definityf wiskje, mar hâld "
-"der rekkening mei dat dit net ûngedien makke wurde kin."
+"Mura bhfuil tú in ann do ghuthán a aimsiú, is féidir leat é a léirscriosadh "
+"go deo. Tabhair faoi deara nach mbeidh tú in ann dul siar air seo."
 
 #: app/index.html:79
 msgid "Mozilla"
@@ -121,42 +123,42 @@ msgid ""
 "contributors. Content available under a <a href='http://www.mozilla.org/"
 "foundation/licensing/website-content/'>Creative Commons license</a>."
 msgstr ""
-"Dielen fan dizze ynhâld binne ©1998–2014 troch yndividuele mozilla.org-"
-"meiwurkers. Ynhâld is beskikber ûnder in <a "
-"href='http://www.mozilla.org/foundation/licensing/website-content/'>Creative "
-"Commons-lisinsje</a>."
+"Codanna faoi chóipcheart ©1998–2014 Rannpháirtithe mozilla.org. Tá an "
+"t-ábhar seo ar fáil de réir téarmaí <a "
+"href='http://www.mozilla.org/foundation/licensing/website-"
+"content/'>Cheadúnas Creative Commons</a>."
 
 #: app/index.html:84
 msgid "Contact Us"
-msgstr "Kontakt"
+msgstr "Teagmháil"
 
 #: app/index.html:85
 msgid "Partner with Us"
-msgstr "Partner wurde"
+msgstr "Comhpháirtíocht"
 
 #: app/index.html:86
 msgid "Donate"
-msgstr "Donearje"
+msgstr "Bronntanais"
 
 #: app/index.html:87
 msgid "Firefox Affiliates"
-msgstr "Firefox Affiliates"
+msgstr "Cleamhnaithe Firefox"
 
 #: app/index.html:88
 msgid "Contribute to this page"
-msgstr "Bydrage oan dizze side"
+msgstr "Cuir feabhas ar an leathanach seo"
 
 #: app/index.html:91
 msgid "Privacy"
-msgstr "Privacy"
+msgstr "Príobháideacht"
 
 #: app/index.html:92
 msgid "Legal"
-msgstr "Juridysk"
+msgstr "Cúrsaí Dlí"
 
 #: app/index.html:93
 msgid "Report Trademark Abuse"
-msgstr "Misbrûk fan hannelsmerk melde"
+msgstr "Drochúsáid Trádmharcanna"
 
 #: app/index.html:99
 msgid "Mozilla:"
@@ -214,7 +216,7 @@ msgstr "YouTube"
 #~ "(firefoxchannel)</span></a>"
 
 #~ msgid "Other languages:"
-#~ msgstr "Oare talen:"
+#~ msgstr "Teangacha eile:"
 
 #~ msgid "Go"
-#~ msgstr "Gean"
+#~ msgstr "Téigh"

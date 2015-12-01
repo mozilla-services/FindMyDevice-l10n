@@ -1,61 +1,65 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: FindMyDevice\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: 2014-10-21 05:00-0500\n"
-"Last-Translator: Kevin Scannell <kscanne@gmail.com>\n"
-"Language-Team: Irish\n"
-"Language: ga\n"
+"PO-Revision-Date: 2014-10-23 09:01+0000\n"
+"Last-Translator: Wim <fryskefirefox@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fy_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0-rc1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1414054918.0\n"
 
 #: app/scripts/views/device.js:83
 msgid "Your device is erasing."
-msgstr "Do ghléas á léirscriosadh."
+msgstr "Jo apparaat wurdt wiske."
 
 #: app/scripts/views/device.js:85
 msgid "An error occurred while trying to erase your device."
-msgstr "Tharla earráid agus do ghléas á léirscriosadh."
+msgstr "Der is in flater bard by it wiskjen fan jo apparaat."
 
 #: app/scripts/views/device.js:91
 msgid "Your device is locked."
-msgstr "Tá do ghléas faoi ghlas."
+msgstr "Jo apparaat is beskoattele."
 
 #: app/scripts/views/device.js:93
 msgid "An error occurred while trying to lock your device."
-msgstr "Tharla earráid agus do ghléas á chur faoi ghlas."
+msgstr "Der is in flater bard by it beskoatteljen fan jo apparaat."
 
 #: app/scripts/views/device.js:99
 msgid "Your device is ringing."
-msgstr "Tá do ghléas ag clingeadh."
+msgstr "Jo apparaat giet oer."
 
 #: app/scripts/views/device.js:101
 msgid "An error occurred while trying to ring your device."
-msgstr "Tharla earráid agus do ghléas á chlingeadh."
+msgstr "Der is in flater bard by it oergean litten fan jo apparaat."
 
 #: app/scripts/views/device.js:107
 msgid "An error occurred while trying to locate your device. Trying again..."
-msgstr "Tharla earráid agus do ghléas á aimsiú. Ag déanamh iarracht eile..."
+msgstr ""
+"Der is in flater bard by it lokalisearjen fan jo apparaat. Opnij "
+"probearje…"
 
 #: app/scripts/views/device.js:112
 msgid "Locating device..."
-msgstr "Gléas á aimsiú..."
+msgstr "Apparaat lokalisearje…"
 
 #: app/scripts/templates/device.html:1
 msgid "Menu"
-msgstr "Roghchlár"
+msgstr "Menu"
 
 #: app/scripts/templates/device.html:2
 #: app/scripts/templates/device_not_found.html:3
 msgid "Sign out"
-msgstr "Logáil Amach"
+msgstr "Ofmelde"
 
 #: app/scripts/templates/device.html:3
 msgid "Connecting to device..."
-msgstr "Ag ceangal leis an ngléas..."
+msgstr "Ferbine mei apparaat…"
 
 #: app/scripts/templates/device.html:4
 msgid "Firefox OS"
@@ -63,130 +67,128 @@ msgstr "Firefox OS"
 
 #: app/scripts/templates/device.html:5
 msgid "Ring"
-msgstr "Cling"
+msgstr "Belle"
 
 #: app/scripts/templates/device.html:6
 msgid "Lock"
-msgstr "Cuir Faoi Ghlas"
+msgstr "Beskoattelje"
 
 #: app/scripts/templates/device.html:7
 #: app/scripts/templates/erase_confirmation.html:4
 msgid "Erase"
-msgstr "Léirscrios"
+msgstr "Wiskje"
 
 #: app/scripts/templates/device_not_found.html:1
 msgid "Sorry but you don't have any devices."
-msgstr "Níl aon ghléasanna agat."
+msgstr "Sorry, mar jo hawwe gjin apparaten."
 
 #: app/scripts/templates/device_not_found.html:2
 msgid "Enable Find My Device on your Firefox OS device."
-msgstr "Cumasaigh 'Aimsigh Mo Ghléas' ar do ghléas Firefox OS."
+msgstr "Skeakel Find My Device yn op jo Firefox OS-apparaat."
 
 #: app/scripts/templates/erase.html:1 app/scripts/templates/lost_mode.html:1
 #: app/scripts/templates/play_sound.html:1
 msgid "Close"
-msgstr "Dún"
+msgstr "Slute"
 
 #: app/scripts/templates/erase.html:2 app/scripts/templates/erase.html:7
 msgid "Erase Device"
-msgstr "Léirscrios an Gléas"
+msgstr "Apparaat wiskje"
 
 #: app/scripts/templates/erase.html:3
 msgid "Erasing your device will:"
-msgstr "Má léirscriosann tú do ghléas:"
+msgstr "Wiskjen fan jo apparaat sil:"
 
 #: app/scripts/templates/erase.html:4
 msgid "Delete your contacts, media, messages and installed apps"
-msgstr ""
-"Scriosfar do chuid teagmhálaithe, meán, teachtaireachtaí, agus aipeanna"
+msgstr "Jo kontakten, media, berjochten en ynstallearre apps fuortsmite"
 
 #: app/scripts/templates/erase.html:5
 msgid "Restore the device to its factory settings"
-msgstr "Fillfear ar réamhshocruithe an ghléis"
+msgstr "It apparaat tebeksette nei de fabryksynstellingen"
 
 #: app/scripts/templates/erase.html:6
 msgid "Disable Find My Device"
-msgstr "Díchumasófar 'Aimsigh Mo Ghléas'"
+msgstr "Find My Device útskeakelje"
 
 #: app/scripts/templates/erase_confirmation.html:1
 msgid "Confirmation"
-msgstr "Deimhniú"
+msgstr "Befêstiging"
 
 #: app/scripts/templates/erase_confirmation.html:2
 msgid "Are you sure you want to erase your device?"
-msgstr "An bhfuil tú cinnte gur mhaith leat do ghléas a léirscriosadh?"
+msgstr "Binne jo wis dat jo jo apparaat wiskje wolle?"
 
 #: app/scripts/templates/erase_confirmation.html:3
 msgid "Cancel"
-msgstr "Cealaigh"
+msgstr "Annulearje"
 
 #: app/scripts/templates/lost_mode.html:2
 #: app/scripts/templates/lost_mode.html:7
 #: app/scripts/templates/lost_mode_passcode.html:2
 #: app/scripts/templates/lost_mode_passcode.html:13
 msgid "Lock Device"
-msgstr "Cuir an Gléas Faoi Ghlas"
+msgstr "Apparaat beskoattelje"
 
 #: app/scripts/templates/lost_mode.html:3
 #: app/scripts/templates/lost_mode_passcode.html:3
 msgid "Step 1"
-msgstr "Céim 1"
+msgstr "Stap 1"
 
 #: app/scripts/templates/lost_mode.html:4
 #: app/scripts/templates/lost_mode_passcode.html:4
 msgid "Step 2"
-msgstr "Céim 2"
+msgstr "Stap 2"
 
 #: app/scripts/templates/lost_mode.html:5
 msgid "Enter a note to show on the device:"
-msgstr "Cuir isteach nóta le taispeáint ar an ngléas:"
+msgstr "Fier in tekst yn om op it apparaat te toanen:"
 
 #: app/scripts/templates/lost_mode.html:6
 msgid "Note (optional)"
-msgstr "Nóta (roghnach)"
+msgstr "Tekst (opsjoneel)"
 
 #: app/scripts/templates/lost_mode.html:9
 msgid "Next"
-msgstr "Ar Aghaidh"
+msgstr "Folgjende"
 
 #: app/scripts/templates/lost_mode_passcode.html:1
 msgid "Back"
-msgstr "Siar"
+msgstr "Tebek"
 
 #: app/scripts/templates/lost_mode_passcode.html:5
 msgid "Enter a passcode to lock your device:"
-msgstr "Cuir cód faire isteach chun do ghléas a chur faoi ghlas:"
+msgstr "Fier in wachtwurdkoade yn om jo apparaat te beskoatteljen:"
 
 #: app/scripts/templates/lost_mode_passcode.html:6
 #: app/scripts/templates/lost_mode_passcode.html:9
 msgid "Passcode is required."
-msgstr "Caithfidh tú an cód faire a chur isteach."
+msgstr "Wachtwurdkoade is fereaske."
 
 #: app/scripts/templates/lost_mode_passcode.html:7
 #: app/scripts/templates/lost_mode_passcode.html:10
 msgid "Passcode must be 4 digits."
-msgstr "Ní mór 4 dhigit a bheith sa chód faire."
+msgstr "Wachtwurdkoade moat út 4 sifers bestean."
 
 #: app/scripts/templates/lost_mode_passcode.html:8
 msgid "Enter passcode again:"
-msgstr "Cuir an cód faire isteach arís:"
+msgstr "Fier wachtwurdkoade nochris yn:"
 
 #: app/scripts/templates/lost_mode_passcode.html:11
 msgid "Passcodes must match."
-msgstr "Ní ionann na cóid fhaire."
+msgstr "Wachtwurdkoades moatte oerienkomme."
 
 #: app/scripts/templates/lost_mode_passcode.html:12
 msgid ""
 "Once your device is locked, you will not be able to change this code again."
 msgstr ""
-"Nuair a bheidh do ghléas faoi ghlas, ní bheidh tú in ann an cód seo a athrú "
-"arís."
+"As jo apparaat ien kear beskoattele is, kinne jo dizze koade net mear wizigje."
 
 #: app/scripts/templates/play_sound.html:2
 #: app/scripts/templates/play_sound.html:4
 msgid "Ring Device"
-msgstr "Cling an Gléas"
+msgstr "Apparaat belle"
 
 #: app/scripts/templates/play_sound.html:3
 msgid "Play a sound on your device to help you find it."
-msgstr "Seinn fuaim ar do ghléas chun cuidiú leat é a aimsiú."
+msgstr "In lûd op jo apparaat ôfspylje om it helpe te finen."
