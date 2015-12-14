@@ -1,18 +1,18 @@
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: FindMyDevice\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: 2015-03-10 15:18+0000\n"
-"Last-Translator: Kevin <kscanne@gmail.com>\n"
+"PO-Revision-Date: 2015-12-14 20:34+0000\n"
+"Last-Translator: kscanne <kscanne@gmail.com>\n"
 "Language-Team: Irish\n"
 "Language: ga_IE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n<11 ? 3 : "
-"4;\n"
-"X-Generator: Pootle 2.5.0\n"
+"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n<11 ? 3 : 4;\n"
+"X-Generator: Pontoon\n"
 "X-POOTLE-MTIME: 1426000681.0\n"
 
 #: app/index.html:9
@@ -52,8 +52,8 @@ msgid ""
 msgstr ""
 "Má chailleann tú do ghuthán Firefox OS, is féidir leat Aimsigh Mo Ghléas a "
 "úsáid chun teacht air arís. Beidh tú in ann é a fheiceáil ar léarscáil, "
-"fuaim a sheinm air, agus teachtaireacht a thaispeáint air. Nó, is féidir é a "
-"chur faoi ghlas agus do chuid faisnéise pearsanta a scriosadh, ar eagla na "
+"fuaim a sheinm air, agus teachtaireacht a thaispeáint air. Nó, is féidir é a"
+" chur faoi ghlas agus do chuid faisnéise pearsanta a scriosadh, ar eagla na "
 "heagla."
 
 #: app/index.html:52
@@ -66,7 +66,7 @@ msgstr ""
 
 #: app/index.html:59
 msgid "Track"
-msgstr "Rianaigh"
+msgstr "Lorg"
 
 #: app/index.html:60
 msgid ""
@@ -82,8 +82,8 @@ msgstr "Cling"
 
 #: app/index.html:64
 msgid ""
-"If you see that it’s nearby on the map, you can make the phone ring, even if "
-"the ringer is set to silent."
+"If you see that it’s nearby on the map, you can make the phone ring, even if"
+" the ringer is set to silent."
 msgstr ""
 "Má tá an guthán i ngar duit ar an léarscáil, is féidir leat fuaim a sheinm "
 "air, fiú má tá an clingire i dtost."
@@ -103,7 +103,7 @@ msgstr ""
 
 #: app/index.html:71
 msgid "Erase"
-msgstr "Bánaigh"
+msgstr "Léirscrios"
 
 #: app/index.html:72
 msgid ""
@@ -120,8 +120,9 @@ msgstr "Mozilla"
 #: app/index.html:80
 msgid ""
 "Portions of this content are ©1998–2014 by individual mozilla.org "
-"contributors. Content available under a <a href='http://www.mozilla.org/"
-"foundation/licensing/website-content/'>Creative Commons license</a>."
+"contributors. Content available under a <a "
+"href='http://www.mozilla.org/foundation/licensing/website-content/'>Creative"
+" Commons license</a>."
 msgstr ""
 "Codanna faoi chóipcheart ©1998–2014 Rannpháirtithe mozilla.org. Tá an "
 "t-ábhar seo ar fáil de réir téarmaí <a "
@@ -150,7 +151,7 @@ msgstr "Cuir feabhas ar an leathanach seo"
 
 #: app/index.html:91
 msgid "Privacy"
-msgstr "Príobháideacht"
+msgstr "Príobháideachas"
 
 #: app/index.html:92
 msgid "Legal"
@@ -181,32 +182,28 @@ msgid "YouTube"
 msgstr "YouTube"
 
 #~ msgid ""
-#~ "<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></"
-#~ "a>"
+#~ "<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></a>"
 #~ msgstr ""
-#~ "<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></"
-#~ "a>"
+#~ "<a href=\"https://twitter.com/mozilla\">Twitter<span> (@mozilla)</span></a>"
 
 #~ msgid ""
-#~ "<a href=\"https://www.facebook.com/mozilla\">Facebook<span> (Mozilla)</"
-#~ "span></a>"
+#~ "<a href=\"https://www.facebook.com/mozilla\">Facebook<span> "
+#~ "(Mozilla)</span></a>"
 #~ msgstr ""
-#~ "<a href=\"https://www.facebook.com/mozilla\">Facebook<span> (Mozilla)</"
-#~ "span></a>"
+#~ "<a href=\"https://www.facebook.com/mozilla\">Facebook<span> "
+#~ "(Mozilla)</span></a>"
 
 #~ msgid ""
-#~ "<a href=\"https://twitter.com/firefox\">Twitter<span> (@firefox)</span></"
-#~ "a>"
+#~ "<a href=\"https://twitter.com/firefox\">Twitter<span> (@firefox)</span></a>"
 #~ msgstr ""
-#~ "<a href=\"https://twitter.com/firefox\">Twitter<span> (@firefox)</span></"
-#~ "a>"
+#~ "<a href=\"https://twitter.com/firefox\">Twitter<span> (@firefox)</span></a>"
 
 #~ msgid ""
-#~ "<a href=\"https://www.facebook.com/Firefox\">Facebook<span> (Firefox)</"
-#~ "span></a>"
+#~ "<a href=\"https://www.facebook.com/Firefox\">Facebook<span> "
+#~ "(Firefox)</span></a>"
 #~ msgstr ""
-#~ "<a href=\"https://www.facebook.com/Firefox\">Facebook<span> (Firefox)</"
-#~ "span></a>"
+#~ "<a href=\"https://www.facebook.com/Firefox\">Facebook<span> "
+#~ "(Firefox)</span></a>"
 
 #~ msgid ""
 #~ "<a href=\"https://www.youtube.com/firefoxchannel\">YouTube<span> "
