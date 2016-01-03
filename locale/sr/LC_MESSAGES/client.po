@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: 2015-09-19 12:03+0000\n"
+"PO-Revision-Date: 2016-01-03 15:07+0000\n"
 "Last-Translator: Vanja Tumbas <tumbas93@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sr\n"
@@ -97,7 +97,7 @@ msgstr "Избриши уређај"
 
 #: app/scripts/templates/erase.html:3
 msgid "Erasing your device will:"
-msgstr "Брисање Вашег уређаја ће:"
+msgstr "Брисање вашег уређаја ће:"
 
 #: app/scripts/templates/erase.html:4
 msgid "Delete your contacts, media, messages and installed apps"
