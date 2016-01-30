@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: 2015-07-02 18:24:38.479388\n"
+"PO-Revision-Date: 2015-06-07 18:26+0000\n"
 "Last-Translator: Marco Aurélio <ouesten@me.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 #: app/scripts/views/device.js:83
 msgid "Your device is erasing."
-msgstr "Seu dispositivo está sendo apagado."
+msgstr "Apagando seu dispositivo."
 
 #: app/scripts/views/device.js:85
 msgid "An error occurred while trying to erase your device."
