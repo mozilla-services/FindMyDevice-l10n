@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-14 03:30+0000\n"
-"PO-Revision-Date: 2015-11-23 16:42+0000\n"
-"Last-Translator: amir_farsi <amir_farsi@ymail.com>\n"
+"PO-Revision-Date: 2016-02-01 14:31+0000\n"
+"Last-Translator: Arash Mousavi <mousavi.arash@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -62,7 +62,7 @@ msgstr "در حال اتصال به دستگاه..."
 
 #: app/scripts/templates/device.html:4
 msgid "Firefox OS"
-msgstr ""
+msgstr "Firefox OS"
 
 #: app/scripts/templates/device.html:5
 msgid "Ring"
@@ -96,7 +96,7 @@ msgstr "پاک کردن دستگاه"
 
 #: app/scripts/templates/erase.html:3
 msgid "Erasing your device will:"
-msgstr ""
+msgstr "پاک کردن دستگاه شما می‌تواند:"
 
 #: app/scripts/templates/erase.html:4
 msgid "Delete your contacts, media, messages and installed apps"

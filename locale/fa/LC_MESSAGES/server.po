@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-10-23 03:37+0000\n"
-"PO-Revision-Date: 2015-11-28 16:06+0000\n"
+"PO-Revision-Date: 2015-11-28 16:02+0000\n"
 "Last-Translator: amir_farsi <amir_farsi@ymail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fa\n"
@@ -69,7 +69,7 @@ msgstr ""
 
 #: app/index.html:63
 msgid "Ring"
-msgstr ""
+msgstr "زنگ زدن"
 
 #: app/index.html:64
 msgid ""
